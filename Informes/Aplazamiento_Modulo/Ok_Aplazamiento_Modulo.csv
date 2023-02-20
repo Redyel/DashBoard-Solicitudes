@@ -1,0 +1,180 @@
+Index,Radicado,Fecha de Radicado,Fecha Seguimiento,Dependencia Seguimiento,demora,Estado Solicitud,Sede en la que estudia actualmente,Motivo por el cual hace esta solicitud ,Usuario Seguimiento,Estado Seguimiento,Hora
+0,61369,2023-01-30,2023-01-30,Rectoría,0,Aprobada,CHAPINERO - BOGOTÁ,Laborales,Leon Hernandez Camila Andrea,En Proceso,2023-01-30 15:49:05.373
+1,61369,2023-01-30,2023-01-30,Rectoría,0,Aprobada,CHAPINERO - BOGOTÁ,Laborales,Leon Hernandez Camila Andrea,Procesada,2023-01-30 16:37:21.280
+2,61369,2023-01-30,2023-01-30,Rectoría,0,Aprobada,CHAPINERO - BOGOTÁ,Laborales,Leon Hernandez Camila Andrea,Procesada,2023-01-30 17:24:08.290
+3,61369,2023-01-30,2023-01-30,Vicepresidencia Administrativa y Financiera,0,Aprobada,CHAPINERO - BOGOTÁ,Laborales,Zamora Bohorquez Olga Rocio,En Proceso,2023-01-30 17:37:06.127
+4,61369,2023-01-30,2023-01-31,Vicepresidencia Administrativa y Financiera,1,Aprobada,CHAPINERO - BOGOTÁ,Laborales,Lesmes Quintero Paola Andrea,En Proceso,2023-01-31 15:18:42.233
+5,61369,2023-01-30,2023-01-31,Vicepresidencia Administrativa y Financiera,0,Aprobada,CHAPINERO - BOGOTÁ,Laborales,Zamora Bohorquez Olga Rocio,Aprobada,2023-01-31 15:32:48.717
+6,61414,2023-01-30,2023-01-31,Vicepresidencia Administrativa y Financiera,1,Aprobada,CHAPINERO - BOGOTÁ,Laborales,Lesmes Quintero Paola Andrea,En Proceso,2023-01-31 17:18:45.107
+7,61414,2023-01-30,2023-01-31,Dirección Financiera,0,Aprobada,CHAPINERO - BOGOTÁ,Laborales,Zamora Bohorquez Olga Rocio,Procesada,2023-01-31 16:56:53.523
+8,61414,2023-01-30,2023-01-31,Vicepresidencia Administrativa y Financiera,0,Aprobada,CHAPINERO - BOGOTÁ,Laborales,Zamora Bohorquez Olga Rocio,Aprobada,2023-01-31 17:46:56.227
+9,61414,2023-01-30,2023-01-31,Rectoría,0,Aprobada,CHAPINERO - BOGOTÁ,Laborales,Leon Hernandez Camila Andrea,En Proceso,2023-01-31 11:04:15.603
+10,61414,2023-01-30,2023-01-31,Rectoría,0,Aprobada,CHAPINERO - BOGOTÁ,Laborales,Leon Hernandez Camila Andrea,Procesada,2023-01-31 16:10:59.190
+11,61429,2023-01-30,2023-01-31,Rectoría,1,Rechazada,CHAPINERO - BOGOTÁ,Laborales,Leon Hernandez Camila Andrea,En Proceso,2023-01-31 11:04:26.337
+12,61429,2023-01-30,2023-01-31,Rectoría,0,Rechazada,CHAPINERO - BOGOTÁ,Laborales,Leon Hernandez Camila Andrea,Rechazada,2023-01-31 15:32:18.817
+13,61504,2023-01-31,2023-02-01,Rectoría,1,Aprobada,CHAPINERO - BOGOTÁ,Laborales,Leon Hernandez Camila Andrea,En Proceso,2023-02-01 09:12:37.887
+14,61504,2023-01-31,2023-02-01,Rectoría,0,Aprobada,CHAPINERO - BOGOTÁ,Laborales,Leon Hernandez Camila Andrea,Procesada,2023-02-01 16:41:59.623
+15,61504,2023-01-31,2023-02-01,Dirección Financiera,0,Aprobada,CHAPINERO - BOGOTÁ,Laborales,Zamora Bohorquez Olga Rocio,Procesada,2023-02-01 17:15:57.630
+16,61504,2023-01-31,2023-02-02,Vicepresidencia Administrativa y Financiera,1,Aprobada,CHAPINERO - BOGOTÁ,Laborales,Lesmes Quintero Paola Andrea,En Proceso,2023-02-02 09:53:24.353
+17,61504,2023-01-31,2023-02-02,Vicepresidencia Administrativa y Financiera,0,Aprobada,CHAPINERO - BOGOTÁ,Laborales,Zamora Bohorquez Olga Rocio,Aprobada,2023-02-02 11:32:00.657
+18,61570,2023-01-31,2023-02-01,Rectoría,1,Aprobada,CHAPINERO - BOGOTÁ,Laborales,Leon Hernandez Camila Andrea,Procesada,2023-02-01 12:51:00.253
+19,61570,2023-01-31,2023-02-01,Rectoría,0,Aprobada,CHAPINERO - BOGOTÁ,Laborales,Leon Hernandez Camila Andrea,En Proceso,2023-02-01 09:13:55.803
+20,61570,2023-01-31,2023-02-01,Dirección Financiera,0,Aprobada,CHAPINERO - BOGOTÁ,Laborales,Zamora Bohorquez Olga Rocio,Procesada,2023-02-01 14:09:26.080
+21,61570,2023-01-31,2023-02-02,Vicepresidencia Administrativa y Financiera,1,Aprobada,CHAPINERO - BOGOTÁ,Laborales,Zamora Bohorquez Olga Rocio,Aprobada,2023-02-02 10:55:09.090
+22,61570,2023-01-31,2023-02-02,Vicepresidencia Administrativa y Financiera,0,Aprobada,CHAPINERO - BOGOTÁ,Laborales,Lesmes Quintero Paola Andrea,En Proceso,2023-02-02 09:51:49.083
+23,61627,2023-02-01,2023-02-02,Rectoría,1,Aprobada,CHAPINERO - BOGOTÁ,Traslado de ciudad,Leon Hernandez Camila Andrea,En Proceso,2023-02-02 09:58:01.847
+24,61627,2023-02-01,2023-02-02,Rectoría,0,Aprobada,CHAPINERO - BOGOTÁ,Traslado de ciudad,Leon Hernandez Camila Andrea,Procesada,2023-02-02 16:45:38.800
+25,61627,2023-02-01,2023-02-02,Dirección Financiera,0,Aprobada,CHAPINERO - BOGOTÁ,Traslado de ciudad,Zamora Bohorquez Olga Rocio,Procesada,2023-02-02 17:02:19.427
+26,61627,2023-02-01,2023-02-02,Vicepresidencia Administrativa y Financiera,0,Aprobada,CHAPINERO - BOGOTÁ,Traslado de ciudad,Lesmes Quintero Paola Andrea,En Proceso,2023-02-02 18:58:49.533
+27,61627,2023-02-01,2023-02-03,Vicepresidencia Administrativa y Financiera,1,Aprobada,CHAPINERO - BOGOTÁ,Traslado de ciudad,Zamora Bohorquez Olga Rocio,Aprobada,2023-02-03 10:02:13.683
+28,61680,2023-02-01,2023-02-02,Rectoría,1,Rechazada,CHAPINERO - BOGOTÁ,Laborales,Leon Hernandez Camila Andrea,En Proceso,2023-02-02 09:58:11.487
+29,61680,2023-02-01,2023-02-03,Rectoría,1,Rechazada,CHAPINERO - BOGOTÁ,Laborales,Leon Hernandez Camila Andrea,Rechazada,2023-02-03 09:33:38.180
+30,61762,2023-02-02,2023-02-04,Rectoría,2,Aprobada,SOACHA - CUNDINAMARCA,Laborales,Cely Oyola Leidy Johana,En Proceso,2023-02-04 08:27:54.020
+31,61762,2023-02-02,2023-02-06,Dirección Financiera,2,Aprobada,SOACHA - CUNDINAMARCA,Laborales,Zamora Bohorquez Olga Rocio,Procesada,2023-02-06 15:47:52.680
+32,61762,2023-02-02,2023-02-06,Rectoría,0,Aprobada,SOACHA - CUNDINAMARCA,Laborales,Cely Oyola Leidy Johana,Procesada,2023-02-06 12:55:40.760
+33,61762,2023-02-02,2023-02-07,Vicepresidencia Administrativa y Financiera,1,Aprobada,SOACHA - CUNDINAMARCA,Laborales,Zamora Bohorquez Olga Rocio,Aprobada,2023-02-07 15:16:04.347
+34,61762,2023-02-02,2023-02-07,Vicepresidencia Administrativa y Financiera,0,Aprobada,SOACHA - CUNDINAMARCA,Laborales,Lesmes Quintero Paola Andrea,En Proceso,2023-02-07 11:11:22.430
+35,61889,2023-02-03,2023-02-08,Rectoría,5,Aprobada,SOACHA - CUNDINAMARCA,Laborales,Cely Oyola Leidy Johana,En Proceso,2023-02-08 09:24:27.457
+36,61889,2023-02-03,2023-02-08,Rectoría,0,Aprobada,SOACHA - CUNDINAMARCA,Laborales,Cely Oyola Leidy Johana,Procesada,2023-02-08 09:53:15.987
+37,61889,2023-02-03,2023-02-08,Dirección Financiera,0,Aprobada,SOACHA - CUNDINAMARCA,Laborales,Zamora Bohorquez Olga Rocio,Procesada,2023-02-08 10:30:55.077
+38,61889,2023-02-03,2023-02-08,Vicepresidencia Administrativa y Financiera,0,Aprobada,SOACHA - CUNDINAMARCA,Laborales,Lesmes Quintero Paola Andrea,En Proceso,2023-02-08 12:55:25.310
+39,61889,2023-02-03,2023-02-08,Vicepresidencia Administrativa y Financiera,0,Aprobada,SOACHA - CUNDINAMARCA,Laborales,Zamora Bohorquez Olga Rocio,Aprobada,2023-02-08 15:45:28.743
+40,61904,2023-02-03,2023-02-08,Rectoría,5,Rechazada,SOACHA - CUNDINAMARCA,Laborales,Cely Oyola Leidy Johana,En Proceso,2023-02-08 08:36:16.877
+41,61904,2023-02-03,2023-02-08,Rectoría,0,Rechazada,SOACHA - CUNDINAMARCA,Laborales,Cely Oyola Leidy Johana,Rechazada,2023-02-08 09:01:07.890
+42,61933,2023-02-04,2023-02-08,Rectoría,4,Aprobada,CENTRO - BOGOTÁ,"Laborales,Traslado de ciudad,Económicos",Rodriguez Peña Elsy Johana,En Proceso,2023-02-08 09:01:03.607
+43,61933,2023-02-04,2023-02-09,Rectoría,1,Aprobada,CENTRO - BOGOTÁ,"Laborales,Traslado de ciudad,Económicos",Rodriguez Peña Elsy Johana,Procesada,2023-02-09 18:47:36.007
+44,61933,2023-02-04,2023-02-10,Vicepresidencia Administrativa y Financiera,1,Aprobada,CENTRO - BOGOTÁ,"Laborales,Traslado de ciudad,Económicos",Zamora Bohorquez Olga Rocio,Aprobada,2023-02-10 14:10:55.747
+45,61933,2023-02-04,2023-02-10,Dirección Financiera,0,Aprobada,CENTRO - BOGOTÁ,"Laborales,Traslado de ciudad,Económicos",Zamora Bohorquez Olga Rocio,Procesada,2023-02-10 10:57:28.957
+46,61933,2023-02-04,2023-02-10,Vicepresidencia Administrativa y Financiera,0,Aprobada,CENTRO - BOGOTÁ,"Laborales,Traslado de ciudad,Económicos",Lesmes Quintero Paola Andrea,En Proceso,2023-02-10 11:18:47.750
+47,62046,2023-02-05,2023-02-06,Rectoría,1,Aprobada,CHAPINERO - BOGOTÁ,Laborales,Leon Hernandez Camila Andrea,En Proceso,2023-02-06 07:08:49.423
+48,62046,2023-02-05,2023-02-06,Rectoría,0,Aprobada,CHAPINERO - BOGOTÁ,Laborales,Leon Hernandez Camila Andrea,Procesada,2023-02-06 11:22:12.770
+49,62046,2023-02-05,2023-02-06,Dirección Financiera,0,Aprobada,CHAPINERO - BOGOTÁ,Laborales,Zamora Bohorquez Olga Rocio,Procesada,2023-02-06 11:59:23.863
+50,62046,2023-02-05,2023-02-06,Vicepresidencia Administrativa y Financiera,0,Aprobada,CHAPINERO - BOGOTÁ,Laborales,Lesmes Quintero Paola Andrea,En Proceso,2023-02-06 14:12:04.267
+51,62046,2023-02-05,2023-02-06,Vicepresidencia Administrativa y Financiera,0,Aprobada,CHAPINERO - BOGOTÁ,Laborales,Zamora Bohorquez Olga Rocio,Aprobada,2023-02-06 15:07:46.000
+52,62056,2023-02-06,2023-02-08,Rectoría,2,Rechazada,CENTRO - BOGOTÁ,Laborales,Rodriguez Peña Elsy Johana,En Proceso,2023-02-08 09:03:16.267
+53,62056,2023-02-06,2023-02-11,Rectoría,3,Rechazada,CENTRO - BOGOTÁ,Laborales,Rodriguez Peña Elsy Johana,Rechazada,2023-02-11 11:52:31.660
+54,62117,2023-02-06,2023-02-07,Rectoría,1,Aprobada,CHAPINERO - BOGOTÁ,Estado de salud,Leon Hernandez Camila Andrea,En Proceso,2023-02-07 07:48:36.347
+55,62117,2023-02-06,2023-02-08,Dirección Financiera,1,Aprobada,CHAPINERO - BOGOTÁ,Estado de salud,Zamora Bohorquez Olga Rocio,Procesada,2023-02-08 16:51:29.393
+56,62117,2023-02-06,2023-02-08,Rectoría,0,Aprobada,CHAPINERO - BOGOTÁ,Estado de salud,Leon Hernandez Camila Andrea,Procesada,2023-02-08 12:32:29.840
+57,62117,2023-02-06,2023-02-09,Vicepresidencia Administrativa y Financiera,1,Aprobada,CHAPINERO - BOGOTÁ,Estado de salud,Lesmes Quintero Paola Andrea,En Proceso,2023-02-09 10:26:22.667
+58,62117,2023-02-06,2023-02-09,Vicepresidencia Administrativa y Financiera,0,Aprobada,CHAPINERO - BOGOTÁ,Estado de salud,Zamora Bohorquez Olga Rocio,Aprobada,2023-02-09 17:04:26.270
+59,62345,2023-02-06,2023-02-08,Rectoría,2,En Proceso,CENTRO - BOGOTÁ,Laborales,Rodriguez Peña Elsy Johana,En Proceso,2023-02-08 09:04:03.757
+60,62345,2023-02-06,2023-02-11,Rectoría,3,En Proceso,CENTRO - BOGOTÁ,Laborales,Rodriguez Peña Elsy Johana,Procesada,2023-02-11 11:56:49.280
+61,62345,2023-02-06,2023-02-13,Dirección Financiera,2,En Proceso,CENTRO - BOGOTÁ,Laborales,Zamora Bohorquez Olga Rocio,Devuelta,2023-02-13 11:01:51.470
+62,62672,2023-02-07,2023-02-08,Rectoría,1,Aprobada,CHAPINERO - BOGOTÁ,Económicos,Leon Hernandez Camila Andrea,En Proceso,2023-02-08 09:34:36.147
+63,62672,2023-02-07,2023-02-08,Rectoría,0,Aprobada,CHAPINERO - BOGOTÁ,Económicos,Leon Hernandez Camila Andrea,Procesada,2023-02-08 14:10:10.090
+64,62672,2023-02-07,2023-02-08,Dirección Financiera,0,Aprobada,CHAPINERO - BOGOTÁ,Económicos,Zamora Bohorquez Olga Rocio,Procesada,2023-02-08 16:18:01.673
+65,62672,2023-02-07,2023-02-09,Vicepresidencia Administrativa y Financiera,1,Aprobada,CHAPINERO - BOGOTÁ,Económicos,Lesmes Quintero Paola Andrea,En Proceso,2023-02-09 10:24:16.237
+66,62672,2023-02-07,2023-02-09,Vicepresidencia Administrativa y Financiera,0,Aprobada,CHAPINERO - BOGOTÁ,Económicos,Zamora Bohorquez Olga Rocio,Aprobada,2023-02-09 16:47:46.977
+67,62746,2023-02-08,2023-02-09,Rectoría,1,Rechazada,CHAPINERO - BOGOTÁ,Laborales,Leon Hernandez Camila Andrea,Rechazada,2023-02-09 17:13:27.597
+68,62746,2023-02-08,2023-02-09,Rectoría,0,Rechazada,CHAPINERO - BOGOTÁ,Laborales,Leon Hernandez Camila Andrea,En Proceso,2023-02-09 07:39:58.727
+69,62832,2023-02-08,2023-02-09,Rectoría,1,Aprobada,CENTRO - BOGOTÁ,Laborales,Rodriguez Peña Elsy Johana,En Proceso,2023-02-09 18:52:19.907
+70,62832,2023-02-08,2023-02-16,Rectoría,7,Aprobada,CENTRO - BOGOTÁ,Laborales,Rodriguez Peña Elsy Johana,Procesada,2023-02-16 09:39:03.410
+71,62832,2023-02-08,2023-02-16,Dirección Financiera,0,Aprobada,CENTRO - BOGOTÁ,Laborales,Zamora Bohorquez Olga Rocio,Procesada,2023-02-16 14:28:10.580
+72,62832,2023-02-08,2023-02-17,Vicepresidencia Administrativa y Financiera,1,Aprobada,CENTRO - BOGOTÁ,Laborales,Lesmes Quintero Paola Andrea,En Proceso,2023-02-17 13:22:17.863
+73,62832,2023-02-08,2023-02-17,Vicepresidencia Administrativa y Financiera,0,Aprobada,CENTRO - BOGOTÁ,Laborales,Zamora Bohorquez Olga Rocio,Aprobada,2023-02-17 16:22:07.123
+74,62848,2023-02-08,2023-02-09,Rectoría,1,Aprobada,CHAPINERO - BOGOTÁ,Económicos,Leon Hernandez Camila Andrea,En Proceso,2023-02-09 07:41:39.337
+75,62848,2023-02-08,2023-02-13,Rectoría,4,Aprobada,CHAPINERO - BOGOTÁ,Económicos,Leon Hernandez Camila Andrea,Procesada,2023-02-13 16:12:29.633
+76,62848,2023-02-08,2023-02-13,Dirección Financiera,0,Aprobada,CHAPINERO - BOGOTÁ,Económicos,Zamora Bohorquez Olga Rocio,Procesada,2023-02-13 18:49:48.880
+77,62848,2023-02-08,2023-02-14,Vicepresidencia Administrativa y Financiera,1,Aprobada,CHAPINERO - BOGOTÁ,Económicos,Lesmes Quintero Paola Andrea,En Proceso,2023-02-14 16:25:53.490
+78,62848,2023-02-08,2023-02-15,Vicepresidencia Administrativa y Financiera,1,Aprobada,CHAPINERO - BOGOTÁ,Económicos,Zamora Bohorquez Olga Rocio,Aprobada,2023-02-15 09:21:54.953
+79,62937,2023-02-08,2023-02-09,Rectoría,1,Aprobada,CHAPINERO - BOGOTÁ,Cierre de grupo,Leon Hernandez Camila Andrea,En Proceso,2023-02-09 07:42:49.647
+80,62937,2023-02-08,2023-02-13,Rectoría,4,Aprobada,CHAPINERO - BOGOTÁ,Cierre de grupo,Leon Hernandez Camila Andrea,Procesada,2023-02-13 12:21:23.277
+81,62937,2023-02-08,2023-02-13,Dirección Financiera,0,Aprobada,CHAPINERO - BOGOTÁ,Cierre de grupo,Zamora Bohorquez Olga Rocio,Procesada,2023-02-13 15:19:24.480
+82,62937,2023-02-08,2023-02-13,Vicepresidencia Administrativa y Financiera,0,Aprobada,CHAPINERO - BOGOTÁ,Cierre de grupo,Lesmes Quintero Paola Andrea,En Proceso,2023-02-13 16:07:04.347
+83,62937,2023-02-08,2023-02-13,Vicepresidencia Administrativa y Financiera,0,Aprobada,CHAPINERO - BOGOTÁ,Cierre de grupo,Zamora Bohorquez Olga Rocio,Aprobada,2023-02-13 19:05:22.027
+84,62941,2023-02-08,2023-02-09,Rectoría,1,Rechazada,CHAPINERO - BOGOTÁ,Calamidad domestica,Leon Hernandez Camila Andrea,En Proceso,2023-02-09 07:44:31.333
+85,62941,2023-02-08,2023-02-10,Rectoría,1,Rechazada,CHAPINERO - BOGOTÁ,Calamidad domestica,Leon Hernandez Camila Andrea,Rechazada,2023-02-10 12:25:41.917
+86,63072,2023-02-09,2023-02-10,Rectoría,1,Aprobada,CHAPINERO - BOGOTÁ,Laborales,Leon Hernandez Camila Andrea,Procesada,2023-02-10 16:16:50.120
+87,63072,2023-02-09,2023-02-10,Dirección Financiera,0,Aprobada,CHAPINERO - BOGOTÁ,Laborales,Zamora Bohorquez Olga Rocio,Procesada,2023-02-10 18:39:10.157
+88,63072,2023-02-09,2023-02-10,Rectoría,0,Aprobada,CHAPINERO - BOGOTÁ,Laborales,Leon Hernandez Camila Andrea,En Proceso,2023-02-10 08:32:54.207
+89,63072,2023-02-09,2023-02-13,Vicepresidencia Administrativa y Financiera,3,Aprobada,CHAPINERO - BOGOTÁ,Laborales,Zamora Bohorquez Olga Rocio,Aprobada,2023-02-13 11:34:28.530
+90,63072,2023-02-09,2023-02-13,Vicepresidencia Administrativa y Financiera,0,Aprobada,CHAPINERO - BOGOTÁ,Laborales,Lesmes Quintero Paola Andrea,En Proceso,2023-02-13 08:19:56.290
+91,63126,2023-02-09,2023-02-09,Rectoría,0,Aprobada,CHAPINERO - BOGOTÁ,Laborales,Leon Hernandez Camila Andrea,En Proceso,2023-02-09 19:00:04.630
+92,63126,2023-02-09,2023-02-10,Rectoría,1,Aprobada,CHAPINERO - BOGOTÁ,Laborales,Leon Hernandez Camila Andrea,Procesada,2023-02-10 08:32:18.793
+93,63126,2023-02-09,2023-02-10,Dirección Financiera,0,Aprobada,CHAPINERO - BOGOTÁ,Laborales,Zamora Bohorquez Olga Rocio,Procesada,2023-02-10 09:54:09.160
+94,63126,2023-02-09,2023-02-10,Vicepresidencia Administrativa y Financiera,0,Aprobada,CHAPINERO - BOGOTÁ,Laborales,Lesmes Quintero Paola Andrea,En Proceso,2023-02-10 11:16:22.213
+95,63126,2023-02-09,2023-02-10,Vicepresidencia Administrativa y Financiera,0,Aprobada,CHAPINERO - BOGOTÁ,Laborales,Zamora Bohorquez Olga Rocio,Aprobada,2023-02-10 12:31:00.350
+96,63236,2023-02-10,2023-02-11,Rectoría,1,Aprobada,CHAPINERO - BOGOTÁ,Traslado de ciudad,Leon Hernandez Camila Andrea,En Proceso,2023-02-11 09:13:45.693
+97,63236,2023-02-10,2023-02-11,Rectoría,0,Aprobada,CHAPINERO - BOGOTÁ,Traslado de ciudad,Leon Hernandez Camila Andrea,Procesada,2023-02-11 14:01:34.673
+98,63236,2023-02-10,2023-02-13,Dirección Financiera,2,Aprobada,CHAPINERO - BOGOTÁ,Traslado de ciudad,Zamora Bohorquez Olga Rocio,Procesada,2023-02-13 09:52:45.287
+99,63236,2023-02-10,2023-02-13,Vicepresidencia Administrativa y Financiera,0,Aprobada,CHAPINERO - BOGOTÁ,Traslado de ciudad,Lesmes Quintero Paola Andrea,En Proceso,2023-02-13 09:57:52.627
+100,63236,2023-02-10,2023-02-13,Vicepresidencia Administrativa y Financiera,0,Aprobada,CHAPINERO - BOGOTÁ,Traslado de ciudad,Zamora Bohorquez Olga Rocio,Aprobada,2023-02-13 14:14:53.870
+101,63349,2023-02-10,2023-02-15,Rectoría,5,Rechazada,SOACHA - CUNDINAMARCA,Laborales,Martinez Gomez Sindy Paulieth,Rechazada,2023-02-15 15:25:13.123
+102,63349,2023-02-10,2023-02-15,Rectoría,0,Rechazada,SOACHA - CUNDINAMARCA,Laborales,Martinez Gomez Sindy Paulieth,En Proceso,2023-02-15 15:24:19.997
+103,63371,2023-02-10,2023-02-11,Rectoría,1,Aprobada,CHAPINERO - BOGOTÁ,Cierre de grupo,Leon Hernandez Camila Andrea,En Proceso,2023-02-11 09:15:30.717
+104,63371,2023-02-10,2023-02-13,Rectoría,2,Aprobada,CHAPINERO - BOGOTÁ,Cierre de grupo,Leon Hernandez Camila Andrea,Procesada,2023-02-13 13:50:27.867
+105,63371,2023-02-10,2023-02-13,Dirección Financiera,0,Aprobada,CHAPINERO - BOGOTÁ,Cierre de grupo,Zamora Bohorquez Olga Rocio,Procesada,2023-02-13 14:58:00.437
+106,63371,2023-02-10,2023-02-13,Vicepresidencia Administrativa y Financiera,0,Aprobada,CHAPINERO - BOGOTÁ,Cierre de grupo,Lesmes Quintero Paola Andrea,En Proceso,2023-02-13 16:03:06.463
+107,63371,2023-02-10,2023-02-13,Vicepresidencia Administrativa y Financiera,0,Aprobada,CHAPINERO - BOGOTÁ,Cierre de grupo,Zamora Bohorquez Olga Rocio,Aprobada,2023-02-13 18:53:58.967
+108,63410,2023-02-11,2023-02-11,Rectoría,0,Rechazada,CHAPINERO - BOGOTÁ,Laborales,Leon Hernandez Camila Andrea,En Proceso,2023-02-11 09:16:25.837
+109,63410,2023-02-11,2023-02-11,Rectoría,0,Rechazada,CHAPINERO - BOGOTÁ,Laborales,Leon Hernandez Camila Andrea,Rechazada,2023-02-11 12:18:09.633
+110,63449,2023-02-11,2023-02-20,,9,Pendiente,EDUCACIÓN CONTINUA,Laborales,,,
+111,63489,2023-02-11,2023-02-14,Rectoría,3,Aprobada,CENTRO - BOGOTÁ,Cierre de grupo,Rodriguez Peña Elsy Johana,En Proceso,2023-02-14 11:14:41.907
+112,63489,2023-02-11,2023-02-15,Dirección Financiera,1,Aprobada,CENTRO - BOGOTÁ,Cierre de grupo,Zamora Bohorquez Olga Rocio,Procesada,2023-02-15 16:10:54.097
+113,63489,2023-02-11,2023-02-15,Rectoría,0,Aprobada,CENTRO - BOGOTÁ,Cierre de grupo,Rodriguez Peña Elsy Johana,Procesada,2023-02-15 13:18:25.383
+114,63489,2023-02-11,2023-02-16,Vicepresidencia Administrativa y Financiera,1,Aprobada,CENTRO - BOGOTÁ,Cierre de grupo,Lesmes Quintero Paola Andrea,En Proceso,2023-02-16 09:17:57.490
+115,63489,2023-02-11,2023-02-16,Vicepresidencia Administrativa y Financiera,0,Aprobada,CENTRO - BOGOTÁ,Cierre de grupo,Zamora Bohorquez Olga Rocio,Aprobada,2023-02-16 09:36:19.883
+116,63627,2023-02-12,2023-02-13,Rectoría,1,Aprobada,CHAPINERO - BOGOTÁ,Laborales,Leon Hernandez Camila Andrea,En Proceso,2023-02-13 11:20:01.683
+117,63627,2023-02-12,2023-02-14,Rectoría,1,Aprobada,CHAPINERO - BOGOTÁ,Laborales,Leon Hernandez Camila Andrea,Procesada,2023-02-14 13:33:32.710
+118,63627,2023-02-12,2023-02-14,Dirección Financiera,0,Aprobada,CHAPINERO - BOGOTÁ,Laborales,Zamora Bohorquez Olga Rocio,Procesada,2023-02-14 14:49:34.683
+119,63627,2023-02-12,2023-02-14,Vicepresidencia Administrativa y Financiera,0,Aprobada,CHAPINERO - BOGOTÁ,Laborales,Lesmes Quintero Paola Andrea,En Proceso,2023-02-14 16:22:58.233
+120,63627,2023-02-12,2023-02-15,Vicepresidencia Administrativa y Financiera,1,Aprobada,CHAPINERO - BOGOTÁ,Laborales,Zamora Bohorquez Olga Rocio,Aprobada,2023-02-15 09:25:14.253
+121,63750,2023-02-13,2023-02-14,Rectoría,1,Aprobada,CHAPINERO - BOGOTÁ,Inconformidad con el servicio,Leon Hernandez Camila Andrea,En Proceso,2023-02-14 10:20:06.307
+122,63750,2023-02-13,2023-02-15,Dirección Financiera,1,Aprobada,CHAPINERO - BOGOTÁ,Inconformidad con el servicio,Zamora Bohorquez Olga Rocio,Procesada,2023-02-15 16:00:21.587
+123,63750,2023-02-13,2023-02-15,Rectoría,0,Aprobada,CHAPINERO - BOGOTÁ,Inconformidad con el servicio,Leon Hernandez Camila Andrea,Procesada,2023-02-15 11:49:32.163
+124,63750,2023-02-13,2023-02-16,Vicepresidencia Administrativa y Financiera,1,Aprobada,CHAPINERO - BOGOTÁ,Inconformidad con el servicio,Lesmes Quintero Paola Andrea,En Proceso,2023-02-16 09:17:24.653
+125,63750,2023-02-13,2023-02-16,Vicepresidencia Administrativa y Financiera,0,Aprobada,CHAPINERO - BOGOTÁ,Inconformidad con el servicio,Zamora Bohorquez Olga Rocio,Aprobada,2023-02-16 10:13:23.860
+126,63912,2023-02-14,2023-02-14,Rectoría,0,Aprobada,CENTRO - BOGOTÁ,Laborales,Rodriguez Peña Elsy Johana,En Proceso,2023-02-14 11:15:30.587
+127,63912,2023-02-14,2023-02-15,Rectoría,1,Aprobada,CENTRO - BOGOTÁ,Laborales,Rodriguez Peña Elsy Johana,Procesada,2023-02-15 13:23:45.120
+128,63912,2023-02-14,2023-02-15,Dirección Financiera,0,Aprobada,CENTRO - BOGOTÁ,Laborales,Zamora Bohorquez Olga Rocio,Procesada,2023-02-15 15:49:10.937
+129,63912,2023-02-14,2023-02-16,Vicepresidencia Administrativa y Financiera,1,Aprobada,CENTRO - BOGOTÁ,Laborales,Lesmes Quintero Paola Andrea,En Proceso,2023-02-16 09:16:55.190
+130,63912,2023-02-14,2023-02-16,Vicepresidencia Administrativa y Financiera,0,Aprobada,CENTRO - BOGOTÁ,Laborales,Zamora Bohorquez Olga Rocio,Aprobada,2023-02-16 09:57:57.687
+131,64006,2023-02-14,2023-02-15,Rectoría,1,Rechazada,CHAPINERO - BOGOTÁ,Laborales,Leon Hernandez Camila Andrea,Rechazada,2023-02-15 14:35:35.907
+132,64006,2023-02-14,2023-02-15,Rectoría,0,Rechazada,CHAPINERO - BOGOTÁ,Laborales,Leon Hernandez Camila Andrea,En Proceso,2023-02-15 11:05:19.187
+133,64039,2023-02-14,2023-02-15,Rectoría,1,En Proceso,CENTRO - BOGOTÁ,Laborales,Rodriguez Peña Elsy Johana,En Proceso,2023-02-15 12:40:06.540
+134,64124,2023-02-15,2023-02-16,Rectoría,1,Aprobada,CHAPINERO - BOGOTÁ,Económicos,Leon Hernandez Camila Andrea,En Proceso,2023-02-16 10:18:17.393
+135,64124,2023-02-15,2023-02-17,Rectoría,1,Aprobada,CHAPINERO - BOGOTÁ,Económicos,Leon Hernandez Camila Andrea,Procesada,2023-02-17 11:00:59.600
+136,64124,2023-02-15,2023-02-17,Dirección Financiera,0,Aprobada,CHAPINERO - BOGOTÁ,Económicos,Zamora Bohorquez Olga Rocio,Procesada,2023-02-17 12:41:20.947
+137,64124,2023-02-15,2023-02-17,Vicepresidencia Administrativa y Financiera,0,Aprobada,CHAPINERO - BOGOTÁ,Económicos,Lesmes Quintero Paola Andrea,En Proceso,2023-02-17 17:29:53.890
+138,64124,2023-02-15,2023-02-17,Vicepresidencia Administrativa y Financiera,0,Aprobada,CHAPINERO - BOGOTÁ,Económicos,Zamora Bohorquez Olga Rocio,Aprobada,2023-02-17 18:52:55.673
+139,64160,2023-02-15,2023-02-16,Rectoría,1,Aprobada,CHAPINERO - BOGOTÁ,Económicos,Leon Hernandez Camila Andrea,En Proceso,2023-02-16 10:27:03.007
+140,64160,2023-02-15,2023-02-16,Rectoría,0,Aprobada,CHAPINERO - BOGOTÁ,Económicos,Leon Hernandez Camila Andrea,Procesada,2023-02-16 16:57:20.830
+141,64160,2023-02-15,2023-02-16,Dirección Financiera,0,Aprobada,CHAPINERO - BOGOTÁ,Económicos,Zamora Bohorquez Olga Rocio,Procesada,2023-02-16 17:45:27.850
+142,64160,2023-02-15,2023-02-17,Vicepresidencia Administrativa y Financiera,1,Aprobada,CHAPINERO - BOGOTÁ,Económicos,Lesmes Quintero Paola Andrea,En Proceso,2023-02-17 12:20:33.893
+143,64160,2023-02-15,2023-02-17,Vicepresidencia Administrativa y Financiera,0,Aprobada,CHAPINERO - BOGOTÁ,Económicos,Zamora Bohorquez Olga Rocio,Aprobada,2023-02-17 15:03:30.073
+144,64230,2023-02-15,2023-02-16,Dirección Financiera,1,Aprobada,CHAPINERO - BOGOTÁ,Laborales,Zamora Bohorquez Olga Rocio,Procesada,2023-02-16 17:35:41.640
+145,64230,2023-02-15,2023-02-16,Rectoría,0,Aprobada,CHAPINERO - BOGOTÁ,Laborales,Leon Hernandez Camila Andrea,En Proceso,2023-02-16 10:26:07.590
+146,64230,2023-02-15,2023-02-16,Rectoría,0,Aprobada,CHAPINERO - BOGOTÁ,Laborales,Leon Hernandez Camila Andrea,Procesada,2023-02-16 16:46:44.113
+147,64230,2023-02-15,2023-02-17,Vicepresidencia Administrativa y Financiera,1,Aprobada,CHAPINERO - BOGOTÁ,Laborales,Lesmes Quintero Paola Andrea,En Proceso,2023-02-17 12:18:42.137
+148,64230,2023-02-15,2023-02-17,Vicepresidencia Administrativa y Financiera,0,Aprobada,CHAPINERO - BOGOTÁ,Laborales,Zamora Bohorquez Olga Rocio,Aprobada,2023-02-17 17:02:37.813
+149,64235,2023-02-15,2023-02-16,Rectoría,1,Aprobada,CHAPINERO - BOGOTÁ,Laborales,Leon Hernandez Camila Andrea,En Proceso,2023-02-16 10:24:51.107
+150,64235,2023-02-15,2023-02-16,Rectoría,0,Aprobada,CHAPINERO - BOGOTÁ,Laborales,Leon Hernandez Camila Andrea,Procesada,2023-02-16 16:41:10.823
+151,64235,2023-02-15,2023-02-16,Dirección Financiera,0,Aprobada,CHAPINERO - BOGOTÁ,Laborales,Zamora Bohorquez Olga Rocio,Procesada,2023-02-16 17:21:24.340
+152,64235,2023-02-15,2023-02-17,Vicepresidencia Administrativa y Financiera,1,Aprobada,CHAPINERO - BOGOTÁ,Laborales,Zamora Bohorquez Olga Rocio,Aprobada,2023-02-17 15:45:42.740
+153,64235,2023-02-15,2023-02-17,Vicepresidencia Administrativa y Financiera,0,Aprobada,CHAPINERO - BOGOTÁ,Laborales,Lesmes Quintero Paola Andrea,En Proceso,2023-02-17 12:16:55.287
+154,64241,2023-02-15,2023-02-16,Rectoría,1,Aprobada,CHAPINERO - BOGOTÁ,Laborales,Leon Hernandez Camila Andrea,Procesada,2023-02-16 16:34:55.927
+155,64241,2023-02-15,2023-02-16,Dirección Financiera,0,Aprobada,CHAPINERO - BOGOTÁ,Laborales,Zamora Bohorquez Olga Rocio,Procesada,2023-02-16 17:15:37.857
+156,64241,2023-02-15,2023-02-16,Rectoría,0,Aprobada,CHAPINERO - BOGOTÁ,Laborales,Leon Hernandez Camila Andrea,En Proceso,2023-02-16 10:23:45.090
+157,64241,2023-02-15,2023-02-17,Vicepresidencia Administrativa y Financiera,1,Aprobada,CHAPINERO - BOGOTÁ,Laborales,Lesmes Quintero Paola Andrea,En Proceso,2023-02-17 10:05:20.243
+158,64241,2023-02-15,2023-02-17,Vicepresidencia Administrativa y Financiera,0,Aprobada,CHAPINERO - BOGOTÁ,Laborales,Zamora Bohorquez Olga Rocio,Aprobada,2023-02-17 14:36:35.150
+159,64255,2023-02-16,2023-02-16,Rectoría,0,Rechazada,CHAPINERO - BOGOTÁ,Económicos,Leon Hernandez Camila Andrea,En Proceso,2023-02-16 10:21:42.567
+160,64255,2023-02-16,2023-02-16,Rectoría,0,Rechazada,CHAPINERO - BOGOTÁ,Económicos,Leon Hernandez Camila Andrea,Rechazada,2023-02-16 15:01:11.933
+161,64337,2023-02-16,2023-02-17,Rectoría,1,En Proceso,CHAPINERO - BOGOTÁ,Traslado de ciudad,Leon Hernandez Camila Andrea,En Proceso,2023-02-17 10:19:08.743
+162,64369,2023-02-16,2023-02-17,Rectoría,1,Rechazada,CHAPINERO - BOGOTÁ,Laborales,Leon Hernandez Camila Andrea,En Proceso,2023-02-17 10:20:10.407
+163,64369,2023-02-16,2023-02-17,Rectoría,0,Rechazada,CHAPINERO - BOGOTÁ,Laborales,Leon Hernandez Camila Andrea,Rechazada,2023-02-17 12:27:28.463
+164,64413,2023-02-16,2023-02-17,Vicepresidencia Administrativa y Financiera,1,Aprobada,CHAPINERO - BOGOTÁ,Económicos,Lesmes Quintero Paola Andrea,En Proceso,2023-02-17 17:28:31.600
+165,64413,2023-02-16,2023-02-17,Vicepresidencia Administrativa y Financiera,0,Aprobada,CHAPINERO - BOGOTÁ,Económicos,Zamora Bohorquez Olga Rocio,Aprobada,2023-02-17 18:49:47.163
+166,64413,2023-02-16,2023-02-17,Rectoría,0,Aprobada,CHAPINERO - BOGOTÁ,Económicos,Leon Hernandez Camila Andrea,Procesada,2023-02-17 14:02:09.690
+167,64413,2023-02-16,2023-02-17,Rectoría,0,Aprobada,CHAPINERO - BOGOTÁ,Económicos,Leon Hernandez Camila Andrea,En Proceso,2023-02-17 10:25:21.297
+168,64413,2023-02-16,2023-02-17,Dirección Financiera,0,Aprobada,CHAPINERO - BOGOTÁ,Económicos,Zamora Bohorquez Olga Rocio,Procesada,2023-02-17 14:22:50.413
+169,64459,2023-02-17,2023-02-20,,3,Pendiente,CENTRO - BOGOTÁ,Laborales,,,
+170,64507,2023-02-17,2023-02-18,Rectoría,1,En Proceso,CHAPINERO - BOGOTÁ,Inconformidad con el servicio,Leon Hernandez Camila Andrea,En Proceso,2023-02-18 08:14:02.320
+171,64507,2023-02-17,2023-02-18,Rectoría,0,En Proceso,CHAPINERO - BOGOTÁ,Inconformidad con el servicio,Leon Hernandez Camila Andrea,Procesada,2023-02-18 14:09:47.670
+172,64559,2023-02-17,2023-02-18,Rectoría,1,Rechazada,CHAPINERO - BOGOTÁ,Laborales,Leon Hernandez Camila Andrea,En Proceso,2023-02-18 08:46:41.237
+173,64559,2023-02-17,2023-02-18,Rectoría,0,Rechazada,CHAPINERO - BOGOTÁ,Laborales,Leon Hernandez Camila Andrea,Rechazada,2023-02-18 13:30:26.830
+174,64571,2023-02-17,2023-02-18,Rectoría,1,En Proceso,CHAPINERO - BOGOTÁ,Traslado de ciudad,Leon Hernandez Camila Andrea,En Proceso,2023-02-18 08:44:42.573
+175,64596,2023-02-17,2023-02-18,Rectoría,1,En Proceso,CHAPINERO - BOGOTÁ,"Traslado de ciudad,Estado de salud",Leon Hernandez Camila Andrea,En Proceso,2023-02-18 08:43:55.743
+176,64634,2023-02-17,2023-02-18,Rectoría,1,En Proceso,CHAPINERO - BOGOTÁ,Inconformidad con el servicio,Leon Hernandez Camila Andrea,Procesada,2023-02-18 12:31:44.423
+177,64634,2023-02-17,2023-02-18,Rectoría,0,En Proceso,CHAPINERO - BOGOTÁ,Inconformidad con el servicio,Leon Hernandez Camila Andrea,En Proceso,2023-02-18 08:43:04.257
+178,64665,2023-02-18,2023-02-20,,2,Pendiente,CHAPINERO - BOGOTÁ,"Laborales,Traslado de ciudad",,,
