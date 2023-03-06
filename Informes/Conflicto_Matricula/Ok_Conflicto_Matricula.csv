@@ -1,86 +1,315 @@
 Index,Radicado,Fecha de Radicado,Fecha Seguimiento,Dependencia Seguimiento,demora,Estado Solicitud,Sede,Cuál es el conflicto que desea solucionar,Usuario Seguimiento,Estado Seguimiento,Hora
 0,61303,2023-01-30,2023-01-30,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Matrícula de módulo perdido en semestre vigente,Espitia Molina Nicolas,Aprobada,2023-01-30 18:27:02.860
-1,61310,2023-01-30,2023-01-30,EXPERIENCIA - SAC,0,En Proceso,SOACHA - CUNDINAMARCA,Matrícula de módulo perdido en semestre vigente,Espitia Molina Nicolas,En Proceso,2023-01-30 18:46:12.070
-2,61312,2023-01-30,2023-01-30,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Bohorquez Vasquez Micheel Alexandra,Aprobada,2023-01-30 09:59:05.880
-3,61329,2023-01-30,2023-01-30,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Matrícula de módulo perdido en semestre vigente,Martinez Becerra Karen Meliza,Aprobada,2023-01-30 10:39:20.860
-4,61330,2023-01-30,2023-01-30,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Matrícula de módulo perdido en semestre vigente,Espitia Molina Nicolas,Aprobada,2023-01-30 12:48:49.397
-5,61332,2023-01-30,2023-01-30,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Matrícula de módulo perdido en semestre vigente,Espitia Molina Nicolas,Aprobada,2023-01-30 12:47:53.310
-6,61334,2023-01-30,2023-01-31,EXPERIENCIA - SAC,1,Aprobada,CHAPINERO - BOGOTÁ,Matrícula de módulo perdido en semestre vigente,Espitia Molina Nicolas,En Proceso,2023-01-31 10:49:26.380
-7,61334,2023-01-30,2023-01-31,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Matrícula de módulo perdido en semestre vigente,Espitia Molina Nicolas,Aprobada,2023-01-31 11:09:39.983
-8,61340,2023-01-30,2023-01-30,EXPERIENCIA - SAC,0,Aprobada,CENTRO - BOGOTÁ,Vencimiento de plazo para pre matricula,Espitia Molina Nicolas,Aprobada,2023-01-30 11:20:47.950
-9,61343,2023-01-30,2023-01-30,EXPERIENCIA - SAC,0,Aprobada,CENTRO - BOGOTÁ,Cambio de modulo,Martinez Becerra Karen Meliza,Aprobada,2023-01-30 11:42:11.297
-10,61348,2023-01-30,2023-01-30,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Matrícula de módulo perdido en semestre vigente,Espitia Molina Nicolas,Aprobada,2023-01-30 12:08:02.137
-11,61357,2023-01-30,2023-01-31,EXPERIENCIA - SAC,1,Rechazada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Espitia Molina Nicolas,Rechazada,2023-01-31 10:51:29.377
-12,61380,2023-01-30,2023-01-31,EXPERIENCIA - SAC,1,En Proceso,CHAPINERO - BOGOTÁ,Matrícula de módulo perdido en semestre vigente,Gil Rojas Leidy Dayana,En Proceso,2023-01-31 11:14:10.517
-13,61383,2023-01-30,2023-01-30,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Alonso Mora Lidy Stefania,Aprobada,2023-01-30 16:04:22.857
-14,61386,2023-01-30,2023-01-30,EXPERIENCIA - SAC,0,En Proceso,CHAPINERO - BOGOTÁ,Cambio de modulo,Granados Ortega Adriana Lucia,En Proceso,2023-01-30 15:38:27.457
-15,61405,2023-01-30,2023-01-31,EXPERIENCIA - SAC,1,Aprobada,CHAPINERO - BOGOTÁ,Matrícula de módulo perdido en semestre vigente,Espitia Molina Nicolas,Aprobada,2023-01-31 10:31:38.673
-16,61406,2023-01-30,2023-01-30,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Granados Ortega Adriana Lucia,Aprobada,2023-01-30 16:58:35.333
-17,61452,2023-01-31,2023-01-31,EXPERIENCIA - SAC,0,Aprobada,SOACHA - CUNDINAMARCA,Matrícula de módulo perdido en semestre vigente,Martinez Becerra Karen Meliza,En Proceso,2023-01-31 09:37:05.990
-18,61452,2023-01-31,2023-02-11,EXPERIENCIA - SAC,11,Aprobada,SOACHA - CUNDINAMARCA,Matrícula de módulo perdido en semestre vigente,Bohorquez Vasquez Micheel Alexandra,Aprobada,2023-02-11 10:27:13.967
-19,61453,2023-01-31,2023-01-31,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Bohorquez Vasquez Micheel Alexandra,Aprobada,2023-01-31 09:25:26.330
-20,61455,2023-01-31,2023-01-31,EXPERIENCIA - SAC,0,Aprobada,SOACHA - CUNDINAMARCA,Vencimiento de plazo para pre matricula,Martinez Becerra Karen Meliza,Aprobada,2023-01-31 09:44:43.550
-21,61502,2023-01-31,2023-01-31,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Martinez Becerra Karen Meliza,Aprobada,2023-01-31 15:58:27.460
-22,61530,2023-01-31,2023-01-31,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Bohorquez Vasquez Micheel Alexandra,Aprobada,2023-01-31 15:34:59.853
-23,61558,2023-01-31,2023-01-31,EXPERIENCIA - SAC,0,Aprobada,CENTRO - BOGOTÁ,Vencimiento de plazo para pre matricula,Bohorquez Vasquez Micheel Alexandra,Aprobada,2023-01-31 17:46:33.967
-24,61561,2023-01-31,2023-02-09,EXPERIENCIA - SAC,9,Aprobada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Espitia Molina Nicolas,Aprobada,2023-02-09 15:49:38.920
-25,61568,2023-01-31,2023-02-01,EXPERIENCIA - SAC,1,Aprobada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Espitia Molina Nicolas,En Proceso,2023-02-01 13:34:12.533
-26,61568,2023-01-31,2023-02-02,EXPERIENCIA - SAC,1,Aprobada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Espitia Molina Nicolas,Aprobada,2023-02-02 12:26:04.963
-27,61584,2023-02-01,2023-02-01,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Matrícula de módulo perdido en semestre vigente,Espitia Molina Nicolas,Aprobada,2023-02-01 12:56:11.210
-28,61592,2023-02-01,2023-02-02,EXPERIENCIA - SAC,1,Aprobada,CHAPINERO - BOGOTÁ,Matrícula de módulo perdido en semestre vigente,Espitia Molina Nicolas,Aprobada,2023-02-02 15:36:24.700
-29,61600,2023-02-01,2023-02-02,EXPERIENCIA - SAC,1,Aprobada,CHAPINERO - BOGOTÁ,Matrícula de módulo perdido en semestre vigente,Bohorquez Vasquez Micheel Alexandra,Aprobada,2023-02-02 10:40:38.617
-30,61610,2023-02-01,2023-02-09,EXPERIENCIA - SAC,8,Rechazada,CHAPINERO - BOGOTÁ,Matrícula de módulo perdido en semestre vigente,Espitia Molina Nicolas,Rechazada,2023-02-09 15:56:12.093
-31,61618,2023-02-01,2023-02-01,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Espitia Molina Nicolas,Aprobada,2023-02-01 11:22:13.137
-32,61629,2023-02-01,2023-02-02,EXPERIENCIA - SAC,1,Rechazada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Espitia Molina Nicolas,Rechazada,2023-02-02 15:42:47.163
-33,61635,2023-02-01,2023-02-02,EXPERIENCIA - SAC,1,Rechazada,CHAPINERO - BOGOTÁ,Matrícula de módulo perdido en semestre vigente,Espitia Molina Nicolas,Rechazada,2023-02-02 16:00:07.910
-34,61639,2023-02-01,2023-02-01,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Martinez Becerra Karen Meliza,Aprobada,2023-02-01 12:57:40.640
-35,61641,2023-02-01,2023-02-01,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Matrícula de módulo perdido en semestre vigente,Mora Bernal Anyela Natalia,Aprobada,2023-02-01 12:59:52.623
-36,61645,2023-02-01,2023-02-01,EXPERIENCIA - SAC,0,Aprobada,CENTRO - BOGOTÁ,Vencimiento de plazo para pre matricula,Gil Rojas Leidy Dayana,Aprobada,2023-02-01 13:25:03.330
-37,61650,2023-02-01,2023-02-01,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Gil Rojas Leidy Dayana,Aprobada,2023-02-01 13:58:15.810
-38,61652,2023-02-01,2023-02-01,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Matrícula de módulo perdido en semestre vigente,Espitia Molina Nicolas,Aprobada,2023-02-01 15:14:27.483
-39,61655,2023-02-01,2023-02-01,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Bohorquez Vasquez Micheel Alexandra,Aprobada,2023-02-01 15:59:08.473
-40,61658,2023-02-01,2023-02-02,EXPERIENCIA - SAC,1,Aprobada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Espitia Molina Nicolas,Aprobada,2023-02-02 16:13:07.453
-41,61661,2023-02-01,2023-02-02,EXPERIENCIA - SAC,1,Aprobada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Bohorquez Vasquez Micheel Alexandra,Aprobada,2023-02-02 17:23:15.580
-42,61661,2023-02-01,2023-02-02,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Espitia Molina Nicolas,En Proceso,2023-02-02 16:27:53.003
-43,61672,2023-02-01,2023-02-02,EXPERIENCIA - SAC,1,Aprobada,CENTRO - BOGOTÁ,Vencimiento de plazo para pre matricula,Espitia Molina Nicolas,Aprobada,2023-02-02 16:33:10.000
-44,61689,2023-02-02,2023-02-02,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Matrícula de módulo perdido en semestre vigente,Espitia Molina Nicolas,En Proceso,2023-02-02 16:42:46.737
-45,61689,2023-02-02,2023-02-11,EXPERIENCIA - SAC,9,Aprobada,CHAPINERO - BOGOTÁ,Matrícula de módulo perdido en semestre vigente,Granados Ortega Adriana Lucia,En Proceso,2023-02-11 13:12:43.573
-46,61689,2023-02-02,2023-02-15,EXPERIENCIA - SAC,4,Aprobada,CHAPINERO - BOGOTÁ,Matrícula de módulo perdido en semestre vigente,Espitia Molina Nicolas,En Proceso,2023-02-15 18:42:58.507
-47,61689,2023-02-02,2023-02-16,EXPERIENCIA - SAC,1,Aprobada,CHAPINERO - BOGOTÁ,Matrícula de módulo perdido en semestre vigente,Granados Ortega Adriana Lucia,Aprobada,2023-02-16 09:22:27.410
-48,61695,2023-02-02,2023-02-02,EXPERIENCIA - SAC,0,En Proceso,CHAPINERO - BOGOTÁ,Cambio de modulo,Granados Ortega Adriana Lucia,En Proceso,2023-02-02 08:55:45.353
-49,61717,2023-02-02,2023-02-02,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Alonso Mora Lidy Stefania,Aprobada,2023-02-02 12:11:07.883
-50,61725,2023-02-02,2023-02-02,EXPERIENCIA - SAC,0,Aprobada,CENTRO - BOGOTÁ,Vencimiento de plazo para pre matricula,Granados Ortega Adriana Lucia,Aprobada,2023-02-02 12:12:33.503
-51,61735,2023-02-02,2023-02-02,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Granados Ortega Adriana Lucia,Aprobada,2023-02-02 14:10:35.443
-52,61736,2023-02-02,2023-02-02,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Granados Ortega Adriana Lucia,Aprobada,2023-02-02 14:11:54.447
-53,61737,2023-02-02,2023-02-02,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Granados Ortega Adriana Lucia,Aprobada,2023-02-02 14:13:16.160
-54,61746,2023-02-02,2023-02-02,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Alonso Mora Lidy Stefania,Aprobada,2023-02-02 15:01:12.073
-55,61747,2023-02-02,2023-02-02,EXPERIENCIA - SAC,0,Aprobada,CENTRO - BOGOTÁ,Cambio de modulo,Gil Rojas Leidy Dayana,Aprobada,2023-02-02 15:38:28.253
-56,61759,2023-02-02,2023-02-09,EXPERIENCIA - SAC,7,Rechazada,SOACHA - CUNDINAMARCA,Cruce de horario,Espitia Molina Nicolas,Rechazada,2023-02-09 15:53:42.450
-57,61763,2023-02-02,2023-02-09,EXPERIENCIA - SAC,7,Aprobada,CENTRO - BOGOTÁ,Vencimiento de plazo para pre matricula,Espitia Molina Nicolas,Aprobada,2023-02-09 16:15:44.770
-58,61806,2023-02-03,2023-02-09,EXPERIENCIA - SAC,6,Rechazada,SOACHA - CUNDINAMARCA,Cruce de horario,Espitia Molina Nicolas,Rechazada,2023-02-09 16:21:19.203
-59,61818,2023-02-03,2023-02-03,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Granados Ortega Adriana Lucia,Aprobada,2023-02-03 10:03:28.330
-60,61821,2023-02-03,2023-02-09,EXPERIENCIA - SAC,6,En Proceso,CHAPINERO - BOGOTÁ,Matrícula de módulo perdido en semestre vigente,Espitia Molina Nicolas,En Proceso,2023-02-09 16:28:04.977
-61,61828,2023-02-03,2023-02-03,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Matrícula de módulo perdido en semestre vigente,Granados Ortega Adriana Lucia,Aprobada,2023-02-03 10:30:44.333
-62,61830,2023-02-03,2023-02-03,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Matrícula de módulo perdido en semestre vigente,Mora Bernal Anyela Natalia,Aprobada,2023-02-03 13:13:52.570
-63,61830,2023-02-03,2023-02-03,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Matrícula de módulo perdido en semestre vigente,Mora Bernal Anyela Natalia,En Proceso,2023-02-03 10:46:29.053
-64,61840,2023-02-03,2023-02-03,EXPERIENCIA - SAC,0,Rechazada,CENTRO - BOGOTÁ,Vencimiento de plazo para pre matricula,Espitia Molina Nicolas,Rechazada,2023-02-03 11:45:54.973
-65,61860,2023-02-03,2023-02-03,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Gil Rojas Leidy Dayana,Aprobada,2023-02-03 12:42:58.523
-66,61861,2023-02-03,2023-02-03,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Alonso Mora Lidy Stefania,Aprobada,2023-02-03 13:00:32.543
-67,61863,2023-02-03,2023-02-03,EXPERIENCIA - SAC,0,Aprobada,CENTRO - BOGOTÁ,Matrícula de módulo perdido en semestre vigente,Espitia Molina Nicolas,Aprobada,2023-02-03 13:04:33.577
-68,61887,2023-02-03,2023-02-03,EXPERIENCIA - SAC,0,Aprobada,CENTRO - BOGOTÁ,Vencimiento de plazo para pre matricula,Mora Bernal Anyela Natalia,Aprobada,2023-02-03 18:03:41.080
-69,61898,2023-02-03,2023-02-09,EXPERIENCIA - SAC,6,Aprobada,CHAPINERO - BOGOTÁ,Matrícula de módulo perdido en semestre vigente,Granados Ortega Adriana Lucia,Aprobada,2023-02-09 16:48:01.307
-70,61902,2023-02-03,2023-02-09,EXPERIENCIA - SAC,6,Aprobada,CENTRO - BOGOTÁ,Vencimiento de plazo para pre matricula,Espitia Molina Nicolas,Aprobada,2023-02-09 16:46:24.940
-71,61906,2023-02-03,2023-02-04,EXPERIENCIA - SAC,1,Aprobada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Alonso Mora Lidy Stefania,Aprobada,2023-02-04 14:05:38.877
-72,61928,2023-02-04,2023-02-04,EXPERIENCIA - SAC,0,Aprobada,CENTRO - BOGOTÁ,Vencimiento de plazo para pre matricula,Espitia Molina Nicolas,Aprobada,2023-02-04 09:19:47.460
-73,61934,2023-02-04,2023-02-04,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Matrícula de módulo perdido en semestre vigente,Martinez Becerra Karen Meliza,Aprobada,2023-02-04 10:21:33.170
-74,61935,2023-02-04,2023-02-04,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Matrícula de módulo perdido en semestre vigente,Martinez Becerra Karen Meliza,Aprobada,2023-02-04 10:01:04.350
-75,61941,2023-02-04,2023-02-04,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Granados Ortega Adriana Lucia,Aprobada,2023-02-04 12:16:44.500
-76,61948,2023-02-04,2023-02-06,EXPERIENCIA - SAC,2,Aprobada,CHAPINERO - BOGOTÁ,Matrícula de módulo perdido en semestre vigente,Bohorquez Vasquez Micheel Alexandra,Aprobada,2023-02-06 08:44:13.653
-77,61949,2023-02-04,2023-02-12,EXPERIENCIA - SAC,8,En Proceso,SOACHA - CUNDINAMARCA,Matrícula de módulo perdido en semestre vigente,Espitia Molina Nicolas,En Proceso,2023-02-12 07:28:27.473
-78,61952,2023-02-04,2023-02-04,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Granados Ortega Adriana Lucia,Aprobada,2023-02-04 12:47:58.327
-79,61958,2023-02-04,2023-02-12,EXPERIENCIA - SAC,8,Rechazada,CHAPINERO - BOGOTÁ,Cruce de horario,Espitia Molina Nicolas,Rechazada,2023-02-12 07:29:32.113
-80,61965,2023-02-04,2023-02-04,EXPERIENCIA - SAC,0,En Proceso,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Bohorquez Vasquez Micheel Alexandra,En Proceso,2023-02-04 13:49:55.713
-81,61973,2023-02-04,2023-02-04,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Matrícula de módulo perdido en semestre vigente,Gil Rojas Leidy Dayana,Aprobada,2023-02-04 14:42:28.237
-82,61982,2023-02-04,2023-02-04,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Alonso Mora Lidy Stefania,Aprobada,2023-02-04 17:54:05.813
-83,61985,2023-02-04,2023-02-04,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Matrícula de módulo perdido en semestre vigente,Gil Rojas Leidy Dayana,Aprobada,2023-02-04 16:12:05.887
-84,61994,2023-02-04,2023-02-12,EXPERIENCIA - SAC,8,Rechazada,CENTRO - BOGOTÁ,Matrícula de módulo perdido en semestre vigente,Espitia Molina Nicolas,Rechazada,2023-02-12 08:01:05.230
+1,61310,2023-01-30,2023-01-30,EXPERIENCIA - SAC,0,Rechazada,SOACHA - CUNDINAMARCA,Matrícula de módulo perdido en semestre vigente,Espitia Molina Nicolas,En Proceso,2023-01-30 18:46:12.070
+2,61310,2023-01-30,2023-02-27,EXPERIENCIA - SAC,28,Rechazada,SOACHA - CUNDINAMARCA,Matrícula de módulo perdido en semestre vigente,Espitia Molina Nicolas,Rechazada,2023-02-27 13:59:14.697
+3,61312,2023-01-30,2023-01-30,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Bohorquez Vasquez Micheel Alexandra,Aprobada,2023-01-30 09:59:05.880
+4,61329,2023-01-30,2023-01-30,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Matrícula de módulo perdido en semestre vigente,Martinez Becerra Karen Meliza,Aprobada,2023-01-30 10:39:20.860
+5,61330,2023-01-30,2023-01-30,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Matrícula de módulo perdido en semestre vigente,Espitia Molina Nicolas,Aprobada,2023-01-30 12:48:49.397
+6,61332,2023-01-30,2023-01-30,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Matrícula de módulo perdido en semestre vigente,Espitia Molina Nicolas,Aprobada,2023-01-30 12:47:53.310
+7,61334,2023-01-30,2023-01-31,EXPERIENCIA - SAC,1,Aprobada,CHAPINERO - BOGOTÁ,Matrícula de módulo perdido en semestre vigente,Espitia Molina Nicolas,Aprobada,2023-01-31 11:09:39.983
+8,61334,2023-01-30,2023-01-31,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Matrícula de módulo perdido en semestre vigente,Espitia Molina Nicolas,En Proceso,2023-01-31 10:49:26.380
+9,61340,2023-01-30,2023-01-30,EXPERIENCIA - SAC,0,Aprobada,CENTRO - BOGOTÁ,Vencimiento de plazo para pre matricula,Espitia Molina Nicolas,Aprobada,2023-01-30 11:20:47.950
+10,61343,2023-01-30,2023-01-30,EXPERIENCIA - SAC,0,Aprobada,CENTRO - BOGOTÁ,Cambio de modulo,Martinez Becerra Karen Meliza,Aprobada,2023-01-30 11:42:11.297
+11,61348,2023-01-30,2023-01-30,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Matrícula de módulo perdido en semestre vigente,Espitia Molina Nicolas,Aprobada,2023-01-30 12:08:02.137
+12,61357,2023-01-30,2023-01-31,EXPERIENCIA - SAC,1,Rechazada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Espitia Molina Nicolas,Rechazada,2023-01-31 10:51:29.377
+13,61380,2023-01-30,2023-01-31,EXPERIENCIA - SAC,1,Aprobada,CHAPINERO - BOGOTÁ,Matrícula de módulo perdido en semestre vigente,Gil Rojas Leidy Dayana,En Proceso,2023-01-31 11:14:10.517
+14,61380,2023-01-30,2023-02-27,EXPERIENCIA - SAC,27,Aprobada,CHAPINERO - BOGOTÁ,Matrícula de módulo perdido en semestre vigente,Espitia Molina Nicolas,Aprobada,2023-02-27 16:58:55.830
+15,61383,2023-01-30,2023-01-30,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Alonso Mora Lidy Stefania,Aprobada,2023-01-30 16:04:22.857
+16,61386,2023-01-30,2023-01-30,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Cambio de modulo,Granados Ortega Adriana Lucia,En Proceso,2023-01-30 15:38:27.457
+17,61386,2023-01-30,2023-02-27,EXPERIENCIA - SAC,28,Aprobada,CHAPINERO - BOGOTÁ,Cambio de modulo,Espitia Molina Nicolas,Aprobada,2023-02-27 17:35:41.127
+18,61405,2023-01-30,2023-01-31,EXPERIENCIA - SAC,1,Aprobada,CHAPINERO - BOGOTÁ,Matrícula de módulo perdido en semestre vigente,Espitia Molina Nicolas,Aprobada,2023-01-31 10:31:38.673
+19,61406,2023-01-30,2023-01-30,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Granados Ortega Adriana Lucia,Aprobada,2023-01-30 16:58:35.333
+20,61452,2023-01-31,2023-01-31,EXPERIENCIA - SAC,0,Aprobada,SOACHA - CUNDINAMARCA,Matrícula de módulo perdido en semestre vigente,Martinez Becerra Karen Meliza,En Proceso,2023-01-31 09:37:05.990
+21,61452,2023-01-31,2023-02-11,EXPERIENCIA - SAC,11,Aprobada,SOACHA - CUNDINAMARCA,Matrícula de módulo perdido en semestre vigente,Bohorquez Vasquez Micheel Alexandra,Aprobada,2023-02-11 10:27:13.967
+22,61453,2023-01-31,2023-01-31,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Bohorquez Vasquez Micheel Alexandra,Aprobada,2023-01-31 09:25:26.330
+23,61455,2023-01-31,2023-01-31,EXPERIENCIA - SAC,0,Aprobada,SOACHA - CUNDINAMARCA,Vencimiento de plazo para pre matricula,Martinez Becerra Karen Meliza,Aprobada,2023-01-31 09:44:43.550
+24,61502,2023-01-31,2023-01-31,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Martinez Becerra Karen Meliza,Aprobada,2023-01-31 15:58:27.460
+25,61530,2023-01-31,2023-01-31,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Bohorquez Vasquez Micheel Alexandra,Aprobada,2023-01-31 15:34:59.853
+26,61558,2023-01-31,2023-01-31,EXPERIENCIA - SAC,0,Aprobada,CENTRO - BOGOTÁ,Vencimiento de plazo para pre matricula,Bohorquez Vasquez Micheel Alexandra,Aprobada,2023-01-31 17:46:33.967
+27,61561,2023-01-31,2023-02-09,EXPERIENCIA - SAC,9,Aprobada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Espitia Molina Nicolas,Aprobada,2023-02-09 15:49:38.920
+28,61568,2023-01-31,2023-02-01,EXPERIENCIA - SAC,1,Aprobada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Espitia Molina Nicolas,En Proceso,2023-02-01 13:34:12.533
+29,61568,2023-01-31,2023-02-02,EXPERIENCIA - SAC,1,Aprobada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Espitia Molina Nicolas,Aprobada,2023-02-02 12:26:04.963
+30,61584,2023-02-01,2023-02-01,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Matrícula de módulo perdido en semestre vigente,Espitia Molina Nicolas,Aprobada,2023-02-01 12:56:11.210
+31,61592,2023-02-01,2023-02-02,EXPERIENCIA - SAC,1,Aprobada,CHAPINERO - BOGOTÁ,Matrícula de módulo perdido en semestre vigente,Espitia Molina Nicolas,Aprobada,2023-02-02 15:36:24.700
+32,61600,2023-02-01,2023-02-02,EXPERIENCIA - SAC,1,Aprobada,CHAPINERO - BOGOTÁ,Matrícula de módulo perdido en semestre vigente,Bohorquez Vasquez Micheel Alexandra,Aprobada,2023-02-02 10:40:38.617
+33,61610,2023-02-01,2023-02-09,EXPERIENCIA - SAC,8,Rechazada,CHAPINERO - BOGOTÁ,Matrícula de módulo perdido en semestre vigente,Espitia Molina Nicolas,Rechazada,2023-02-09 15:56:12.093
+34,61618,2023-02-01,2023-02-01,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Espitia Molina Nicolas,Aprobada,2023-02-01 11:22:13.137
+35,61629,2023-02-01,2023-02-02,EXPERIENCIA - SAC,1,Rechazada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Espitia Molina Nicolas,Rechazada,2023-02-02 15:42:47.163
+36,61635,2023-02-01,2023-02-02,EXPERIENCIA - SAC,1,Rechazada,CHAPINERO - BOGOTÁ,Matrícula de módulo perdido en semestre vigente,Espitia Molina Nicolas,Rechazada,2023-02-02 16:00:07.910
+37,61639,2023-02-01,2023-02-01,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Martinez Becerra Karen Meliza,Aprobada,2023-02-01 12:57:40.640
+38,61641,2023-02-01,2023-02-01,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Matrícula de módulo perdido en semestre vigente,Mora Bernal Anyela Natalia,Aprobada,2023-02-01 12:59:52.623
+39,61645,2023-02-01,2023-02-01,EXPERIENCIA - SAC,0,Aprobada,CENTRO - BOGOTÁ,Vencimiento de plazo para pre matricula,Gil Rojas Leidy Dayana,Aprobada,2023-02-01 13:25:03.330
+40,61650,2023-02-01,2023-02-01,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Gil Rojas Leidy Dayana,Aprobada,2023-02-01 13:58:15.810
+41,61652,2023-02-01,2023-02-01,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Matrícula de módulo perdido en semestre vigente,Espitia Molina Nicolas,Aprobada,2023-02-01 15:14:27.483
+42,61655,2023-02-01,2023-02-01,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Bohorquez Vasquez Micheel Alexandra,Aprobada,2023-02-01 15:59:08.473
+43,61658,2023-02-01,2023-02-02,EXPERIENCIA - SAC,1,Aprobada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Espitia Molina Nicolas,Aprobada,2023-02-02 16:13:07.453
+44,61661,2023-02-01,2023-02-02,EXPERIENCIA - SAC,1,Aprobada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Espitia Molina Nicolas,En Proceso,2023-02-02 16:27:53.003
+45,61661,2023-02-01,2023-02-02,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Bohorquez Vasquez Micheel Alexandra,Aprobada,2023-02-02 17:23:15.580
+46,61672,2023-02-01,2023-02-02,EXPERIENCIA - SAC,1,Aprobada,CENTRO - BOGOTÁ,Vencimiento de plazo para pre matricula,Espitia Molina Nicolas,Aprobada,2023-02-02 16:33:10.000
+47,61689,2023-02-02,2023-02-02,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Matrícula de módulo perdido en semestre vigente,Espitia Molina Nicolas,En Proceso,2023-02-02 16:42:46.737
+48,61689,2023-02-02,2023-02-11,EXPERIENCIA - SAC,9,Aprobada,CHAPINERO - BOGOTÁ,Matrícula de módulo perdido en semestre vigente,Granados Ortega Adriana Lucia,En Proceso,2023-02-11 13:12:43.573
+49,61689,2023-02-02,2023-02-15,EXPERIENCIA - SAC,4,Aprobada,CHAPINERO - BOGOTÁ,Matrícula de módulo perdido en semestre vigente,Espitia Molina Nicolas,En Proceso,2023-02-15 18:42:58.507
+50,61689,2023-02-02,2023-02-16,EXPERIENCIA - SAC,1,Aprobada,CHAPINERO - BOGOTÁ,Matrícula de módulo perdido en semestre vigente,Granados Ortega Adriana Lucia,Aprobada,2023-02-16 09:22:27.410
+51,61695,2023-02-02,2023-02-02,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Cambio de modulo,Granados Ortega Adriana Lucia,En Proceso,2023-02-02 08:55:45.353
+52,61695,2023-02-02,2023-02-24,EXPERIENCIA - SAC,22,Aprobada,CHAPINERO - BOGOTÁ,Cambio de modulo,Granados Ortega Adriana Lucia,Aprobada,2023-02-24 11:58:00.747
+53,61717,2023-02-02,2023-02-02,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Alonso Mora Lidy Stefania,Aprobada,2023-02-02 12:11:07.883
+54,61725,2023-02-02,2023-02-02,EXPERIENCIA - SAC,0,Aprobada,CENTRO - BOGOTÁ,Vencimiento de plazo para pre matricula,Granados Ortega Adriana Lucia,Aprobada,2023-02-02 12:12:33.503
+55,61735,2023-02-02,2023-02-02,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Granados Ortega Adriana Lucia,Aprobada,2023-02-02 14:10:35.443
+56,61736,2023-02-02,2023-02-02,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Granados Ortega Adriana Lucia,Aprobada,2023-02-02 14:11:54.447
+57,61737,2023-02-02,2023-02-02,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Granados Ortega Adriana Lucia,Aprobada,2023-02-02 14:13:16.160
+58,61746,2023-02-02,2023-02-02,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Alonso Mora Lidy Stefania,Aprobada,2023-02-02 15:01:12.073
+59,61747,2023-02-02,2023-02-02,EXPERIENCIA - SAC,0,Aprobada,CENTRO - BOGOTÁ,Cambio de modulo,Gil Rojas Leidy Dayana,Aprobada,2023-02-02 15:38:28.253
+60,61759,2023-02-02,2023-02-09,EXPERIENCIA - SAC,7,Rechazada,SOACHA - CUNDINAMARCA,Cruce de horario,Espitia Molina Nicolas,Rechazada,2023-02-09 15:53:42.450
+61,61763,2023-02-02,2023-02-09,EXPERIENCIA - SAC,7,Aprobada,CENTRO - BOGOTÁ,Vencimiento de plazo para pre matricula,Espitia Molina Nicolas,Aprobada,2023-02-09 16:15:44.770
+62,61806,2023-02-03,2023-02-09,EXPERIENCIA - SAC,6,Rechazada,SOACHA - CUNDINAMARCA,Cruce de horario,Espitia Molina Nicolas,Rechazada,2023-02-09 16:21:19.203
+63,61818,2023-02-03,2023-02-03,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Granados Ortega Adriana Lucia,Aprobada,2023-02-03 10:03:28.330
+64,61821,2023-02-03,2023-02-09,EXPERIENCIA - SAC,6,Aprobada,CHAPINERO - BOGOTÁ,Matrícula de módulo perdido en semestre vigente,Espitia Molina Nicolas,En Proceso,2023-02-09 16:28:04.977
+65,61821,2023-02-03,2023-02-24,EXPERIENCIA - SAC,15,Aprobada,CHAPINERO - BOGOTÁ,Matrícula de módulo perdido en semestre vigente,Espitia Molina Nicolas,Aprobada,2023-02-24 00:00:00.000
+66,61828,2023-02-03,2023-02-03,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Matrícula de módulo perdido en semestre vigente,Granados Ortega Adriana Lucia,Aprobada,2023-02-03 10:30:44.333
+67,61830,2023-02-03,2023-02-03,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Matrícula de módulo perdido en semestre vigente,Mora Bernal Anyela Natalia,Aprobada,2023-02-03 13:13:52.570
+68,61830,2023-02-03,2023-02-03,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Matrícula de módulo perdido en semestre vigente,Mora Bernal Anyela Natalia,En Proceso,2023-02-03 10:46:29.053
+69,61840,2023-02-03,2023-02-03,EXPERIENCIA - SAC,0,Rechazada,CENTRO - BOGOTÁ,Vencimiento de plazo para pre matricula,Espitia Molina Nicolas,Rechazada,2023-02-03 11:45:54.973
+70,61860,2023-02-03,2023-02-03,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Gil Rojas Leidy Dayana,Aprobada,2023-02-03 12:42:58.523
+71,61861,2023-02-03,2023-02-03,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Alonso Mora Lidy Stefania,Aprobada,2023-02-03 13:00:32.543
+72,61863,2023-02-03,2023-02-03,EXPERIENCIA - SAC,0,Aprobada,CENTRO - BOGOTÁ,Matrícula de módulo perdido en semestre vigente,Espitia Molina Nicolas,Aprobada,2023-02-03 13:04:33.577
+73,61887,2023-02-03,2023-02-03,EXPERIENCIA - SAC,0,Aprobada,CENTRO - BOGOTÁ,Vencimiento de plazo para pre matricula,Mora Bernal Anyela Natalia,Aprobada,2023-02-03 18:03:41.080
+74,61898,2023-02-03,2023-02-09,EXPERIENCIA - SAC,6,Aprobada,CHAPINERO - BOGOTÁ,Matrícula de módulo perdido en semestre vigente,Granados Ortega Adriana Lucia,Aprobada,2023-02-09 16:48:01.307
+75,61902,2023-02-03,2023-02-09,EXPERIENCIA - SAC,6,Aprobada,CENTRO - BOGOTÁ,Vencimiento de plazo para pre matricula,Espitia Molina Nicolas,Aprobada,2023-02-09 16:46:24.940
+76,61906,2023-02-03,2023-02-04,EXPERIENCIA - SAC,1,Aprobada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Alonso Mora Lidy Stefania,Aprobada,2023-02-04 14:05:38.877
+77,61928,2023-02-04,2023-02-04,EXPERIENCIA - SAC,0,Aprobada,CENTRO - BOGOTÁ,Vencimiento de plazo para pre matricula,Espitia Molina Nicolas,Aprobada,2023-02-04 09:19:47.460
+78,61934,2023-02-04,2023-02-04,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Matrícula de módulo perdido en semestre vigente,Martinez Becerra Karen Meliza,Aprobada,2023-02-04 10:21:33.170
+79,61935,2023-02-04,2023-02-04,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Matrícula de módulo perdido en semestre vigente,Martinez Becerra Karen Meliza,Aprobada,2023-02-04 10:01:04.350
+80,61941,2023-02-04,2023-02-04,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Granados Ortega Adriana Lucia,Aprobada,2023-02-04 12:16:44.500
+81,61948,2023-02-04,2023-02-06,EXPERIENCIA - SAC,2,Aprobada,CHAPINERO - BOGOTÁ,Matrícula de módulo perdido en semestre vigente,Bohorquez Vasquez Micheel Alexandra,Aprobada,2023-02-06 08:44:13.653
+82,61949,2023-02-04,2023-02-12,EXPERIENCIA - SAC,8,Rechazada,SOACHA - CUNDINAMARCA,Matrícula de módulo perdido en semestre vigente,Espitia Molina Nicolas,En Proceso,2023-02-12 07:28:27.473
+83,61949,2023-02-04,2023-02-24,EXPERIENCIA - SAC,12,Rechazada,SOACHA - CUNDINAMARCA,Matrícula de módulo perdido en semestre vigente,Espitia Molina Nicolas,En Proceso,2023-02-24 12:38:23.973
+84,61949,2023-02-04,2023-02-24,EXPERIENCIA - SAC,0,Rechazada,SOACHA - CUNDINAMARCA,Matrícula de módulo perdido en semestre vigente,Espitia Molina Nicolas,En Proceso,2023-02-24 15:16:59.577
+85,61949,2023-02-04,2023-02-27,EXPERIENCIA - SAC,3,Rechazada,SOACHA - CUNDINAMARCA,Matrícula de módulo perdido en semestre vigente,Espitia Molina Nicolas,Rechazada,2023-02-27 17:19:04.407
+86,61952,2023-02-04,2023-02-04,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Granados Ortega Adriana Lucia,Aprobada,2023-02-04 12:47:58.327
+87,61958,2023-02-04,2023-02-12,EXPERIENCIA - SAC,8,Rechazada,CHAPINERO - BOGOTÁ,Cruce de horario,Espitia Molina Nicolas,Rechazada,2023-02-12 07:29:32.113
+88,61965,2023-02-04,2023-02-04,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Bohorquez Vasquez Micheel Alexandra,En Proceso,2023-02-04 13:49:55.713
+89,61965,2023-02-04,2023-02-24,EXPERIENCIA - SAC,20,Aprobada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Espitia Molina Nicolas,Aprobada,2023-02-24 15:29:16.900
+90,61973,2023-02-04,2023-02-04,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Matrícula de módulo perdido en semestre vigente,Gil Rojas Leidy Dayana,Aprobada,2023-02-04 14:42:28.237
+91,61982,2023-02-04,2023-02-04,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Alonso Mora Lidy Stefania,Aprobada,2023-02-04 17:54:05.813
+92,61985,2023-02-04,2023-02-04,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Matrícula de módulo perdido en semestre vigente,Gil Rojas Leidy Dayana,Aprobada,2023-02-04 16:12:05.887
+93,61994,2023-02-04,2023-02-12,EXPERIENCIA - SAC,8,Rechazada,CENTRO - BOGOTÁ,Matrícula de módulo perdido en semestre vigente,Espitia Molina Nicolas,Rechazada,2023-02-12 08:01:05.230
+94,62005,2023-02-05,2023-02-05,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Granados Ortega Adriana Lucia,Aprobada,2023-02-05 12:12:00.473
+95,62053,2023-02-06,2023-02-07,EXPERIENCIA - SAC,1,Aprobada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Martinez Becerra Karen Meliza,Aprobada,2023-02-07 18:50:08.333
+96,62057,2023-02-06,2023-02-10,EXPERIENCIA - SAC,4,Aprobada,CENTRO - BOGOTÁ,Matrícula de módulo perdido en semestre vigente,Granados Ortega Adriana Lucia,Aprobada,2023-02-10 14:19:34.600
+97,62062,2023-02-06,2023-02-12,EXPERIENCIA - SAC,6,Rechazada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Espitia Molina Nicolas,Rechazada,2023-02-12 08:02:43.513
+98,62072,2023-02-06,2023-02-06,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Alonso Mora Lidy Stefania,Aprobada,2023-02-06 09:37:01.853
+99,62084,2023-02-06,2023-02-06,EXPERIENCIA - SAC,0,Aprobada,CENTRO - BOGOTÁ,Matrícula de módulo perdido en semestre vigente,Bohorquez Vasquez Micheel Alexandra,Aprobada,2023-02-06 09:23:34.063
+100,62111,2023-02-06,2023-02-13,EXPERIENCIA - SAC,7,Aprobada,CHAPINERO - BOGOTÁ,Matrícula de módulo perdido en semestre vigente,Espitia Molina Nicolas,Aprobada,2023-02-13 12:14:50.990
+101,62121,2023-02-06,2023-02-12,EXPERIENCIA - SAC,6,Aprobada,CHAPINERO - BOGOTÁ,Matrícula de módulo perdido en semestre vigente,Espitia Molina Nicolas,Aprobada,2023-02-12 08:23:59.807
+102,62129,2023-02-06,2023-02-12,EXPERIENCIA - SAC,6,Aprobada,SOACHA - CUNDINAMARCA,Matrícula de módulo perdido en semestre vigente,Espitia Molina Nicolas,Aprobada,2023-02-12 08:35:01.483
+103,62143,2023-02-06,2023-02-06,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Gil Rojas Leidy Dayana,Aprobada,2023-02-06 10:51:26.453
+104,62151,2023-02-06,2023-02-08,EXPERIENCIA - SAC,2,Aprobada,CHAPINERO - BOGOTÁ,Matrícula de módulo perdido en semestre vigente,Gil Rojas Leidy Dayana,Aprobada,2023-02-08 10:11:15.830
+105,62153,2023-02-06,2023-02-08,EXPERIENCIA - SAC,2,Aprobada,CHAPINERO - BOGOTÁ,Matrícula de módulo perdido en semestre vigente,Granados Ortega Adriana Lucia,Aprobada,2023-02-08 08:19:15.947
+106,62154,2023-02-06,2023-02-10,EXPERIENCIA - SAC,4,Aprobada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Granados Ortega Adriana Lucia,Aprobada,2023-02-10 08:50:04.303
+107,62159,2023-02-06,2023-02-06,EXPERIENCIA - SAC,0,Aprobada,CENTRO - BOGOTÁ,Vencimiento de plazo para pre matricula,Espitia Molina Nicolas,Aprobada,2023-02-06 11:22:40.143
+108,62182,2023-02-06,2023-02-08,EXPERIENCIA - SAC,2,Aprobada,CENTRO - BOGOTÁ,Vencimiento de plazo para pre matricula,Alonso Mora Lidy Stefania,En Proceso,2023-02-08 08:20:03.993
+109,62182,2023-02-06,2023-02-08,EXPERIENCIA - SAC,0,Aprobada,CENTRO - BOGOTÁ,Vencimiento de plazo para pre matricula,Espitia Molina Nicolas,Aprobada,2023-02-08 09:00:28.413
+110,62183,2023-02-06,2023-02-06,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Matrícula de módulo perdido en semestre vigente,Bohorquez Vasquez Micheel Alexandra,Aprobada,2023-02-06 12:44:06.947
+111,62202,2023-02-06,2023-02-06,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Matrícula de módulo perdido en semestre vigente,Alonso Mora Lidy Stefania,Aprobada,2023-02-06 13:38:09.390
+112,62206,2023-02-06,2023-02-06,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Alonso Mora Lidy Stefania,Aprobada,2023-02-06 13:12:53.947
+113,62207,2023-02-06,2023-02-10,EXPERIENCIA - SAC,4,Aprobada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Granados Ortega Adriana Lucia,Aprobada,2023-02-10 12:13:09.663
+114,62264,2023-02-06,2023-02-06,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Matrícula de módulo perdido en semestre vigente,Alonso Mora Lidy Stefania,Aprobada,2023-02-06 15:54:21.057
+115,62284,2023-02-06,2023-02-06,EXPERIENCIA - SAC,0,Rechazada,CHAPINERO - BOGOTÁ,Matrícula de módulo perdido en semestre vigente,Bohorquez Vasquez Micheel Alexandra,Rechazada,2023-02-06 16:37:45.280
+116,62287,2023-02-06,2023-02-06,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Matrícula de módulo perdido en semestre vigente,Bohorquez Vasquez Micheel Alexandra,Aprobada,2023-02-06 17:35:23.850
+117,62290,2023-02-06,2023-02-10,EXPERIENCIA - SAC,4,Aprobada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Granados Ortega Adriana Lucia,Aprobada,2023-02-10 09:25:52.333
+118,62291,2023-02-06,2023-02-06,EXPERIENCIA - SAC,0,Aprobada,CENTRO - BOGOTÁ,Vencimiento de plazo para pre matricula,Granados Ortega Adriana Lucia,Aprobada,2023-02-06 17:35:44.900
+119,62297,2023-02-06,2023-02-10,EXPERIENCIA - SAC,4,Aprobada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Granados Ortega Adriana Lucia,Aprobada,2023-02-10 09:22:44.010
+120,62305,2023-02-06,2023-02-06,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Matrícula de módulo perdido en semestre vigente,Bohorquez Vasquez Micheel Alexandra,Aprobada,2023-02-06 18:01:56.860
+121,62311,2023-02-06,2023-02-12,EXPERIENCIA - SAC,6,Rechazada,CHAPINERO - BOGOTÁ,Cambio de modulo,Espitia Molina Nicolas,Rechazada,2023-02-12 08:36:36.177
+122,62338,2023-02-06,2023-02-12,EXPERIENCIA - SAC,6,Aprobada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Espitia Molina Nicolas,Aprobada,2023-02-12 08:46:32.673
+123,62365,2023-02-06,2023-02-12,EXPERIENCIA - SAC,6,Aprobada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Espitia Molina Nicolas,En Proceso,2023-02-12 08:54:24.610
+124,62365,2023-02-06,2023-02-13,EXPERIENCIA - SAC,1,Aprobada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Mora Bernal Anyela Natalia,Aprobada,2023-02-13 12:59:02.970
+125,62392,2023-02-07,2023-02-10,EXPERIENCIA - SAC,3,Aprobada,CENTRO - BOGOTÁ,Vencimiento de plazo para pre matricula,Bohorquez Vasquez Micheel Alexandra,Aprobada,2023-02-10 10:56:31.863
+126,62400,2023-02-07,2023-02-07,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Granados Ortega Adriana Lucia,Aprobada,2023-02-07 09:23:38.417
+127,62430,2023-02-07,2023-02-10,EXPERIENCIA - SAC,3,Aprobada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Granados Ortega Adriana Lucia,Aprobada,2023-02-10 12:15:45.073
+128,62441,2023-02-07,2023-02-12,EXPERIENCIA - SAC,5,Aprobada,SOACHA - CUNDINAMARCA,Vencimiento de plazo para pre matricula,Espitia Molina Nicolas,En Proceso,2023-02-12 08:57:26.763
+129,62441,2023-02-07,2023-02-20,EXPERIENCIA - SAC,8,Aprobada,SOACHA - CUNDINAMARCA,Vencimiento de plazo para pre matricula,Gil Rojas Leidy Dayana,Aprobada,2023-02-20 09:03:32.570
+130,62451,2023-02-07,2023-02-02,EXPERIENCIA - SAC,-5,Aprobada,CHAPINERO - BOGOTÁ,Matrícula de módulo perdido en semestre vigente,Espitia Molina Nicolas,Aprobada,2023-02-02 00:00:00.000
+131,62458,2023-02-07,2023-02-12,EXPERIENCIA - SAC,5,Rechazada,CENTRO - BOGOTÁ,Matrícula de módulo perdido en semestre vigente,Espitia Molina Nicolas,Rechazada,2023-02-12 09:03:35.803
+132,62460,2023-02-07,2023-02-07,EXPERIENCIA - SAC,0,Aprobada,CENTRO - BOGOTÁ,Matrícula de módulo perdido en semestre vigente,Granados Ortega Adriana Lucia,Aprobada,2023-02-07 16:15:20.657
+133,62478,2023-02-07,2023-02-08,EXPERIENCIA - SAC,1,Aprobada,CHAPINERO - BOGOTÁ,Matrícula de módulo perdido en semestre vigente,Bohorquez Vasquez Micheel Alexandra,Aprobada,2023-02-08 15:16:32.940
+134,62481,2023-02-07,2023-02-07,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Cambio de modulo,Espitia Molina Nicolas,En Proceso,2023-02-07 12:58:08.293
+135,62481,2023-02-07,2023-02-24,EXPERIENCIA - SAC,17,Aprobada,CHAPINERO - BOGOTÁ,Cambio de modulo,Espitia Molina Nicolas,Aprobada,2023-02-24 15:50:30.150
+136,62502,2023-02-07,2023-02-07,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Matrícula de módulo perdido en semestre vigente,Granados Ortega Adriana Lucia,Aprobada,2023-02-07 14:03:21.987
+137,62512,2023-02-07,2023-02-12,EXPERIENCIA - SAC,5,Aprobada,SOACHA - CUNDINAMARCA,Matrícula de módulo perdido en semestre vigente,Espitia Molina Nicolas,Aprobada,2023-02-12 09:18:24.490
+138,62561,2023-02-07,2023-02-07,EXPERIENCIA - SAC,0,Aprobada,CENTRO - BOGOTÁ,Vencimiento de plazo para pre matricula,Gil Rojas Leidy Dayana,Aprobada,2023-02-07 16:48:29.023
+139,62589,2023-02-07,2023-02-10,EXPERIENCIA - SAC,3,Aprobada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Granados Ortega Adriana Lucia,Aprobada,2023-02-10 14:04:40.940
+140,62598,2023-02-07,2023-02-07,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Matrícula de módulo perdido en semestre vigente,Granados Ortega Adriana Lucia,Aprobada,2023-02-07 18:11:18.593
+141,62607,2023-02-07,2023-02-07,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Bohorquez Vasquez Micheel Alexandra,Aprobada,2023-02-07 18:55:22.740
+142,62619,2023-02-07,2023-02-12,EXPERIENCIA - SAC,5,Aprobada,CENTRO - BOGOTÁ,Vencimiento de plazo para pre matricula,Espitia Molina Nicolas,Aprobada,2023-02-12 09:30:21.133
+143,62689,2023-02-08,2023-02-08,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Gil Rojas Leidy Dayana,Aprobada,2023-02-08 08:06:20.833
+144,62717,2023-02-08,2023-02-23,EXPERIENCIA - SAC,15,Aprobada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Granados Ortega Adriana Lucia,Aprobada,2023-02-23 14:10:47.030
+145,62720,2023-02-08,2023-02-08,EXPERIENCIA - SAC,0,Aprobada,CENTRO - BOGOTÁ,Matrícula de módulo perdido en semestre vigente,Bohorquez Vasquez Micheel Alexandra,Aprobada,2023-02-08 10:06:53.800
+146,62734,2023-02-08,2023-02-08,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Granados Ortega Adriana Lucia,Aprobada,2023-02-08 10:08:39.423
+147,62739,2023-02-08,2023-02-08,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Granados Ortega Adriana Lucia,Aprobada,2023-02-08 10:19:39.380
+148,62741,2023-02-08,2023-02-13,EXPERIENCIA - SAC,5,Aprobada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Granados Ortega Adriana Lucia,Aprobada,2023-02-13 14:56:28.610
+149,62747,2023-02-08,2023-02-08,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Matrícula de módulo perdido en semestre vigente,Granados Ortega Adriana Lucia,Aprobada,2023-02-08 10:47:02.507
+150,62750,2023-02-08,2023-02-08,EXPERIENCIA - SAC,0,Aprobada,CENTRO - BOGOTÁ,Vencimiento de plazo para pre matricula,Gil Rojas Leidy Dayana,Aprobada,2023-02-08 10:56:07.120
+151,62756,2023-02-08,2023-02-08,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Granados Ortega Adriana Lucia,Aprobada,2023-02-08 10:58:15.470
+152,62759,2023-02-08,2023-02-08,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Granados Ortega Adriana Lucia,Aprobada,2023-02-08 11:15:45.440
+153,62760,2023-02-08,2023-02-08,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Granados Ortega Adriana Lucia,Aprobada,2023-02-08 11:12:50.877
+154,62767,2023-02-08,2023-02-12,EXPERIENCIA - SAC,4,Aprobada,CENTRO - BOGOTÁ,Vencimiento de plazo para pre matricula,Espitia Molina Nicolas,En Proceso,2023-02-12 09:42:12.973
+155,62767,2023-02-08,2023-02-13,EXPERIENCIA - SAC,1,Aprobada,CENTRO - BOGOTÁ,Vencimiento de plazo para pre matricula,Granados Ortega Adriana Lucia,Aprobada,2023-02-13 16:33:51.880
+156,62772,2023-02-08,2023-02-08,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Matrícula de módulo perdido en semestre vigente,Gil Rojas Leidy Dayana,Aprobada,2023-02-08 12:00:22.137
+157,62774,2023-02-08,2023-02-12,EXPERIENCIA - SAC,4,Rechazada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Espitia Molina Nicolas,En Proceso,2023-02-12 10:08:56.360
+158,62774,2023-02-08,2023-02-24,EXPERIENCIA - SAC,12,Rechazada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Espitia Molina Nicolas,En Proceso,2023-02-24 15:58:45.967
+159,62774,2023-02-08,2023-02-27,EXPERIENCIA - SAC,3,Rechazada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Espitia Molina Nicolas,Rechazada,2023-02-27 17:19:45.537
+160,62795,2023-02-08,2023-02-08,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Granados Ortega Adriana Lucia,Aprobada,2023-02-08 13:15:04.570
+161,62807,2023-02-08,2023-02-08,EXPERIENCIA - SAC,0,Rechazada,CHAPINERO - BOGOTÁ,Matrícula de módulo perdido en semestre vigente,Espitia Molina Nicolas,Rechazada,2023-02-08 13:40:30.850
+162,62808,2023-02-08,2023-02-08,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Matrícula de módulo perdido en semestre vigente,Espitia Molina Nicolas,Aprobada,2023-02-08 13:50:09.187
+163,62809,2023-02-08,2023-02-08,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Matrícula de módulo perdido en semestre vigente,Espitia Molina Nicolas,Aprobada,2023-02-08 13:59:53.270
+164,62861,2023-02-08,2023-02-12,EXPERIENCIA - SAC,4,Rechazada,CHAPINERO - BOGOTÁ,Matrícula de módulo perdido en semestre vigente,Espitia Molina Nicolas,Rechazada,2023-02-12 10:12:20.053
+165,62881,2023-02-08,2023-02-08,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Alonso Mora Lidy Stefania,Aprobada,2023-02-08 18:33:18.293
+166,62928,2023-02-08,2023-02-12,EXPERIENCIA - SAC,4,Aprobada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Espitia Molina Nicolas,En Proceso,2023-02-12 10:23:56.013
+167,62928,2023-02-08,2023-02-13,EXPERIENCIA - SAC,1,Aprobada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Bohorquez Vasquez Micheel Alexandra,Aprobada,2023-02-13 15:40:28.673
+168,62943,2023-02-09,2023-02-14,EXPERIENCIA - SAC,5,Aprobada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Beltrán Darly Valentina,Aprobada,2023-02-14 09:49:44.310
+169,62945,2023-02-09,2023-02-12,EXPERIENCIA - SAC,3,Rechazada,CHAPINERO - BOGOTÁ,Matrícula de módulo perdido en semestre vigente,Espitia Molina Nicolas,Rechazada,2023-02-12 10:35:03.463
+170,62986,2023-02-09,2023-02-09,EXPERIENCIA - SAC,0,Aprobada,CENTRO - BOGOTÁ,Matrícula de módulo perdido en semestre vigente,Granados Ortega Adriana Lucia,Aprobada,2023-02-09 11:41:37.570
+171,63001,2023-02-09,2023-02-12,EXPERIENCIA - SAC,3,Rechazada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Espitia Molina Nicolas,En Proceso,2023-02-12 10:38:30.540
+172,63001,2023-02-09,2023-02-24,EXPERIENCIA - SAC,12,Rechazada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Espitia Molina Nicolas,En Proceso,2023-02-24 16:01:01.643
+173,63001,2023-02-09,2023-02-27,EXPERIENCIA - SAC,3,Rechazada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Espitia Molina Nicolas,Rechazada,2023-02-27 17:21:56.637
+174,63005,2023-02-09,2023-02-12,EXPERIENCIA - SAC,3,Aprobada,CHAPINERO - BOGOTÁ,Cambio de modulo,Espitia Molina Nicolas,En Proceso,2023-02-12 10:45:53.927
+175,63005,2023-02-09,2023-02-24,EXPERIENCIA - SAC,12,Aprobada,CHAPINERO - BOGOTÁ,Cambio de modulo,Espitia Molina Nicolas,Aprobada,2023-02-24 16:08:24.520
+176,63009,2023-02-09,2023-02-12,EXPERIENCIA - SAC,3,Aprobada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Espitia Molina Nicolas,Aprobada,2023-02-12 11:02:16.147
+177,63046,2023-02-09,2023-02-13,EXPERIENCIA - SAC,4,Rechazada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Espitia Molina Nicolas,Rechazada,2023-02-13 11:15:51.813
+178,63048,2023-02-09,2023-02-11,EXPERIENCIA - SAC,2,Aprobada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Granados Ortega Adriana Lucia,Aprobada,2023-02-11 13:32:48.527
+179,63052,2023-02-09,2023-02-11,EXPERIENCIA - SAC,2,Aprobada,CHAPINERO - BOGOTÁ,Matrícula de módulo perdido en semestre vigente,Mora Bernal Anyela Natalia,Aprobada,2023-02-11 14:41:57.893
+180,63092,2023-02-09,2023-02-09,EXPERIENCIA - SAC,0,Rechazada,CENTRO - BOGOTÁ,Cambio de modulo,Mora Bernal Anyela Natalia,Rechazada,2023-02-09 16:36:29.293
+181,63101,2023-02-09,2023-02-13,EXPERIENCIA - SAC,4,Aprobada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Espitia Molina Nicolas,Aprobada,2023-02-13 10:42:40.447
+182,63118,2023-02-09,2023-02-09,EXPERIENCIA - SAC,0,Aprobada,CENTRO - BOGOTÁ,Vencimiento de plazo para pre matricula,Gil Rojas Leidy Dayana,Aprobada,2023-02-09 16:23:16.897
+183,63120,2023-02-09,2023-02-13,EXPERIENCIA - SAC,4,Aprobada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Espitia Molina Nicolas,Aprobada,2023-02-13 12:42:32.937
+184,63141,2023-02-09,2023-02-15,EXPERIENCIA - SAC,6,Aprobada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Beltrán Darly Valentina,Aprobada,2023-02-15 13:35:59.007
+185,63144,2023-02-09,2023-02-09,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Matrícula de módulo perdido en semestre vigente,Granados Ortega Adriana Lucia,Aprobada,2023-02-09 18:56:54.310
+186,63156,2023-02-09,2023-02-09,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Matrícula de módulo perdido en semestre vigente,Granados Ortega Adriana Lucia,Aprobada,2023-02-09 19:02:59.870
+187,63162,2023-02-09,2023-01-25,EXPERIENCIA - SAC,-15,Aprobada,SOACHA - CUNDINAMARCA,Matrícula de módulo perdido en semestre vigente,Espitia Molina Nicolas,Aprobada,2023-01-25 00:00:00.000
+188,63203,2023-02-10,2023-02-10,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Matrícula de módulo perdido en semestre vigente,Bohorquez Vasquez Micheel Alexandra,Aprobada,2023-02-10 09:00:37.653
+189,63230,2023-02-10,2023-02-13,EXPERIENCIA - SAC,3,Aprobada,CHAPINERO - BOGOTÁ,Matrícula de módulo perdido en semestre vigente,Espitia Molina Nicolas,En Proceso,2023-02-13 13:19:31.073
+190,63230,2023-02-10,2023-02-24,EXPERIENCIA - SAC,11,Aprobada,CHAPINERO - BOGOTÁ,Matrícula de módulo perdido en semestre vigente,Mora Bernal Anyela Natalia,Aprobada,2023-02-24 13:53:49.947
+191,63244,2023-02-10,2023-02-10,EXPERIENCIA - SAC,0,Rechazada,CENTRO - BOGOTÁ,Cambio de modulo,Gil Rojas Leidy Dayana,En Proceso,2023-02-10 10:51:41.420
+192,63244,2023-02-10,2023-02-27,EXPERIENCIA - SAC,17,Rechazada,CENTRO - BOGOTÁ,Cambio de modulo,Espitia Molina Nicolas,Rechazada,2023-02-27 18:05:18.697
+193,63245,2023-02-10,2023-02-10,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Matrícula de módulo perdido en semestre vigente,Martinez Becerra Karen Meliza,Aprobada,2023-02-10 10:58:01.040
+194,63286,2023-02-10,2023-02-10,EXPERIENCIA - SAC,0,Aprobada,CENTRO - BOGOTÁ,Matrícula de módulo perdido en semestre vigente,Bohorquez Vasquez Micheel Alexandra,Aprobada,2023-02-10 13:06:44.053
+195,63296,2023-02-10,2023-02-10,EXPERIENCIA - SAC,0,Aprobada,SOACHA - CUNDINAMARCA,Vencimiento de plazo para pre matricula,Martinez Becerra Karen Meliza,Aprobada,2023-02-10 14:00:30.417
+196,63308,2023-02-10,2023-02-10,EXPERIENCIA - SAC,0,Aprobada,CONVENIOS,Matrícula de módulo perdido en semestre vigente,Granados Ortega Adriana Lucia,Aprobada,2023-02-10 14:36:13.820
+197,63316,2023-02-10,2023-02-13,EXPERIENCIA - SAC,3,Aprobada,CHAPINERO - BOGOTÁ,Matrícula de módulo perdido en semestre vigente,Espitia Molina Nicolas,Aprobada,2023-02-13 13:57:37.323
+198,63317,2023-02-10,2023-02-15,EXPERIENCIA - SAC,5,Aprobada,CHAPINERO - BOGOTÁ,Matrícula de módulo perdido en semestre vigente,Espitia Molina Nicolas,Aprobada,2023-02-15 10:55:29.680
+199,63319,2023-02-10,2023-02-13,EXPERIENCIA - SAC,3,Rechazada,CHAPINERO - BOGOTÁ,Matrícula de módulo perdido en semestre vigente,Espitia Molina Nicolas,Rechazada,2023-02-13 13:59:23.000
+200,63330,2023-02-10,2023-02-10,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Cambio de modulo,Gil Rojas Leidy Dayana,En Proceso,2023-02-10 16:22:05.510
+201,63330,2023-02-10,2023-02-24,EXPERIENCIA - SAC,14,Aprobada,CHAPINERO - BOGOTÁ,Cambio de modulo,Espitia Molina Nicolas,Aprobada,2023-02-24 16:19:03.907
+202,63341,2023-02-10,2023-02-10,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Espitia Molina Nicolas,Aprobada,2023-02-10 00:00:00.000
+203,63427,2023-02-11,2023-02-11,EXPERIENCIA - SAC,0,Rechazada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Alonso Mora Lidy Stefania,Rechazada,2023-02-11 11:49:59.577
+204,63431,2023-02-11,2023-02-11,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Granados Ortega Adriana Lucia,Aprobada,2023-02-11 10:19:08.920
+205,63432,2023-02-11,2023-02-11,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Matrícula de módulo perdido en semestre vigente,Granados Ortega Adriana Lucia,Aprobada,2023-02-11 10:28:05.557
+206,63433,2023-02-11,2023-02-11,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Granados Ortega Adriana Lucia,Aprobada,2023-02-11 10:31:11.710
+207,63435,2023-02-11,2023-02-11,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Granados Ortega Adriana Lucia,Aprobada,2023-02-11 11:05:36.490
+208,63448,2023-02-11,2023-02-11,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Espitia Molina Nicolas,Aprobada,2023-02-11 11:51:06.653
+209,63478,2023-02-11,2023-02-11,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Espitia Molina Nicolas,Aprobada,2023-02-11 00:00:00.000
+210,63480,2023-02-11,2023-02-11,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Espitia Molina Nicolas,Aprobada,2023-02-11 13:24:45.760
+211,63485,2023-02-11,2023-02-17,EXPERIENCIA - SAC,6,Aprobada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Espitia Molina Nicolas,Aprobada,2023-02-17 10:55:02.213
+212,63491,2023-02-11,2023-02-11,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Espitia Molina Nicolas,Aprobada,2023-02-11 00:00:00.000
+213,63499,2023-02-11,2023-02-15,EXPERIENCIA - SAC,4,Aprobada,CHAPINERO - BOGOTÁ,Matrícula de módulo perdido en semestre vigente,Espitia Molina Nicolas,En Proceso,2023-02-15 11:47:32.443
+214,63499,2023-02-11,2023-02-15,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Matrícula de módulo perdido en semestre vigente,Espitia Molina Nicolas,Aprobada,2023-02-15 12:47:11.230
+215,63507,2023-02-11,2023-02-11,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Matrícula de módulo perdido en semestre vigente,Granados Ortega Adriana Lucia,Aprobada,2023-02-11 15:00:13.323
+216,63516,2023-02-11,2023-02-11,EXPERIENCIA - SAC,0,Rechazada,SOACHA - CUNDINAMARCA,Vencimiento de plazo para pre matricula,Mora Bernal Anyela Natalia,Rechazada,2023-02-11 16:26:03.880
+217,63527,2023-02-11,2023-02-15,EXPERIENCIA - SAC,4,Aprobada,CENTRO - BOGOTÁ,Matrícula de módulo perdido en semestre vigente,Espitia Molina Nicolas,En Proceso,2023-02-15 11:50:56.377
+218,63527,2023-02-11,2023-02-24,EXPERIENCIA - SAC,9,Aprobada,CENTRO - BOGOTÁ,Matrícula de módulo perdido en semestre vigente,Espitia Molina Nicolas,Aprobada,2023-02-24 16:25:32.517
+219,63529,2023-02-11,2023-02-15,EXPERIENCIA - SAC,4,Aprobada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Espitia Molina Nicolas,En Proceso,2023-02-15 11:57:42.553
+220,63529,2023-02-11,2023-02-24,EXPERIENCIA - SAC,9,Aprobada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Espitia Molina Nicolas,Aprobada,2023-02-24 16:31:40.287
+221,63535,2023-02-11,2023-02-11,EXPERIENCIA - SAC,0,Aprobada,SOACHA - CUNDINAMARCA,Vencimiento de plazo para pre matricula,Mora Bernal Anyela Natalia,Aprobada,2023-02-11 16:56:24.623
+222,63543,2023-02-11,2023-02-17,EXPERIENCIA - SAC,6,Aprobada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Espitia Molina Nicolas,Aprobada,2023-02-17 12:15:01.627
+223,63544,2023-02-11,2023-02-11,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Matrícula de módulo perdido en semestre vigente,Granados Ortega Adriana Lucia,En Proceso,2023-02-11 17:47:26.933
+224,63544,2023-02-11,2023-02-24,EXPERIENCIA - SAC,13,Aprobada,CHAPINERO - BOGOTÁ,Matrícula de módulo perdido en semestre vigente,Espitia Molina Nicolas,Aprobada,2023-02-24 17:17:24.997
+225,63581,2023-02-12,2023-02-12,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Bohorquez Vasquez Micheel Alexandra,Aprobada,2023-02-12 09:03:27.630
+226,63592,2023-02-12,2023-02-12,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Granados Ortega Adriana Lucia,Aprobada,2023-02-12 11:15:00.703
+227,63593,2023-02-12,2023-02-12,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Matrícula de módulo perdido en semestre vigente,Mora Bernal Anyela Natalia,Aprobada,2023-02-12 10:54:28.977
+228,63609,2023-02-12,2023-02-16,EXPERIENCIA - SAC,4,Aprobada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Espitia Molina Nicolas,Aprobada,2023-02-16 13:03:37.567
+229,63621,2023-02-12,2023-02-16,EXPERIENCIA - SAC,4,Aprobada,CENTRO - BOGOTÁ,Matrícula de módulo perdido en semestre vigente,Espitia Molina Nicolas,Aprobada,2023-02-16 13:55:01.667
+230,63668,2023-02-13,2023-02-13,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Bohorquez Vasquez Micheel Alexandra,Aprobada,2023-02-13 09:55:09.760
+231,63675,2023-02-13,2023-02-13,EXPERIENCIA - SAC,0,Rechazada,CHAPINERO - BOGOTÁ,Matrícula de módulo perdido en semestre vigente,Espitia Molina Nicolas,Rechazada,2023-02-13 17:30:19.440
+232,63694,2023-02-13,2023-02-17,EXPERIENCIA - SAC,4,Aprobada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Espitia Molina Nicolas,Aprobada,2023-02-17 12:18:33.790
+233,63719,2023-02-13,2023-02-15,EXPERIENCIA - SAC,2,Aprobada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Espitia Molina Nicolas,Aprobada,2023-02-15 12:41:25.327
+234,63724,2023-02-13,2023-02-16,EXPERIENCIA - SAC,3,Aprobada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Espitia Molina Nicolas,Aprobada,2023-02-16 12:36:48.207
+235,63725,2023-02-13,2023-02-16,EXPERIENCIA - SAC,3,Aprobada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Espitia Molina Nicolas,Aprobada,2023-02-16 11:21:57.453
+236,63727,2023-02-13,2023-02-16,EXPERIENCIA - SAC,3,Aprobada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Espitia Molina Nicolas,En Proceso,2023-02-16 16:16:24.100
+237,63727,2023-02-13,2023-02-21,EXPERIENCIA - SAC,5,Aprobada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Espitia Molina Nicolas,Aprobada,2023-02-21 13:10:35.140
+238,63747,2023-02-13,2023-02-13,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Bohorquez Vasquez Micheel Alexandra,Aprobada,2023-02-13 14:13:30.090
+239,63751,2023-02-13,2023-02-13,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Granados Ortega Adriana Lucia,Aprobada,2023-02-13 13:51:02.280
+240,63756,2023-02-13,2023-02-13,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Matrícula de módulo perdido en semestre vigente,Granados Ortega Adriana Lucia,Aprobada,2023-02-13 14:20:36.297
+241,63780,2023-02-13,2023-02-16,EXPERIENCIA - SAC,3,Rechazada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Espitia Molina Nicolas,Rechazada,2023-02-16 16:37:34.890
+242,63793,2023-02-13,2023-02-13,EXPERIENCIA - SAC,0,Aprobada,CENTRO - BOGOTÁ,Cambio de modulo,Espitia Molina Nicolas,Aprobada,2023-02-13 16:22:55.910
+243,63797,2023-02-13,2023-02-16,EXPERIENCIA - SAC,3,Rechazada,CHAPINERO - BOGOTÁ,Matrícula de módulo perdido en semestre vigente,Espitia Molina Nicolas,Rechazada,2023-02-16 16:50:42.703
+244,63810,2023-02-13,2023-02-13,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Espitia Molina Nicolas,Aprobada,2023-02-13 17:35:47.787
+245,63817,2023-02-13,2023-02-13,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Espitia Molina Nicolas,Aprobada,2023-02-13 18:44:58.573
+246,63819,2023-02-13,2023-02-17,EXPERIENCIA - SAC,4,Aprobada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Espitia Molina Nicolas,Aprobada,2023-02-17 00:00:00.000
+247,63833,2023-02-13,2023-02-16,EXPERIENCIA - SAC,3,Rechazada,CHAPINERO - BOGOTÁ,Matrícula de módulo perdido en semestre vigente,Espitia Molina Nicolas,Rechazada,2023-02-16 16:56:41.010
+248,63835,2023-02-13,2023-02-16,EXPERIENCIA - SAC,3,Aprobada,CHAPINERO - BOGOTÁ,Matrícula de módulo perdido en semestre vigente,Espitia Molina Nicolas,Aprobada,2023-02-16 17:05:22.340
+249,63867,2023-02-14,2023-02-16,EXPERIENCIA - SAC,2,Aprobada,CENTRO - BOGOTÁ,Matrícula de módulo perdido en semestre vigente,Espitia Molina Nicolas,Aprobada,2023-02-16 17:17:29.880
+250,63873,2023-02-14,2023-02-14,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Granados Ortega Adriana Lucia,Aprobada,2023-02-14 08:25:23.460
+251,63909,2023-02-14,2023-02-15,EXPERIENCIA - SAC,1,Aprobada,CHAPINERO - BOGOTÁ,Matrícula de módulo perdido en semestre vigente,Espitia Molina Nicolas,Aprobada,2023-02-15 11:01:09.403
+252,63926,2023-02-14,2023-02-16,EXPERIENCIA - SAC,2,Rechazada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Espitia Molina Nicolas,Rechazada,2023-02-16 17:46:38.457
+253,63941,2023-02-14,2023-02-14,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Espitia Molina Nicolas,Aprobada,2023-02-14 00:00:00.000
+254,63967,2023-02-14,2023-02-14,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Granados Ortega Adriana Lucia,Aprobada,2023-02-14 14:59:38.893
+255,63971,2023-02-14,2023-02-14,EXPERIENCIA - SAC,0,Aprobada,CENTRO - BOGOTÁ,Vencimiento de plazo para pre matricula,Bohorquez Vasquez Micheel Alexandra,Aprobada,2023-02-14 15:41:08.807
+256,64011,2023-02-14,2023-02-22,EXPERIENCIA - SAC,8,Aprobada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Espitia Molina Nicolas,Aprobada,2023-02-22 12:13:40.203
+257,64012,2023-02-14,2023-02-19,EXPERIENCIA - SAC,5,Aprobada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Espitia Molina Nicolas,Aprobada,2023-02-19 10:33:37.637
+258,64019,2023-02-14,2023-02-14,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Matrícula de módulo perdido en semestre vigente,Espitia Molina Nicolas,Aprobada,2023-02-14 18:55:51.437
+259,64047,2023-02-15,2023-02-19,EXPERIENCIA - SAC,4,Aprobada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Espitia Molina Nicolas,Aprobada,2023-02-19 10:22:26.123
+260,64078,2023-02-15,2023-02-15,EXPERIENCIA - SAC,0,Aprobada,CENTRO - BOGOTÁ,Vencimiento de plazo para pre matricula,Martinez Becerra Karen Meliza,Aprobada,2023-02-15 11:08:44.487
+261,64106,2023-02-15,2023-02-19,EXPERIENCIA - SAC,4,Aprobada,CENTRO - BOGOTÁ,Vencimiento de plazo para pre matricula,Espitia Molina Nicolas,En Proceso,2023-02-19 10:24:58.167
+262,64106,2023-02-15,2023-02-24,EXPERIENCIA - SAC,5,Aprobada,CENTRO - BOGOTÁ,Vencimiento de plazo para pre matricula,Bohorquez Vasquez Micheel Alexandra,Aprobada,2023-02-24 12:56:49.123
+263,64115,2023-02-15,2023-02-15,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Matrícula de módulo perdido en semestre vigente,Martinez Becerra Karen Meliza,Aprobada,2023-02-15 15:24:09.950
+264,64150,2023-02-15,2023-02-16,EXPERIENCIA - SAC,1,Aprobada,CENTRO - BOGOTÁ,Cambio de modulo,Bohorquez Vasquez Micheel Alexandra,Aprobada,2023-02-16 10:39:29.500
+265,64177,2023-02-15,2023-02-19,EXPERIENCIA - SAC,4,Rechazada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Espitia Molina Nicolas,Rechazada,2023-02-19 10:35:04.707
+266,64178,2023-02-15,2023-02-15,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Cambio de modulo,Bohorquez Vasquez Micheel Alexandra,En Proceso,2023-02-15 17:14:01.680
+267,64178,2023-02-15,2023-02-24,EXPERIENCIA - SAC,9,Aprobada,CHAPINERO - BOGOTÁ,Cambio de modulo,Espitia Molina Nicolas,Aprobada,2023-02-24 16:36:19.113
+268,64204,2023-02-15,2023-02-20,EXPERIENCIA - SAC,5,Aprobada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Espitia Molina Nicolas,Aprobada,2023-02-20 10:34:53.727
+269,64218,2023-02-15,2023-02-19,EXPERIENCIA - SAC,4,Aprobada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Espitia Molina Nicolas,En Proceso,2023-02-19 11:50:12.330
+270,64218,2023-02-15,2023-02-22,EXPERIENCIA - SAC,3,Aprobada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Espitia Molina Nicolas,Aprobada,2023-02-22 18:10:46.443
+271,64246,2023-02-16,2023-02-17,EXPERIENCIA - SAC,1,Aprobada,CHAPINERO - BOGOTÁ,Matrícula de módulo perdido en semestre vigente,Espitia Molina Nicolas,Aprobada,2023-02-17 17:41:23.953
+272,64264,2023-02-16,2023-02-16,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Matrícula de módulo perdido en semestre vigente,Alonso Mora Lidy Stefania,Aprobada,2023-02-16 09:29:39.313
+273,64266,2023-02-16,2023-02-16,EXPERIENCIA - SAC,0,Rechazada,CHAPINERO - BOGOTÁ,Matrícula de módulo perdido en semestre vigente,Mora Bernal Anyela Natalia,Rechazada,2023-02-16 10:56:18.010
+274,64297,2023-02-16,2023-02-19,EXPERIENCIA - SAC,3,Rechazada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Espitia Molina Nicolas,Rechazada,2023-02-19 11:57:11.960
+275,64299,2023-02-16,2023-02-19,EXPERIENCIA - SAC,3,Aprobada,CHAPINERO - BOGOTÁ,Matrícula de módulo perdido en semestre vigente,Espitia Molina Nicolas,Aprobada,2023-02-19 12:04:49.337
+276,64306,2023-02-16,2023-02-16,EXPERIENCIA - SAC,0,Aprobada,CENTRO - BOGOTÁ,Vencimiento de plazo para pre matricula,Gil Rojas Leidy Dayana,Aprobada,2023-02-16 11:48:40.177
+277,64323,2023-02-16,2023-02-16,EXPERIENCIA - SAC,0,Rechazada,CENTRO - BOGOTÁ,Matrícula de módulo perdido en semestre vigente,Espitia Molina Nicolas,Rechazada,2023-02-16 12:22:16.883
+278,64343,2023-02-16,2023-02-16,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Matrícula de módulo perdido en semestre vigente,Espitia Molina Nicolas,Aprobada,2023-02-16 13:40:22.353
+279,64360,2023-02-16,2023-02-16,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Matrícula de módulo perdido en semestre vigente,Granados Ortega Adriana Lucia,Aprobada,2023-02-16 17:02:23.520
+280,64390,2023-02-16,2023-02-16,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Granados Ortega Adriana Lucia,En Proceso,2023-02-16 16:57:55.143
+281,64390,2023-02-16,2023-02-24,EXPERIENCIA - SAC,8,Aprobada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Granados Ortega Adriana Lucia,Aprobada,2023-02-24 16:54:13.127
+282,64406,2023-02-16,2023-02-17,EXPERIENCIA - SAC,1,Aprobada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Espitia Molina Nicolas,Aprobada,2023-02-17 12:34:05.183
+283,64415,2023-02-16,2023-02-19,EXPERIENCIA - SAC,3,Aprobada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Espitia Molina Nicolas,Aprobada,2023-02-19 12:09:09.493
+284,64432,2023-02-16,2023-02-19,EXPERIENCIA - SAC,3,Aprobada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Espitia Molina Nicolas,Aprobada,2023-02-19 12:24:54.797
+285,64466,2023-02-17,2023-02-17,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Matrícula de módulo perdido en semestre vigente,Granados Ortega Adriana Lucia,Aprobada,2023-02-17 09:44:31.360
+286,64488,2023-02-17,2023-02-23,EXPERIENCIA - SAC,6,Aprobada,CHAPINERO - BOGOTÁ,Matrícula de módulo perdido en semestre vigente,Granados Ortega Adriana Lucia,Aprobada,2023-02-23 14:08:23.513
+287,64495,2023-02-17,2023-02-19,EXPERIENCIA - SAC,2,Aprobada,SOACHA - CUNDINAMARCA,Matrícula de módulo perdido en semestre vigente,Espitia Molina Nicolas,Aprobada,2023-02-19 13:37:33.590
+288,64515,2023-02-17,2023-02-17,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Matrícula de módulo perdido en semestre vigente,Bohorquez Vasquez Micheel Alexandra,Aprobada,2023-02-17 13:19:06.403
+289,64517,2023-02-17,2023-02-19,EXPERIENCIA - SAC,2,Rechazada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Espitia Molina Nicolas,Rechazada,2023-02-19 13:44:17.520
+290,64570,2023-02-17,2023-02-19,EXPERIENCIA - SAC,2,Rechazada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Espitia Molina Nicolas,En Proceso,2023-02-19 13:49:20.500
+291,64570,2023-02-17,2023-02-24,EXPERIENCIA - SAC,5,Rechazada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Espitia Molina Nicolas,En Proceso,2023-02-24 15:52:56.487
+292,64570,2023-02-17,2023-02-27,EXPERIENCIA - SAC,3,Rechazada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Espitia Molina Nicolas,Rechazada,2023-02-27 18:06:10.363
+293,64577,2023-02-17,2023-01-17,EXPERIENCIA - SAC,-31,Aprobada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Espitia Molina Nicolas,Aprobada,2023-01-17 00:00:00.000
+294,64602,2023-02-17,2023-02-24,EXPERIENCIA - SAC,7,Aprobada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Bohorquez Vasquez Micheel Alexandra,Aprobada,2023-02-24 13:02:45.653
+295,64650,2023-02-18,2023-02-18,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Granados Ortega Adriana Lucia,Aprobada,2023-02-18 10:36:28.233
+296,64672,2023-02-18,2023-02-18,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Espitia Molina Nicolas,Aprobada,2023-02-18 00:00:00.000
+297,64680,2023-02-18,2023-02-19,EXPERIENCIA - SAC,1,Rechazada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Espitia Molina Nicolas,Rechazada,2023-02-19 13:59:08.247
+298,64690,2023-02-18,2023-02-18,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Espitia Molina Nicolas,Aprobada,2023-02-18 00:00:00.000
+299,64695,2023-02-18,2023-02-21,EXPERIENCIA - SAC,3,Aprobada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Espitia Molina Nicolas,En Proceso,2023-02-21 11:07:28.400
+300,64695,2023-02-18,2023-02-24,EXPERIENCIA - SAC,3,Aprobada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Espitia Molina Nicolas,Aprobada,2023-02-24 15:45:06.350
+301,64703,2023-02-18,2023-02-20,EXPERIENCIA - SAC,2,Aprobada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Espitia Molina Nicolas,Aprobada,2023-02-20 10:59:11.610
+302,64708,2023-02-18,2023-02-21,EXPERIENCIA - SAC,3,Rechazada,CHAPINERO - BOGOTÁ,Matrícula de módulo perdido en semestre vigente,Espitia Molina Nicolas,En Proceso,2023-02-21 11:10:51.790
+303,64708,2023-02-18,2023-02-24,EXPERIENCIA - SAC,3,Rechazada,CHAPINERO - BOGOTÁ,Matrícula de módulo perdido en semestre vigente,Espitia Molina Nicolas,En Proceso,2023-02-24 15:37:37.030
+304,64708,2023-02-18,2023-02-27,EXPERIENCIA - SAC,3,Rechazada,CHAPINERO - BOGOTÁ,Matrícula de módulo perdido en semestre vigente,Espitia Molina Nicolas,Rechazada,2023-02-27 18:22:00.723
+305,64714,2023-02-18,2023-02-21,EXPERIENCIA - SAC,3,Rechazada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Espitia Molina Nicolas,En Proceso,2023-02-21 11:13:15.517
+306,64714,2023-02-18,2023-02-24,EXPERIENCIA - SAC,3,Rechazada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Espitia Molina Nicolas,Rechazada,2023-02-24 15:34:26.710
+307,64726,2023-02-18,2023-02-21,EXPERIENCIA - SAC,3,Rechazada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Espitia Molina Nicolas,En Proceso,2023-02-21 11:16:06.133
+308,64726,2023-02-18,2023-02-24,EXPERIENCIA - SAC,3,Rechazada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Mora Bernal Anyela Natalia,En Proceso,2023-02-24 10:18:08.653
+309,64726,2023-02-18,2023-02-27,EXPERIENCIA - SAC,3,Rechazada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Espitia Molina Nicolas,Rechazada,2023-02-27 18:23:27.133
+310,64770,2023-02-19,2023-02-19,EXPERIENCIA - SAC,0,Aprobada,CHAPINERO - BOGOTÁ,Vencimiento de plazo para pre matricula,Mora Bernal Anyela Natalia,Aprobada,2023-02-19 13:17:01.827
+311,64781,2023-02-19,2023-02-21,EXPERIENCIA - SAC,2,Rechazada,CENTRO - BOGOTÁ,Matrícula de módulo perdido en semestre vigente,Espitia Molina Nicolas,En Proceso,2023-02-21 11:18:33.720
+312,64781,2023-02-19,2023-02-24,EXPERIENCIA - SAC,3,Rechazada,CENTRO - BOGOTÁ,Matrícula de módulo perdido en semestre vigente,Espitia Molina Nicolas,En Proceso,2023-02-24 15:18:59.067
+313,64781,2023-02-19,2023-02-27,EXPERIENCIA - SAC,3,Rechazada,CENTRO - BOGOTÁ,Matrícula de módulo perdido en semestre vigente,Espitia Molina Nicolas,Rechazada,2023-02-27 18:24:55.687
