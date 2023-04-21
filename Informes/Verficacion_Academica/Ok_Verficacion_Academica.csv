@@ -1,12 +1,12 @@
 Index,Radicado,Fecha de Radicado,Fecha Seguimiento,Dependencia Seguimiento,demora,Estado Solicitud,Usuario Seguimiento,Estado Seguimiento,Hora
-0,59482,2023-01-03,2023-01-03,Registro y control - Soporte Académico,0,Aprobada,Rodriguez Sandoval Ivan Sneyder,En Proceso,2023-01-03 08:31:10.550
-1,59482,2023-01-03,2023-01-03,Registro y control - Soporte Académico,0,Aprobada,Rodriguez Sandoval Ivan Sneyder,Aprobada,2023-01-03 08:42:12.427
-2,59484,2023-01-03,2023-01-03,Registro y control - Soporte Académico,0,Aprobada,Rodriguez Sandoval Ivan Sneyder,Aprobada,2023-01-03 08:50:55.463
-3,59484,2023-01-03,2023-01-03,Registro y control - Soporte Académico,0,Aprobada,Rodriguez Sandoval Ivan Sneyder,En Proceso,2023-01-03 08:42:37.257
-4,59492,2023-01-03,2023-01-03,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-03 10:23:39.133
-5,59492,2023-01-03,2023-01-03,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-01-03 10:11:10.580
-6,59496,2023-01-03,2023-01-03,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-01-03 10:50:31.267
-7,59496,2023-01-03,2023-01-03,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-03 10:58:35.090
+0,59482,2023-01-03,2023-01-03,Registro y control - Soporte Académico,0,Aprobada,Rodriguez Sandoval Ivan Sneyder,Aprobada,2023-01-03 08:42:12.427
+1,59482,2023-01-03,2023-01-03,Registro y control - Soporte Académico,0,Aprobada,Rodriguez Sandoval Ivan Sneyder,En Proceso,2023-01-03 08:31:10.550
+2,59484,2023-01-03,2023-01-03,Registro y control - Soporte Académico,0,Aprobada,Rodriguez Sandoval Ivan Sneyder,En Proceso,2023-01-03 08:42:37.257
+3,59484,2023-01-03,2023-01-03,Registro y control - Soporte Académico,0,Aprobada,Rodriguez Sandoval Ivan Sneyder,Aprobada,2023-01-03 08:50:55.463
+4,59492,2023-01-03,2023-01-03,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-01-03 10:11:10.580
+5,59492,2023-01-03,2023-01-03,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-03 10:23:39.133
+6,59496,2023-01-03,2023-01-03,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-03 10:58:35.090
+7,59496,2023-01-03,2023-01-03,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-01-03 10:50:31.267
 8,59497,2023-01-03,2023-01-03,Registro y control - Soporte Académico,0,Aprobada,Rodriguez Sandoval Ivan Sneyder,En Proceso,2023-01-03 11:49:25.550
 9,59497,2023-01-03,2023-01-03,Registro y control - Soporte Académico,0,Aprobada,Rodriguez Sandoval Ivan Sneyder,Aprobada,2023-01-03 12:07:55.430
 10,59504,2023-01-03,2023-01-03,Registro y control - Soporte Académico,0,Rechazada,Osorio Morales Paola Jimena,En Proceso,2023-01-03 13:04:28.960
@@ -19,22 +19,22 @@ Index,Radicado,Fecha de Radicado,Fecha Seguimiento,Dependencia Seguimiento,demor
 17,59511,2023-01-03,2023-01-04,Registro y control - Soporte Académico,1,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-04 09:44:25.857
 18,59535,2023-01-04,2023-01-04,Registro y control - Soporte Académico,0,Aprobada,Rodriguez Sandoval Ivan Sneyder,En Proceso,2023-01-04 08:09:40.370
 19,59535,2023-01-04,2023-01-04,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-04 09:51:20.627
-20,59542,2023-01-04,2023-01-04,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-01-04 09:51:44.280
-21,59542,2023-01-04,2023-01-04,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-04 09:59:45.390
+20,59542,2023-01-04,2023-01-04,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-04 09:59:45.390
+21,59542,2023-01-04,2023-01-04,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-01-04 09:51:44.280
 22,59544,2023-01-04,2023-01-04,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-04 12:47:50.530
 23,59544,2023-01-04,2023-01-04,Registro y control - Soporte Académico,0,Aprobada,Rodriguez Sandoval Ivan Sneyder,En Proceso,2023-01-04 10:20:33.260
-24,59559,2023-01-04,2023-01-04,Registro y control - Soporte Académico,0,Aprobada,Rodriguez Sandoval Ivan Sneyder,Aprobada,2023-01-04 14:59:55.600
-25,59559,2023-01-04,2023-01-04,Registro y control - Soporte Académico,0,Aprobada,Rodriguez Sandoval Ivan Sneyder,En Proceso,2023-01-04 14:49:51.187
+24,59559,2023-01-04,2023-01-04,Registro y control - Soporte Académico,0,Aprobada,Rodriguez Sandoval Ivan Sneyder,En Proceso,2023-01-04 14:49:51.187
+25,59559,2023-01-04,2023-01-04,Registro y control - Soporte Académico,0,Aprobada,Rodriguez Sandoval Ivan Sneyder,Aprobada,2023-01-04 14:59:55.600
 26,59572,2023-01-04,2023-01-04,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-01-04 16:28:24.093
 27,59572,2023-01-04,2023-01-04,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-04 16:45:16.967
 28,59575,2023-01-04,2023-01-04,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-04 17:21:40.917
 29,59575,2023-01-04,2023-01-04,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-01-04 17:09:48.300
-30,59581,2023-01-04,2023-01-05,Registro y control - Soporte Académico,1,Aprobada,Rodriguez Sandoval Ivan Sneyder,En Proceso,2023-01-05 07:31:14.927
-31,59581,2023-01-04,2023-01-05,Registro y control - Soporte Académico,0,Aprobada,Rodriguez Sandoval Ivan Sneyder,Aprobada,2023-01-05 08:46:56.537
-32,59589,2023-01-05,2023-01-05,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-05 08:48:04.180
-33,59589,2023-01-05,2023-01-05,Registro y control - Soporte Académico,0,Aprobada,Rodriguez Sandoval Ivan Sneyder,En Proceso,2023-01-05 07:31:06.607
-34,59592,2023-01-05,2023-01-05,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-05 09:18:52.240
-35,59592,2023-01-05,2023-01-05,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-01-05 09:08:39.380
+30,59581,2023-01-04,2023-01-05,Registro y control - Soporte Académico,1,Aprobada,Rodriguez Sandoval Ivan Sneyder,Aprobada,2023-01-05 08:46:56.537
+31,59581,2023-01-04,2023-01-05,Registro y control - Soporte Académico,0,Aprobada,Rodriguez Sandoval Ivan Sneyder,En Proceso,2023-01-05 07:31:14.927
+32,59589,2023-01-05,2023-01-05,Registro y control - Soporte Académico,0,Aprobada,Rodriguez Sandoval Ivan Sneyder,En Proceso,2023-01-05 07:31:06.607
+33,59589,2023-01-05,2023-01-05,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-05 08:48:04.180
+34,59592,2023-01-05,2023-01-05,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-01-05 09:08:39.380
+35,59592,2023-01-05,2023-01-05,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-05 09:18:52.240
 36,59597,2023-01-05,2023-01-05,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-01-05 10:06:41.937
 37,59597,2023-01-05,2023-01-05,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-05 10:21:00.077
 38,59603,2023-01-05,2023-01-05,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-05 10:28:10.780
@@ -45,26 +45,26 @@ Index,Radicado,Fecha de Radicado,Fecha Seguimiento,Dependencia Seguimiento,demor
 43,59607,2023-01-05,2023-01-05,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-01-05 11:03:12.660
 44,59618,2023-01-05,2023-01-05,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-05 12:47:10.173
 45,59618,2023-01-05,2023-01-05,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-01-05 12:24:21.847
-46,59629,2023-01-05,2023-01-05,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-01-05 15:24:04.640
-47,59629,2023-01-05,2023-01-05,Registro y control - Soporte Académico,0,Aprobada,Rodriguez Sandoval Ivan Sneyder,Aprobada,2023-01-05 16:11:04.760
-48,59632,2023-01-05,2023-01-05,Registro y control - Soporte Académico,0,Aprobada,Rodriguez Sandoval Ivan Sneyder,Aprobada,2023-01-05 16:04:30.433
-49,59632,2023-01-05,2023-01-05,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-01-05 15:24:13.553
-50,59640,2023-01-05,2023-01-05,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-05 17:43:52.150
-51,59640,2023-01-05,2023-01-05,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-01-05 17:30:18.287
+46,59629,2023-01-05,2023-01-05,Registro y control - Soporte Académico,0,Aprobada,Rodriguez Sandoval Ivan Sneyder,Aprobada,2023-01-05 16:11:04.760
+47,59629,2023-01-05,2023-01-05,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-01-05 15:24:04.640
+48,59632,2023-01-05,2023-01-05,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-01-05 15:24:13.553
+49,59632,2023-01-05,2023-01-05,Registro y control - Soporte Académico,0,Aprobada,Rodriguez Sandoval Ivan Sneyder,Aprobada,2023-01-05 16:04:30.433
+50,59640,2023-01-05,2023-01-05,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-01-05 17:30:18.287
+51,59640,2023-01-05,2023-01-05,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-05 17:43:52.150
 52,59641,2023-01-05,2023-01-05,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-05 17:40:51.620
 53,59641,2023-01-05,2023-01-05,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-01-05 17:30:28.323
 54,59660,2023-01-06,2023-01-06,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-06 11:00:28.337
 55,59660,2023-01-06,2023-01-06,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-01-06 10:49:12.590
-56,59661,2023-01-06,2023-01-06,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-01-06 10:49:22.700
-57,59661,2023-01-06,2023-01-06,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-06 11:50:35.933
+56,59661,2023-01-06,2023-01-06,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-06 11:50:35.933
+57,59661,2023-01-06,2023-01-06,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-01-06 10:49:22.700
 58,59665,2023-01-06,2023-01-06,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-06 11:56:24.587
 59,59665,2023-01-06,2023-01-06,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-01-06 11:42:22.623
 60,59666,2023-01-06,2023-01-06,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-01-06 11:42:30.073
 61,59666,2023-01-06,2023-01-06,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-06 12:06:45.070
-62,59670,2023-01-06,2023-01-06,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-01-06 12:07:47.477
-63,59670,2023-01-06,2023-01-06,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-06 12:13:49.097
-64,59674,2023-01-06,2023-01-06,Registro y control - Soporte Académico,0,Aprobada,Rodriguez Sandoval Ivan Sneyder,Aprobada,2023-01-06 15:29:54.987
-65,59674,2023-01-06,2023-01-06,Registro y control - Soporte Académico,0,Aprobada,Rodriguez Sandoval Ivan Sneyder,En Proceso,2023-01-06 12:35:37.543
+62,59670,2023-01-06,2023-01-06,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-06 12:13:49.097
+63,59670,2023-01-06,2023-01-06,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-01-06 12:07:47.477
+64,59674,2023-01-06,2023-01-06,Registro y control - Soporte Académico,0,Aprobada,Rodriguez Sandoval Ivan Sneyder,En Proceso,2023-01-06 12:35:37.543
+65,59674,2023-01-06,2023-01-06,Registro y control - Soporte Académico,0,Aprobada,Rodriguez Sandoval Ivan Sneyder,Aprobada,2023-01-06 15:29:54.987
 66,59676,2023-01-06,2023-01-06,Registro y control - Soporte Académico,0,Aprobada,Rodriguez Sandoval Ivan Sneyder,En Proceso,2023-01-06 12:35:27.360
 67,59676,2023-01-06,2023-01-06,Registro y control - Soporte Académico,0,Aprobada,Rodriguez Sandoval Ivan Sneyder,Aprobada,2023-01-06 15:22:42.917
 68,59677,2023-01-06,2023-01-06,Registro y control - Soporte Académico,0,Aprobada,Rodriguez Sandoval Ivan Sneyder,Aprobada,2023-01-06 15:17:00.730
@@ -81,58 +81,58 @@ Index,Radicado,Fecha de Radicado,Fecha Seguimiento,Dependencia Seguimiento,demor
 79,59771,2023-01-10,2023-01-10,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-01-10 15:52:00.023
 80,59787,2023-01-10,2023-01-10,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-10 17:37:12.607
 81,59787,2023-01-10,2023-01-10,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-01-10 15:52:07.530
-82,59790,2023-01-10,2023-01-10,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-01-10 15:52:17.047
-83,59790,2023-01-10,2023-01-10,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-10 17:46:05.543
+82,59790,2023-01-10,2023-01-10,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-10 17:46:05.543
+83,59790,2023-01-10,2023-01-10,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-01-10 15:52:17.047
 84,59792,2023-01-10,2023-01-10,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-01-10 15:52:24.270
 85,59792,2023-01-10,2023-01-11,Registro y control - Soporte Académico,1,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-11 09:03:43.750
 86,59796,2023-01-10,2023-01-10,Registro y control - Soporte Académico,0,Rechazada,Osorio Morales Paola Jimena,En Proceso,2023-01-10 15:52:31.707
 87,59796,2023-01-10,2023-01-11,Registro y control - Soporte Académico,1,Rechazada,Osorio Morales Paola Jimena,Rechazada,2023-01-11 09:10:37.543
 88,59816,2023-01-10,2023-01-10,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-01-10 17:46:43.987
 89,59816,2023-01-10,2023-01-11,Registro y control - Soporte Académico,1,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-11 09:16:58.643
-90,59820,2023-01-10,2023-01-11,Registro y control - Soporte Académico,1,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-01-11 08:51:14.677
-91,59820,2023-01-10,2023-01-11,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-11 09:22:12.730
+90,59820,2023-01-10,2023-01-11,Registro y control - Soporte Académico,1,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-11 09:22:12.730
+91,59820,2023-01-10,2023-01-11,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-01-11 08:51:14.677
 92,59839,2023-01-11,2023-01-11,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-11 09:26:48.903
 93,59840,2023-01-11,2023-01-11,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-11 09:31:38.063
-94,59850,2023-01-11,2023-01-11,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-11 18:18:40.343
-95,59850,2023-01-11,2023-01-11,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-01-11 12:26:11.307
-96,59851,2023-01-11,2023-01-11,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-11 18:24:24.607
-97,59851,2023-01-11,2023-01-11,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-01-11 12:26:18.747
+94,59850,2023-01-11,2023-01-11,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-01-11 12:26:11.307
+95,59850,2023-01-11,2023-01-11,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-11 18:18:40.343
+96,59851,2023-01-11,2023-01-11,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-01-11 12:26:18.747
+97,59851,2023-01-11,2023-01-11,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-11 18:24:24.607
 98,59856,2023-01-11,2023-01-11,Registro y control - Soporte Académico,0,Rechazada,Osorio Morales Paola Jimena,En Proceso,2023-01-11 12:26:27.130
 99,59856,2023-01-11,2023-01-11,Registro y control - Soporte Académico,0,Rechazada,Osorio Morales Paola Jimena,Rechazada,2023-01-11 18:33:24.940
-100,59859,2023-01-11,2023-01-11,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-11 18:42:28.893
-101,59859,2023-01-11,2023-01-11,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-01-11 14:13:48.313
+100,59859,2023-01-11,2023-01-11,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-01-11 14:13:48.313
+101,59859,2023-01-11,2023-01-11,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-11 18:42:28.893
 102,59881,2023-01-11,2023-01-11,Registro y control - Soporte Académico,0,Rechazada,Osorio Morales Paola Jimena,En Proceso,2023-01-11 17:34:49.087
 103,59881,2023-01-11,2023-01-11,Registro y control - Soporte Académico,0,Rechazada,Osorio Morales Paola Jimena,Rechazada,2023-01-11 18:44:45.310
 104,59932,2023-01-12,2023-01-12,Registro y control - Soporte Académico,0,Rechazada,Osorio Morales Paola Jimena,En Proceso,2023-01-12 11:57:16.503
 105,59932,2023-01-12,2023-01-12,Registro y control - Soporte Académico,0,Rechazada,Osorio Morales Paola Jimena,Rechazada,2023-01-12 11:59:58.267
 106,59970,2023-01-12,2023-01-12,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-12 16:15:59.147
 107,59970,2023-01-12,2023-01-12,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-01-12 16:07:33.653
-108,59977,2023-01-12,2023-01-12,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-01-12 16:07:42.683
-109,59977,2023-01-12,2023-01-12,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-12 16:23:34.610
+108,59977,2023-01-12,2023-01-12,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-12 16:23:34.610
+109,59977,2023-01-12,2023-01-12,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-01-12 16:07:42.683
 110,59978,2023-01-12,2023-01-12,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-12 16:32:29.863
 111,59978,2023-01-12,2023-01-12,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-01-12 16:07:51.763
 112,60020,2023-01-13,2023-01-13,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-13 11:19:37.663
 113,60020,2023-01-13,2023-01-13,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-01-13 11:12:22.047
 114,60021,2023-01-13,2023-01-13,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-01-13 11:20:13.580
 115,60021,2023-01-13,2023-01-13,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-13 11:32:16.790
-116,60025,2023-01-13,2023-01-13,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-01-13 11:12:39.133
-117,60025,2023-01-13,2023-01-13,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-13 11:37:33.737
+116,60025,2023-01-13,2023-01-13,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-13 11:37:33.737
+117,60025,2023-01-13,2023-01-13,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-01-13 11:12:39.133
 118,60028,2023-01-13,2023-01-13,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-13 11:46:10.070
 119,60028,2023-01-13,2023-01-13,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-01-13 11:38:04.410
-120,60122,2023-01-16,2023-01-16,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-16 10:23:04.807
-121,60122,2023-01-16,2023-01-16,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-01-16 09:47:51.280
-122,60125,2023-01-16,2023-01-16,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-01-16 09:48:02.913
-123,60125,2023-01-16,2023-01-16,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-16 11:57:44.380
+120,60122,2023-01-16,2023-01-16,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-01-16 09:47:51.280
+121,60122,2023-01-16,2023-01-16,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-16 10:23:04.807
+122,60125,2023-01-16,2023-01-16,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-16 11:57:44.380
+123,60125,2023-01-16,2023-01-16,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-01-16 09:48:02.913
 124,60131,2023-01-16,2023-01-16,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-16 10:35:20.833
 125,60138,2023-01-16,2023-01-16,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-16 10:42:07.363
 126,60156,2023-01-16,2023-01-16,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-16 12:05:25.403
 127,60156,2023-01-16,2023-01-16,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-01-16 11:59:35.943
-128,60160,2023-01-16,2023-01-16,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-01-16 12:06:32.020
-129,60160,2023-01-16,2023-01-16,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-16 12:09:58.407
-130,60178,2023-01-16,2023-01-16,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-01-16 14:36:14.567
-131,60178,2023-01-16,2023-01-16,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-16 15:04:31.247
-132,60180,2023-01-16,2023-01-16,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-16 14:54:00.967
-133,60180,2023-01-16,2023-01-16,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-01-16 14:36:22.847
+128,60160,2023-01-16,2023-01-16,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-16 12:09:58.407
+129,60160,2023-01-16,2023-01-16,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-01-16 12:06:32.020
+130,60178,2023-01-16,2023-01-16,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-16 15:04:31.247
+131,60178,2023-01-16,2023-01-16,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-01-16 14:36:14.567
+132,60180,2023-01-16,2023-01-16,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-01-16 14:36:22.847
+133,60180,2023-01-16,2023-01-16,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-16 14:54:00.967
 134,60199,2023-01-16,2023-01-16,Registro y control - Soporte Académico,0,Rechazada,Osorio Morales Paola Jimena,En Proceso,2023-01-16 17:46:01.310
 135,60199,2023-01-16,2023-01-17,Registro y control - Soporte Académico,1,Rechazada,Osorio Morales Paola Jimena,Rechazada,2023-01-17 10:27:15.567
 136,60202,2023-01-16,2023-01-16,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-01-16 17:46:11.607
@@ -141,40 +141,40 @@ Index,Radicado,Fecha de Radicado,Fecha Seguimiento,Dependencia Seguimiento,demor
 139,60207,2023-01-16,2023-01-17,Registro y control - Soporte Académico,1,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-17 11:15:37.600
 140,60235,2023-01-17,2023-01-17,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-01-17 08:51:13.020
 141,60235,2023-01-17,2023-01-17,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-17 11:26:53.757
-142,60238,2023-01-17,2023-01-17,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-17 11:46:54.260
-143,60238,2023-01-17,2023-01-17,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-01-17 08:51:28.643
+142,60238,2023-01-17,2023-01-17,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-01-17 08:51:28.643
+143,60238,2023-01-17,2023-01-17,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-17 11:46:54.260
 144,60239,2023-01-17,2023-01-17,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-17 12:05:52.180
 145,60239,2023-01-17,2023-01-17,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-01-17 11:47:58.217
-146,60243,2023-01-17,2023-01-17,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-01-17 11:48:08.527
-147,60243,2023-01-17,2023-01-17,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-17 12:12:30.683
+146,60243,2023-01-17,2023-01-17,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-17 12:12:30.683
+147,60243,2023-01-17,2023-01-17,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-01-17 11:48:08.527
 148,60244,2023-01-17,2023-01-17,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-17 11:55:51.167
 149,60244,2023-01-17,2023-01-17,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-01-17 11:48:16.093
 150,60248,2023-01-17,2023-01-17,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-17 10:38:59.053
 151,60265,2023-01-17,2023-01-17,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-17 12:18:17.103
 152,60303,2023-01-17,2023-01-17,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-01-17 18:01:50.387
 153,60303,2023-01-17,2023-01-18,Registro y control - Soporte Académico,1,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-18 10:28:51.257
-154,60333,2023-01-18,2023-01-18,Registro y control - Soporte Académico,0,Rechazada,Osorio Morales Paola Jimena,Rechazada,2023-01-18 10:32:21.460
-155,60333,2023-01-18,2023-01-18,Registro y control - Soporte Académico,0,Rechazada,Osorio Morales Paola Jimena,En Proceso,2023-01-18 10:30:29.033
-156,60351,2023-01-18,2023-01-18,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-01-18 15:14:13.613
-157,60351,2023-01-18,2023-01-18,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-18 15:29:09.953
-158,60362,2023-01-18,2023-01-18,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-01-18 15:14:22.320
-159,60362,2023-01-18,2023-01-18,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-18 15:52:29.410
-160,60365,2023-01-18,2023-01-18,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-18 16:03:35.360
-161,60365,2023-01-18,2023-01-18,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-01-18 15:14:31.333
-162,60372,2023-01-18,2023-01-18,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-18 16:17:09.650
-163,60372,2023-01-18,2023-01-18,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-01-18 16:04:15.947
+154,60333,2023-01-18,2023-01-18,Registro y control - Soporte Académico,0,Rechazada,Osorio Morales Paola Jimena,En Proceso,2023-01-18 10:30:29.033
+155,60333,2023-01-18,2023-01-18,Registro y control - Soporte Académico,0,Rechazada,Osorio Morales Paola Jimena,Rechazada,2023-01-18 10:32:21.460
+156,60351,2023-01-18,2023-01-18,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-18 15:29:09.953
+157,60351,2023-01-18,2023-01-18,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-01-18 15:14:13.613
+158,60362,2023-01-18,2023-01-18,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-18 15:52:29.410
+159,60362,2023-01-18,2023-01-18,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-01-18 15:14:22.320
+160,60365,2023-01-18,2023-01-18,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-01-18 15:14:31.333
+161,60365,2023-01-18,2023-01-18,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-18 16:03:35.360
+162,60372,2023-01-18,2023-01-18,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-01-18 16:04:15.947
+163,60372,2023-01-18,2023-01-18,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-18 16:17:09.650
 164,60414,2023-01-19,2023-01-19,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-19 08:55:03.457
 165,60414,2023-01-19,2023-01-19,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-01-19 08:48:29.163
-166,60415,2023-01-19,2023-01-19,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-01-19 08:48:43.493
-167,60415,2023-01-19,2023-01-19,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-19 09:02:11.557
+166,60415,2023-01-19,2023-01-19,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-19 09:02:11.557
+167,60415,2023-01-19,2023-01-19,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-01-19 08:48:43.493
 168,60428,2023-01-19,2023-01-19,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-19 16:21:54.030
 169,60428,2023-01-19,2023-01-19,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-01-19 12:00:09.047
-170,60431,2023-01-19,2023-01-19,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-01-19 12:00:20.783
-171,60431,2023-01-19,2023-01-19,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-19 16:28:44.357
+170,60431,2023-01-19,2023-01-19,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-19 16:28:44.357
+171,60431,2023-01-19,2023-01-19,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-01-19 12:00:20.783
 172,60432,2023-01-19,2023-01-19,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-19 16:34:46.977
 173,60432,2023-01-19,2023-01-19,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-01-19 12:00:31.210
-174,60434,2023-01-19,2023-01-19,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-01-19 12:00:40.820
-175,60434,2023-01-19,2023-01-19,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-19 16:40:09.227
+174,60434,2023-01-19,2023-01-19,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-19 16:40:09.227
+175,60434,2023-01-19,2023-01-19,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-01-19 12:00:40.820
 176,60435,2023-01-19,2023-01-19,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-01-19 12:00:48.633
 177,60435,2023-01-19,2023-01-20,Registro y control - Soporte Académico,1,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-20 09:26:57.657
 178,60441,2023-01-19,2023-01-19,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-01-19 12:00:56.557
@@ -207,8 +207,8 @@ Index,Radicado,Fecha de Radicado,Fecha Seguimiento,Dependencia Seguimiento,demor
 205,60626,2023-01-21,2023-01-23,Registro y control - Soporte Académico,2,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-23 08:57:12.517
 206,60683,2023-01-23,2023-01-23,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-23 09:01:22.263
 207,60683,2023-01-23,2023-01-23,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-01-23 08:41:51.780
-208,60684,2023-01-23,2023-01-23,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-23 10:26:52.787
-209,60684,2023-01-23,2023-01-23,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-01-23 09:01:49.233
+208,60684,2023-01-23,2023-01-23,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-01-23 09:01:49.233
+209,60684,2023-01-23,2023-01-23,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-23 10:26:52.787
 210,60705,2023-01-23,2023-01-23,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-01-23 14:22:06.667
 211,60705,2023-01-23,2023-01-24,Registro y control - Soporte Académico,1,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-24 10:47:30.100
 212,60708,2023-01-23,2023-01-23,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-01-23 14:22:50.447
@@ -231,14 +231,14 @@ Index,Radicado,Fecha de Radicado,Fecha Seguimiento,Dependencia Seguimiento,demor
 229,60786,2023-01-23,2023-01-24,Registro y control - Soporte Académico,1,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-24 11:47:34.063
 230,60814,2023-01-24,2023-01-24,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-01-24 10:38:47.513
 231,60814,2023-01-24,2023-01-24,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-24 11:55:40.813
-232,60819,2023-01-24,2023-01-24,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-24 12:00:12.197
-233,60819,2023-01-24,2023-01-24,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-01-24 10:39:01.830
+232,60819,2023-01-24,2023-01-24,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-01-24 10:39:01.830
+233,60819,2023-01-24,2023-01-24,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-24 12:00:12.197
 234,60822,2023-01-24,2023-01-24,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-01-24 10:39:11.863
 235,60822,2023-01-24,2023-01-24,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-24 12:58:14.530
-236,60825,2023-01-24,2023-01-24,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-01-24 10:39:26.270
-237,60825,2023-01-24,2023-01-24,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-24 13:03:43.843
-238,60835,2023-01-24,2023-01-24,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-24 13:12:07.997
-239,60835,2023-01-24,2023-01-24,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-01-24 12:01:02.337
+236,60825,2023-01-24,2023-01-24,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-24 13:03:43.843
+237,60825,2023-01-24,2023-01-24,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-01-24 10:39:26.270
+238,60835,2023-01-24,2023-01-24,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-01-24 12:01:02.337
+239,60835,2023-01-24,2023-01-24,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-24 13:12:07.997
 240,60843,2023-01-24,2023-01-24,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-24 13:18:14.557
 241,60843,2023-01-24,2023-01-24,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-01-24 12:01:10.997
 242,60862,2023-01-24,2023-01-24,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-01-24 14:40:11.053
@@ -277,28 +277,28 @@ Index,Radicado,Fecha de Radicado,Fecha Seguimiento,Dependencia Seguimiento,demor
 275,60971,2023-01-25,2023-01-25,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-25 15:44:20.383
 276,60972,2023-01-25,2023-01-25,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-01-25 15:08:28.507
 277,60972,2023-01-25,2023-01-25,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-25 15:47:56.817
-278,60992,2023-01-25,2023-01-26,Registro y control - Soporte Académico,1,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-26 09:21:15.947
-279,60992,2023-01-25,2023-01-26,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-01-26 09:13:34.983
+278,60992,2023-01-25,2023-01-26,Registro y control - Soporte Académico,1,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-01-26 09:13:34.983
+279,60992,2023-01-25,2023-01-26,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-26 09:21:15.947
 280,60997,2023-01-25,2023-01-26,Registro y control - Soporte Académico,1,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-26 09:28:35.280
 281,60997,2023-01-25,2023-01-26,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-01-26 09:13:50.180
-282,61007,2023-01-25,2023-01-26,Registro y control - Soporte Académico,1,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-01-26 09:14:00.070
-283,61007,2023-01-25,2023-01-26,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-26 09:42:04.203
+282,61007,2023-01-25,2023-01-26,Registro y control - Soporte Académico,1,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-26 09:42:04.203
+283,61007,2023-01-25,2023-01-26,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-01-26 09:14:00.070
 284,61011,2023-01-25,2023-01-26,Registro y control - Soporte Académico,1,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-26 09:53:33.133
 285,61011,2023-01-25,2023-01-26,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-01-26 09:14:07.757
 286,61032,2023-01-26,2023-01-26,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-26 10:48:57.190
 287,61032,2023-01-26,2023-01-26,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-01-26 09:14:16.087
-288,61037,2023-01-26,2023-01-26,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-26 10:55:52.013
-289,61037,2023-01-26,2023-01-26,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-01-26 09:14:25.447
+288,61037,2023-01-26,2023-01-26,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-01-26 09:14:25.447
+289,61037,2023-01-26,2023-01-26,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-26 10:55:52.013
 290,61038,2023-01-26,2023-01-26,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-01-26 09:14:35.133
 291,61038,2023-01-26,2023-01-26,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-26 10:57:26.000
-292,61062,2023-01-26,2023-01-26,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-26 16:34:57.470
-293,61062,2023-01-26,2023-01-26,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-01-26 12:30:43.063
-294,61064,2023-01-26,2023-01-26,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-01-26 12:30:53.017
-295,61064,2023-01-26,2023-01-26,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-26 16:43:25.543
+292,61062,2023-01-26,2023-01-26,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-01-26 12:30:43.063
+293,61062,2023-01-26,2023-01-26,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-26 16:34:57.470
+294,61064,2023-01-26,2023-01-26,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-26 16:43:25.543
+295,61064,2023-01-26,2023-01-26,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-01-26 12:30:53.017
 296,61077,2023-01-26,2023-01-26,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-26 16:54:26.093
 297,61077,2023-01-26,2023-01-26,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-01-26 16:23:43.917
-298,61088,2023-01-26,2023-01-26,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-26 17:01:31.820
-299,61088,2023-01-26,2023-01-26,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-01-26 16:23:55.863
+298,61088,2023-01-26,2023-01-26,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-01-26 16:23:55.863
+299,61088,2023-01-26,2023-01-26,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-26 17:01:31.820
 300,61105,2023-01-26,2023-01-26,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-01-26 18:16:25.280
 301,61105,2023-01-26,2023-01-27,Registro y control - Soporte Académico,1,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-27 09:32:30.700
 302,61139,2023-01-27,2023-01-27,Registro y control - Soporte Académico,0,Rechazada,Osorio Morales Paola Jimena,En Proceso,2023-01-27 09:24:00.370
@@ -315,16 +315,16 @@ Index,Radicado,Fecha de Radicado,Fecha Seguimiento,Dependencia Seguimiento,demor
 313,61246,2023-01-28,2023-01-28,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-28 13:00:06.633
 314,61306,2023-01-30,2023-01-30,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-01-30 11:31:04.023
 315,61306,2023-01-30,2023-01-30,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-30 11:39:05.287
-316,61307,2023-01-30,2023-01-30,Registro y control - Soporte Académico,0,Rechazada,Osorio Morales Paola Jimena,Rechazada,2023-01-30 11:45:44.340
-317,61307,2023-01-30,2023-01-30,Registro y control - Soporte Académico,0,Rechazada,Osorio Morales Paola Jimena,En Proceso,2023-01-30 11:31:11.837
-318,61313,2023-01-30,2023-01-30,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-01-30 11:31:19.463
-319,61313,2023-01-30,2023-01-30,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-30 12:00:52.863
+316,61307,2023-01-30,2023-01-30,Registro y control - Soporte Académico,0,Rechazada,Osorio Morales Paola Jimena,En Proceso,2023-01-30 11:31:11.837
+317,61307,2023-01-30,2023-01-30,Registro y control - Soporte Académico,0,Rechazada,Osorio Morales Paola Jimena,Rechazada,2023-01-30 11:45:44.340
+318,61313,2023-01-30,2023-01-30,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-30 12:00:52.863
+319,61313,2023-01-30,2023-01-30,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-01-30 11:31:19.463
 320,61325,2023-01-30,2023-01-30,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-01-30 11:31:29.150
 321,61325,2023-01-30,2023-01-30,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-30 12:07:46.107
-322,61337,2023-01-30,2023-01-30,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-30 12:14:21.737
-323,61337,2023-01-30,2023-01-30,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-01-30 11:32:05.717
-324,61341,2023-01-30,2023-01-30,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-30 11:52:54.760
-325,61341,2023-01-30,2023-01-30,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-01-30 11:31:50.683
+322,61337,2023-01-30,2023-01-30,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-01-30 11:32:05.717
+323,61337,2023-01-30,2023-01-30,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-30 12:14:21.737
+324,61341,2023-01-30,2023-01-30,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-01-30 11:31:50.683
+325,61341,2023-01-30,2023-01-30,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-30 11:52:54.760
 326,61351,2023-01-30,2023-01-30,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-30 16:39:40.873
 327,61351,2023-01-30,2023-01-30,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-01-30 16:33:07.137
 328,61381,2023-01-30,2023-01-30,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-01-30 16:33:16.893
@@ -338,12 +338,12 @@ Index,Radicado,Fecha de Radicado,Fecha Seguimiento,Dependencia Seguimiento,demor
 336,61446,2023-01-31,2023-01-31,Registro y control - Soporte Académico,0,Rechazada,Osorio Morales Paola Jimena,Rechazada,2023-01-31 08:50:23.933
 337,61457,2023-01-31,2023-01-31,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-01-31 17:34:37.367
 338,61457,2023-01-31,2023-01-31,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-31 17:53:44.143
-339,61460,2023-01-31,2023-01-31,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-01-31 17:34:45.213
-340,61460,2023-01-31,2023-01-31,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-31 18:01:38.780
-341,61463,2023-01-31,2023-01-31,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-31 18:03:44.610
-342,61463,2023-01-31,2023-01-31,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-01-31 17:34:56.773
-343,61470,2023-01-31,2023-01-31,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-31 18:12:33.533
-344,61470,2023-01-31,2023-01-31,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-01-31 17:35:05.527
+339,61460,2023-01-31,2023-01-31,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-31 18:01:38.780
+340,61460,2023-01-31,2023-01-31,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-01-31 17:34:45.213
+341,61463,2023-01-31,2023-01-31,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-01-31 17:34:56.773
+342,61463,2023-01-31,2023-01-31,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-31 18:03:44.610
+343,61470,2023-01-31,2023-01-31,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-01-31 17:35:05.527
+344,61470,2023-01-31,2023-01-31,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-31 18:12:33.533
 345,61473,2023-01-31,2023-01-31,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-01-31 17:35:15.763
 346,61473,2023-01-31,2023-01-31,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-01-31 18:18:03.367
 347,61487,2023-01-31,2023-01-31,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-01-31 17:35:24.363
@@ -370,18 +370,18 @@ Index,Radicado,Fecha de Radicado,Fecha Seguimiento,Dependencia Seguimiento,demor
 368,61587,2023-02-01,2023-02-01,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-02-01 14:05:31.993
 369,61593,2023-02-01,2023-02-01,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-02-01 14:29:01.943
 370,61593,2023-02-01,2023-02-01,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-02-01 13:29:04.287
-371,61594,2023-02-01,2023-02-01,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,Aprobada,2023-02-01 14:33:17.690
-372,61594,2023-02-01,2023-02-01,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-02-01 13:29:12.560
-373,61597,2023-02-01,2023-02-01,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-02-01 14:45:13.503
-374,61597,2023-02-01,2023-02-01,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-02-01 13:29:20.980
-375,61598,2023-02-01,2023-02-01,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-02-01 13:29:30.080
-376,61598,2023-02-01,2023-02-01,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,Aprobada,2023-02-01 14:52:20.250
+371,61594,2023-02-01,2023-02-01,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-02-01 13:29:12.560
+372,61594,2023-02-01,2023-02-01,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,Aprobada,2023-02-01 14:33:17.690
+373,61597,2023-02-01,2023-02-01,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-02-01 13:29:20.980
+374,61597,2023-02-01,2023-02-01,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-02-01 14:45:13.503
+375,61598,2023-02-01,2023-02-01,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,Aprobada,2023-02-01 14:52:20.250
+376,61598,2023-02-01,2023-02-01,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-02-01 13:29:30.080
 377,61599,2023-02-01,2023-02-01,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-02-01 13:29:37.720
 378,61599,2023-02-01,2023-02-01,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-02-01 15:15:49.487
-379,61605,2023-02-01,2023-02-01,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,Aprobada,2023-02-01 15:17:21.783
-380,61605,2023-02-01,2023-02-01,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-02-01 13:29:45.350
-381,61622,2023-02-01,2023-02-01,Registro y control - Soporte Académico,0,Rechazada,Osorio Morales Paola Jimena,En Proceso,2023-02-01 13:29:52.853
-382,61622,2023-02-01,2023-02-01,Registro y control - Soporte Académico,0,Rechazada,Osorio Morales Paola Jimena,Rechazada,2023-02-01 15:37:25.807
+379,61605,2023-02-01,2023-02-01,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-02-01 13:29:45.350
+380,61605,2023-02-01,2023-02-01,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,Aprobada,2023-02-01 15:17:21.783
+381,61622,2023-02-01,2023-02-01,Registro y control - Soporte Académico,0,Rechazada,Osorio Morales Paola Jimena,Rechazada,2023-02-01 15:37:25.807
+382,61622,2023-02-01,2023-02-01,Registro y control - Soporte Académico,0,Rechazada,Osorio Morales Paola Jimena,En Proceso,2023-02-01 13:29:52.853
 383,61660,2023-02-01,2023-02-02,Registro y control - Soporte Académico,1,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-02-02 07:50:19.973
 384,61660,2023-02-01,2023-02-02,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,Aprobada,2023-02-02 16:00:39.727
 385,61662,2023-02-01,2023-02-02,Registro y control - Soporte Académico,1,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-02-02 07:50:42.830
@@ -390,14 +390,14 @@ Index,Radicado,Fecha de Radicado,Fecha Seguimiento,Dependencia Seguimiento,demor
 388,61670,2023-02-01,2023-02-02,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,Aprobada,2023-02-02 14:23:06.737
 389,61690,2023-02-02,2023-02-02,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-02-02 07:51:19.100
 390,61690,2023-02-02,2023-02-02,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,Aprobada,2023-02-02 14:44:29.110
-391,61691,2023-02-02,2023-02-02,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,Aprobada,2023-02-02 15:05:37.160
-392,61691,2023-02-02,2023-02-02,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-02-02 07:51:40.497
+391,61691,2023-02-02,2023-02-02,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-02-02 07:51:40.497
+392,61691,2023-02-02,2023-02-02,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,Aprobada,2023-02-02 15:05:37.160
 393,61692,2023-02-02,2023-02-02,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-02-02 07:52:00.733
 394,61692,2023-02-02,2023-02-02,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,Aprobada,2023-02-02 15:20:28.377
-395,61693,2023-02-02,2023-02-02,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-02-02 07:52:26.500
-396,61693,2023-02-02,2023-02-02,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,Aprobada,2023-02-02 15:44:28.883
-397,61704,2023-02-02,2023-02-02,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,Aprobada,2023-02-02 16:17:39.703
-398,61704,2023-02-02,2023-02-02,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-02-02 15:45:23.213
+395,61693,2023-02-02,2023-02-02,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,Aprobada,2023-02-02 15:44:28.883
+396,61693,2023-02-02,2023-02-02,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-02-02 07:52:26.500
+397,61704,2023-02-02,2023-02-02,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-02-02 15:45:23.213
+398,61704,2023-02-02,2023-02-02,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,Aprobada,2023-02-02 16:17:39.703
 399,61718,2023-02-02,2023-02-02,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-02-02 15:45:42.653
 400,61718,2023-02-02,2023-02-02,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,Aprobada,2023-02-02 16:36:13.303
 401,61723,2023-02-02,2023-02-02,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-02-02 15:46:00.903
@@ -412,39 +412,39 @@ Index,Radicado,Fecha de Radicado,Fecha Seguimiento,Dependencia Seguimiento,demor
 410,61766,2023-02-02,2023-02-03,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,Aprobada,2023-02-03 09:50:00.553
 411,61809,2023-02-03,2023-02-03,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,Aprobada,2023-02-03 10:22:50.293
 412,61809,2023-02-03,2023-02-03,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-02-03 09:54:44.930
-413,61810,2023-02-03,2023-02-03,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-02-03 09:54:59.827
-414,61810,2023-02-03,2023-02-03,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,Aprobada,2023-02-03 10:39:31.307
-415,61814,2023-02-03,2023-02-03,Registro y control - Soporte Académico,0,Rechazada,Osorio Morales Paola Jimena,Rechazada,2023-02-03 11:44:15.877
-416,61814,2023-02-03,2023-02-03,Registro y control - Soporte Académico,0,Rechazada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-02-03 09:55:22.893
+413,61810,2023-02-03,2023-02-03,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,Aprobada,2023-02-03 10:39:31.307
+414,61810,2023-02-03,2023-02-03,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-02-03 09:54:59.827
+415,61814,2023-02-03,2023-02-03,Registro y control - Soporte Académico,0,Rechazada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-02-03 09:55:22.893
+416,61814,2023-02-03,2023-02-03,Registro y control - Soporte Académico,0,Rechazada,Osorio Morales Paola Jimena,Rechazada,2023-02-03 11:44:15.877
 417,61815,2023-02-03,2023-02-03,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-02-03 09:55:36.537
 418,61815,2023-02-03,2023-02-03,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,Aprobada,2023-02-03 10:59:26.523
 419,61838,2023-02-03,2023-02-03,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-02-03 13:05:16.047
 420,61838,2023-02-03,2023-02-03,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,Aprobada,2023-02-03 13:44:35.137
-421,61843,2023-02-03,2023-02-03,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-02-03 13:05:32.227
-422,61843,2023-02-03,2023-02-03,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,Aprobada,2023-02-03 14:54:52.787
+421,61843,2023-02-03,2023-02-03,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,Aprobada,2023-02-03 14:54:52.787
+422,61843,2023-02-03,2023-02-03,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-02-03 13:05:32.227
 423,61848,2023-02-03,2023-02-03,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-02-03 13:05:54.573
 424,61848,2023-02-03,2023-02-03,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,Aprobada,2023-02-03 15:03:25.313
-425,61872,2023-02-03,2023-02-03,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,Aprobada,2023-02-03 15:14:51.577
-426,61872,2023-02-03,2023-02-03,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-02-03 15:03:56.760
-427,61883,2023-02-03,2023-02-03,Registro y control - Soporte Académico,0,Rechazada,Osorio Morales Paola Jimena,En Proceso,2023-02-03 16:56:52.810
-428,61883,2023-02-03,2023-02-03,Registro y control - Soporte Académico,0,Rechazada,Osorio Morales Paola Jimena,En Proceso,2023-02-03 16:57:03.923
+425,61872,2023-02-03,2023-02-03,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-02-03 15:03:56.760
+426,61872,2023-02-03,2023-02-03,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,Aprobada,2023-02-03 15:14:51.577
+427,61883,2023-02-03,2023-02-03,Registro y control - Soporte Académico,0,Rechazada,Osorio Morales Paola Jimena,En Proceso,2023-02-03 16:57:03.923
+428,61883,2023-02-03,2023-02-03,Registro y control - Soporte Académico,0,Rechazada,Osorio Morales Paola Jimena,En Proceso,2023-02-03 16:56:52.810
 429,61883,2023-02-03,2023-02-04,Registro y control - Soporte Académico,1,Rechazada,Bernal Bejarano Nelcy Rocio,Rechazada,2023-02-04 09:09:28.843
 430,61884,2023-02-03,2023-02-03,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-02-03 16:57:21.937
 431,61884,2023-02-03,2023-02-04,Registro y control - Soporte Académico,1,Aprobada,Bernal Bejarano Nelcy Rocio,Aprobada,2023-02-04 09:32:18.300
 432,61927,2023-02-04,2023-02-04,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,Aprobada,2023-02-04 09:44:14.210
 433,61927,2023-02-04,2023-02-04,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-02-04 09:32:40.897
-434,62049,2023-02-05,2023-02-06,Registro y control - Soporte Académico,1,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-02-06 07:49:35.773
-435,62049,2023-02-05,2023-02-06,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,Aprobada,2023-02-06 10:06:35.360
+434,62049,2023-02-05,2023-02-06,Registro y control - Soporte Académico,1,Aprobada,Bernal Bejarano Nelcy Rocio,Aprobada,2023-02-06 10:06:35.360
+435,62049,2023-02-05,2023-02-06,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-02-06 07:49:35.773
 436,62068,2023-02-06,2023-02-06,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-02-06 09:49:40.627
 437,62068,2023-02-06,2023-02-06,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,Aprobada,2023-02-06 10:51:03.713
 438,62086,2023-02-06,2023-02-06,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,Aprobada,2023-02-06 11:11:50.103
 439,62086,2023-02-06,2023-02-06,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-02-06 09:49:59.193
 440,62101,2023-02-06,2023-02-06,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-02-06 09:50:14.670
 441,62101,2023-02-06,2023-02-06,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,Aprobada,2023-02-06 11:27:33.223
-442,62148,2023-02-06,2023-02-06,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-02-06 11:00:25.803
-443,62148,2023-02-06,2023-02-06,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,Aprobada,2023-02-06 11:43:36.610
-444,62166,2023-02-06,2023-02-06,Registro y control - Soporte Académico,0,Rechazada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-02-06 11:44:16.280
-445,62166,2023-02-06,2023-02-06,Registro y control - Soporte Académico,0,Rechazada,Bernal Bejarano Nelcy Rocio,Rechazada,2023-02-06 11:53:46.097
+442,62148,2023-02-06,2023-02-06,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,Aprobada,2023-02-06 11:43:36.610
+443,62148,2023-02-06,2023-02-06,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-02-06 11:00:25.803
+444,62166,2023-02-06,2023-02-06,Registro y control - Soporte Académico,0,Rechazada,Bernal Bejarano Nelcy Rocio,Rechazada,2023-02-06 11:53:46.097
+445,62166,2023-02-06,2023-02-06,Registro y control - Soporte Académico,0,Rechazada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-02-06 11:44:16.280
 446,62227,2023-02-06,2023-02-06,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-02-06 17:41:25.057
 447,62227,2023-02-06,2023-02-07,Registro y control - Soporte Académico,1,Aprobada,Bernal Bejarano Nelcy Rocio,Aprobada,2023-02-07 08:11:45.463
 448,62245,2023-02-06,2023-02-06,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-02-06 17:41:33.947
@@ -459,16 +459,16 @@ Index,Radicado,Fecha de Radicado,Fecha Seguimiento,Dependencia Seguimiento,demor
 457,62388,2023-02-07,2023-02-07,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-02-07 10:42:20.780
 458,62391,2023-02-07,2023-02-07,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,Aprobada,2023-02-07 13:15:22.153
 459,62391,2023-02-07,2023-02-07,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-02-07 11:53:05.607
-460,62403,2023-02-07,2023-02-07,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-02-07 11:53:23.147
-461,62403,2023-02-07,2023-02-07,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,Aprobada,2023-02-07 14:20:44.717
-462,62410,2023-02-07,2023-02-07,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-02-07 11:53:37.817
-463,62410,2023-02-07,2023-02-07,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,Aprobada,2023-02-07 14:15:59.407
+460,62403,2023-02-07,2023-02-07,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,Aprobada,2023-02-07 14:20:44.717
+461,62403,2023-02-07,2023-02-07,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-02-07 11:53:23.147
+462,62410,2023-02-07,2023-02-07,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,Aprobada,2023-02-07 14:15:59.407
+463,62410,2023-02-07,2023-02-07,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-02-07 11:53:37.817
 464,62444,2023-02-07,2023-02-07,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-02-07 11:53:50.943
 465,62444,2023-02-07,2023-02-07,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-02-07 17:06:32.563
 466,62449,2023-02-07,2023-02-07,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-02-07 11:54:04.803
 467,62449,2023-02-07,2023-02-07,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-02-07 17:20:16.560
-468,62470,2023-02-07,2023-02-07,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-02-07 17:47:25.193
-469,62470,2023-02-07,2023-02-07,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-02-07 13:38:37.597
+468,62470,2023-02-07,2023-02-07,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-02-07 13:38:37.597
+469,62470,2023-02-07,2023-02-07,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-02-07 17:47:25.193
 470,62483,2023-02-07,2023-02-07,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-02-07 13:38:53.783
 471,62483,2023-02-07,2023-02-07,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-02-07 17:52:59.467
 472,62528,2023-02-07,2023-02-07,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-02-07 17:55:40.537
@@ -495,20 +495,20 @@ Index,Radicado,Fecha de Radicado,Fecha Seguimiento,Dependencia Seguimiento,demor
 493,62851,2023-02-08,2023-02-09,Registro y control - Soporte Académico,1,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-02-09 11:06:13.623
 494,62871,2023-02-08,2023-02-09,Registro y control - Soporte Académico,1,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-02-09 11:07:35.073
 495,62871,2023-02-08,2023-02-09,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-02-09 11:21:43.393
-496,62875,2023-02-08,2023-02-09,Registro y control - Soporte Académico,1,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-02-09 11:29:33.493
-497,62875,2023-02-08,2023-02-09,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-02-09 11:07:42.887
-498,62932,2023-02-08,2023-02-09,Registro y control - Soporte Académico,1,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-02-09 11:39:05.037
-499,62932,2023-02-08,2023-02-09,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-02-09 11:07:50.650
-500,62953,2023-02-09,2023-02-09,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-02-09 11:46:52.590
-501,62953,2023-02-09,2023-02-09,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-02-09 11:08:00.590
+496,62875,2023-02-08,2023-02-09,Registro y control - Soporte Académico,1,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-02-09 11:07:42.887
+497,62875,2023-02-08,2023-02-09,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-02-09 11:29:33.493
+498,62932,2023-02-08,2023-02-09,Registro y control - Soporte Académico,1,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-02-09 11:07:50.650
+499,62932,2023-02-08,2023-02-09,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-02-09 11:39:05.037
+500,62953,2023-02-09,2023-02-09,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-02-09 11:08:00.590
+501,62953,2023-02-09,2023-02-09,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-02-09 11:46:52.590
 502,62957,2023-02-09,2023-02-09,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-02-09 11:08:07.950
 503,62957,2023-02-09,2023-02-09,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-02-09 11:56:14.780
 504,62976,2023-02-09,2023-02-09,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-02-09 11:08:14.560
 505,62976,2023-02-09,2023-02-09,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-02-09 12:13:22.293
-506,62996,2023-02-09,2023-02-09,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-02-09 12:24:04.300
-507,62996,2023-02-09,2023-02-09,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-02-09 11:08:22.450
-508,63008,2023-02-09,2023-02-09,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-02-09 11:08:30.637
-509,63008,2023-02-09,2023-02-09,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-02-09 12:32:44.353
+506,62996,2023-02-09,2023-02-09,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-02-09 11:08:22.450
+507,62996,2023-02-09,2023-02-09,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-02-09 12:24:04.300
+508,63008,2023-02-09,2023-02-09,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-02-09 12:32:44.353
+509,63008,2023-02-09,2023-02-09,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-02-09 11:08:30.637
 510,63027,2023-02-09,2023-02-09,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-02-09 12:40:09.570
 511,63027,2023-02-09,2023-02-09,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-02-09 12:33:35.243
 512,63039,2023-02-09,2023-02-09,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-02-09 12:33:43.217
@@ -525,14 +525,14 @@ Index,Radicado,Fecha de Radicado,Fecha Seguimiento,Dependencia Seguimiento,demor
 523,63148,2023-02-09,2023-02-10,Registro y control - Soporte Académico,1,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-02-10 15:35:01.540
 524,63219,2023-02-10,2023-02-10,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-02-10 16:43:05.360
 525,63219,2023-02-10,2023-02-10,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-02-10 15:35:36.437
-526,63220,2023-02-10,2023-02-10,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-02-10 15:35:47.453
-527,63220,2023-02-10,2023-02-10,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-02-10 16:57:05.077
+526,63220,2023-02-10,2023-02-10,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-02-10 16:57:05.077
+527,63220,2023-02-10,2023-02-10,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-02-10 15:35:47.453
 528,63221,2023-02-10,2023-02-10,Registro y control - Soporte Académico,0,Rechazada,Osorio Morales Paola Jimena,En Proceso,2023-02-10 15:35:55.737
 529,63221,2023-02-10,2023-02-13,Registro y control - Soporte Académico,3,Rechazada,Bernal Bejarano Nelcy Rocio,Rechazada,2023-02-13 10:53:59.993
 530,63223,2023-02-10,2023-02-10,Registro y control - Soporte Académico,0,Rechazada,Osorio Morales Paola Jimena,En Proceso,2023-02-10 15:36:03.393
 531,63223,2023-02-10,2023-02-13,Registro y control - Soporte Académico,3,Rechazada,Osorio Morales Paola Jimena,Rechazada,2023-02-13 09:46:24.813
-532,63234,2023-02-10,2023-02-10,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-02-10 15:37:13.547
-533,63234,2023-02-10,2023-02-10,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-02-10 17:24:59.367
+532,63234,2023-02-10,2023-02-10,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-02-10 17:24:59.367
+533,63234,2023-02-10,2023-02-10,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-02-10 15:37:13.547
 534,63235,2023-02-10,2023-02-10,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-02-10 17:31:02.693
 535,63235,2023-02-10,2023-02-10,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-02-10 15:37:22.690
 536,63240,2023-02-10,2023-02-10,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-02-10 15:37:31.580
@@ -543,24 +543,24 @@ Index,Radicado,Fecha de Radicado,Fecha Seguimiento,Dependencia Seguimiento,demor
 541,63323,2023-02-10,2023-02-13,Registro y control - Soporte Académico,3,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-02-13 09:27:13.953
 542,63351,2023-02-10,2023-02-10,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-02-10 17:31:40.730
 543,63351,2023-02-10,2023-02-13,Registro y control - Soporte Académico,3,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-02-13 09:55:52.270
-544,63647,2023-02-13,2023-02-13,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-02-13 09:41:33.363
-545,63647,2023-02-13,2023-02-13,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,Aprobada,2023-02-13 11:26:26.350
-546,63648,2023-02-13,2023-02-13,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,Aprobada,2023-02-13 11:35:34.077
-547,63648,2023-02-13,2023-02-13,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-02-13 09:41:50.977
+544,63647,2023-02-13,2023-02-13,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,Aprobada,2023-02-13 11:26:26.350
+545,63647,2023-02-13,2023-02-13,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-02-13 09:41:33.363
+546,63648,2023-02-13,2023-02-13,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-02-13 09:41:50.977
+547,63648,2023-02-13,2023-02-13,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,Aprobada,2023-02-13 11:35:34.077
 548,63650,2023-02-13,2023-02-13,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-02-13 09:42:09.813
 549,63650,2023-02-13,2023-02-13,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,Aprobada,2023-02-13 11:45:58.833
 550,63672,2023-02-13,2023-02-13,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-02-13 10:23:08.127
 551,63672,2023-02-13,2023-02-13,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,Aprobada,2023-02-13 11:58:59.920
-552,63685,2023-02-13,2023-02-13,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-02-13 11:59:41.777
-553,63685,2023-02-13,2023-02-13,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,Aprobada,2023-02-13 13:24:24.437
-554,63697,2023-02-13,2023-02-13,Registro y control - Soporte Académico,0,Rechazada,Osorio Morales Paola Jimena,Rechazada,2023-02-13 17:34:59.380
-555,63697,2023-02-13,2023-02-13,Registro y control - Soporte Académico,0,Rechazada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-02-13 11:59:54.857
-556,63698,2023-02-13,2023-02-13,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-02-13 12:00:08.590
-557,63698,2023-02-13,2023-02-13,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-02-13 17:52:49.723
+552,63685,2023-02-13,2023-02-13,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,Aprobada,2023-02-13 13:24:24.437
+553,63685,2023-02-13,2023-02-13,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-02-13 11:59:41.777
+554,63697,2023-02-13,2023-02-13,Registro y control - Soporte Académico,0,Rechazada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-02-13 11:59:54.857
+555,63697,2023-02-13,2023-02-13,Registro y control - Soporte Académico,0,Rechazada,Osorio Morales Paola Jimena,Rechazada,2023-02-13 17:34:59.380
+556,63698,2023-02-13,2023-02-13,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-02-13 17:52:49.723
+557,63698,2023-02-13,2023-02-13,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-02-13 12:00:08.590
 558,63731,2023-02-13,2023-02-13,Registro y control - Soporte Académico,0,Rechazada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-02-13 13:35:20.480
 559,63731,2023-02-13,2023-02-14,Registro y control - Soporte Académico,1,Rechazada,Osorio Morales Paola Jimena,Rechazada,2023-02-14 14:14:50.043
-560,63742,2023-02-13,2023-02-13,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-02-13 13:35:32.433
-561,63742,2023-02-13,2023-02-13,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-02-13 18:09:30.463
+560,63742,2023-02-13,2023-02-13,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-02-13 18:09:30.463
+561,63742,2023-02-13,2023-02-13,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-02-13 13:35:32.433
 562,63758,2023-02-13,2023-02-13,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-02-13 18:10:06.510
 563,63758,2023-02-13,2023-02-13,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-02-13 18:19:27.940
 564,63763,2023-02-13,2023-02-13,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-02-13 18:10:13.760
@@ -580,18 +580,18 @@ Index,Radicado,Fecha de Radicado,Fecha Seguimiento,Dependencia Seguimiento,demor
 578,63853,2023-02-13,2023-02-14,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-02-14 16:41:55.340
 579,63855,2023-02-13,2023-02-14,Registro y control - Soporte Académico,1,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-02-14 11:16:49.203
 580,63855,2023-02-13,2023-02-14,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-02-14 16:47:45.000
-581,63872,2023-02-14,2023-02-14,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-02-14 11:16:58.720
-582,63872,2023-02-14,2023-02-14,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-02-14 16:53:49.033
+581,63872,2023-02-14,2023-02-14,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-02-14 16:53:49.033
+582,63872,2023-02-14,2023-02-14,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-02-14 11:16:58.720
 583,63877,2023-02-14,2023-02-14,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,Aprobada,2023-02-14 16:34:52.563
 584,63877,2023-02-14,2023-02-14,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-02-14 11:17:09.690
-585,63883,2023-02-14,2023-02-14,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,Aprobada,2023-02-14 16:16:08.650
-586,63883,2023-02-14,2023-02-14,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-02-14 11:17:21.630
+585,63883,2023-02-14,2023-02-14,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-02-14 11:17:21.630
+586,63883,2023-02-14,2023-02-14,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,Aprobada,2023-02-14 16:16:08.650
 587,63891,2023-02-14,2023-02-14,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,Aprobada,2023-02-14 15:12:08.373
 588,63891,2023-02-14,2023-02-14,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-02-14 11:17:33.007
 589,63895,2023-02-14,2023-02-14,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-02-14 11:17:42.320
 590,63895,2023-02-14,2023-02-14,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,Aprobada,2023-02-14 14:59:45.203
-591,63900,2023-02-14,2023-02-14,Registro y control - Soporte Académico,0,Rechazada,Bernal Bejarano Nelcy Rocio,Rechazada,2023-02-14 14:49:06.773
-592,63900,2023-02-14,2023-02-14,Registro y control - Soporte Académico,0,Rechazada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-02-14 11:18:11.990
+591,63900,2023-02-14,2023-02-14,Registro y control - Soporte Académico,0,Rechazada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-02-14 11:18:11.990
+592,63900,2023-02-14,2023-02-14,Registro y control - Soporte Académico,0,Rechazada,Bernal Bejarano Nelcy Rocio,Rechazada,2023-02-14 14:49:06.773
 593,63904,2023-02-14,2023-02-14,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,Aprobada,2023-02-14 14:46:16.167
 594,63904,2023-02-14,2023-02-14,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-02-14 11:17:58.067
 595,63913,2023-02-14,2023-02-14,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-02-14 14:23:50.803
@@ -631,14 +631,14 @@ Index,Radicado,Fecha de Radicado,Fecha Seguimiento,Dependencia Seguimiento,demor
 629,64271,2023-02-16,2023-02-16,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-02-16 11:48:12.907
 630,64288,2023-02-16,2023-02-16,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-02-16 11:30:17.770
 631,64288,2023-02-16,2023-02-16,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-02-16 11:57:20.860
-632,64289,2023-02-16,2023-02-16,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-02-16 11:30:29.147
-633,64289,2023-02-16,2023-02-16,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-02-16 12:16:52.493
-634,64290,2023-02-16,2023-02-16,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-02-16 11:30:38.680
-635,64290,2023-02-16,2023-02-16,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-02-16 12:19:59.850
-636,64300,2023-02-16,2023-02-16,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-02-16 11:30:46.883
-637,64300,2023-02-16,2023-02-16,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-02-16 12:29:40.297
-638,64308,2023-02-16,2023-02-16,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-02-16 12:30:37.433
-639,64308,2023-02-16,2023-02-16,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-02-16 12:40:46.750
+632,64289,2023-02-16,2023-02-16,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-02-16 12:16:52.493
+633,64289,2023-02-16,2023-02-16,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-02-16 11:30:29.147
+634,64290,2023-02-16,2023-02-16,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-02-16 12:19:59.850
+635,64290,2023-02-16,2023-02-16,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-02-16 11:30:38.680
+636,64300,2023-02-16,2023-02-16,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-02-16 12:29:40.297
+637,64300,2023-02-16,2023-02-16,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-02-16 11:30:46.883
+638,64308,2023-02-16,2023-02-16,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-02-16 12:40:46.750
+639,64308,2023-02-16,2023-02-16,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-02-16 12:30:37.433
 640,64335,2023-02-16,2023-02-16,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-02-16 15:27:51.590
 641,64335,2023-02-16,2023-02-18,Registro y control - Soporte Académico,2,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-02-18 13:00:07.883
 642,64353,2023-02-16,2023-02-16,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-02-16 15:28:03.780
@@ -681,26 +681,26 @@ Index,Radicado,Fecha de Radicado,Fecha Seguimiento,Dependencia Seguimiento,demor
 679,64857,2023-02-20,2023-02-21,Registro y control - Soporte Académico,1,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-02-21 11:00:29.560
 680,64860,2023-02-20,2023-02-21,Registro y control - Soporte Académico,1,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-02-21 11:01:18.933
 681,64860,2023-02-20,2023-02-21,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-02-21 11:10:32.423
-682,64870,2023-02-20,2023-02-21,Registro y control - Soporte Académico,1,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-02-21 11:47:19.513
-683,64870,2023-02-20,2023-02-21,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-02-21 11:01:29.763
+682,64870,2023-02-20,2023-02-21,Registro y control - Soporte Académico,1,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-02-21 11:01:29.763
+683,64870,2023-02-20,2023-02-21,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-02-21 11:47:19.513
 684,64871,2023-02-20,2023-02-21,Registro y control - Soporte Académico,1,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-02-21 11:01:37.590
 685,64871,2023-02-20,2023-02-21,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-02-21 11:51:58.153
 686,64876,2023-02-20,2023-02-21,Registro y control - Soporte Académico,1,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-02-21 11:01:44.920
 687,64876,2023-02-20,2023-02-21,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-02-21 11:56:41.617
-688,64894,2023-02-20,2023-02-21,Registro y control - Soporte Académico,1,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-02-21 11:02:27.287
-689,64894,2023-02-20,2023-02-21,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-02-21 12:10:01.233
+688,64894,2023-02-20,2023-02-21,Registro y control - Soporte Académico,1,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-02-21 12:10:01.233
+689,64894,2023-02-20,2023-02-21,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-02-21 11:02:27.287
 690,64907,2023-02-20,2023-02-21,Registro y control - Soporte Académico,1,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-02-21 11:02:35.240
 691,64907,2023-02-20,2023-02-21,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-02-21 12:21:33.367
 692,64932,2023-02-20,2023-02-21,Registro y control - Soporte Académico,1,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-02-21 12:30:50.473
 693,64932,2023-02-20,2023-02-21,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-02-21 11:02:42.757
 694,64972,2023-02-21,2023-02-21,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-02-21 12:37:36.340
 695,64972,2023-02-21,2023-02-21,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-02-21 11:02:51.553
-696,64993,2023-02-21,2023-02-21,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-02-21 12:45:39.240
-697,64993,2023-02-21,2023-02-21,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-02-21 11:03:01.133
-698,64994,2023-02-21,2023-02-21,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-02-21 12:52:36.173
-699,64994,2023-02-21,2023-02-21,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-02-21 11:03:10.553
-700,65002,2023-02-21,2023-02-21,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-02-21 12:53:02.190
-701,65002,2023-02-21,2023-02-21,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-02-21 12:57:24.907
+696,64993,2023-02-21,2023-02-21,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-02-21 11:03:01.133
+697,64993,2023-02-21,2023-02-21,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-02-21 12:45:39.240
+698,64994,2023-02-21,2023-02-21,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-02-21 11:03:10.553
+699,64994,2023-02-21,2023-02-21,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-02-21 12:52:36.173
+700,65002,2023-02-21,2023-02-21,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-02-21 12:57:24.907
+701,65002,2023-02-21,2023-02-21,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-02-21 12:53:02.190
 702,65015,2023-02-21,2023-02-21,Registro y control - Soporte Académico,0,Rechazada,Osorio Morales Paola Jimena,En Proceso,2023-02-21 13:18:53.730
 703,65015,2023-02-21,2023-02-23,Registro y control - Soporte Académico,2,Rechazada,Osorio Morales Paola Jimena,Rechazada,2023-02-23 16:58:51.220
 704,65017,2023-02-21,2023-02-21,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-02-21 13:19:00.863
@@ -735,53 +735,53 @@ Index,Radicado,Fecha de Radicado,Fecha Seguimiento,Dependencia Seguimiento,demor
 733,65114,2023-02-22,2023-02-23,Registro y control - Soporte Académico,1,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-02-23 17:37:39.673
 734,65135,2023-02-22,2023-02-23,Registro y control - Soporte Académico,1,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-02-23 13:23:03.353
 735,65135,2023-02-22,2023-02-23,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,Aprobada,2023-02-23 13:27:32.973
-736,65141,2023-02-22,2023-02-23,Registro y control - Soporte Académico,1,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-02-23 13:22:56.730
-737,65141,2023-02-22,2023-02-23,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-02-23 17:44:41.883
+736,65141,2023-02-22,2023-02-23,Registro y control - Soporte Académico,1,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-02-23 17:44:41.883
+737,65141,2023-02-22,2023-02-23,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-02-23 13:22:56.730
 738,65144,2023-02-22,2023-02-23,Registro y control - Soporte Académico,1,Rechazada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-02-23 13:22:48.073
 739,65144,2023-02-22,2023-02-24,Registro y control - Soporte Académico,1,Rechazada,Osorio Morales Paola Jimena,Rechazada,2023-02-24 09:33:36.570
-740,65153,2023-02-22,2023-02-23,Registro y control - Soporte Académico,1,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-02-23 18:45:36.377
-741,65153,2023-02-22,2023-02-23,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-02-23 13:22:38.753
+740,65153,2023-02-22,2023-02-23,Registro y control - Soporte Académico,1,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-02-23 13:22:38.753
+741,65153,2023-02-22,2023-02-23,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-02-23 18:45:36.377
 742,65183,2023-02-22,2023-02-23,Registro y control - Soporte Académico,1,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-02-23 13:22:32.003
 743,65183,2023-02-22,2023-02-23,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-02-23 18:55:47.487
 744,65198,2023-02-23,2023-02-23,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-02-23 19:01:47.043
 745,65198,2023-02-23,2023-02-23,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-02-23 13:22:22.983
-746,65205,2023-02-23,2023-02-23,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-02-23 19:11:21.357
-747,65205,2023-02-23,2023-02-23,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-02-23 13:22:04.657
+746,65205,2023-02-23,2023-02-23,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-02-23 13:22:04.657
+747,65205,2023-02-23,2023-02-23,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-02-23 19:11:21.357
 748,65208,2023-02-23,2023-02-23,Registro y control - Soporte Académico,0,Rechazada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-02-23 13:21:58.930
 749,65208,2023-02-23,2023-02-27,Registro y control - Soporte Académico,4,Rechazada,Osorio Morales Paola Jimena,Rechazada,2023-02-27 19:07:32.790
-750,65211,2023-02-23,2023-02-23,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-02-23 19:20:44.587
-751,65211,2023-02-23,2023-02-23,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-02-23 13:21:52.743
-752,65217,2023-02-23,2023-02-23,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-02-23 19:28:16.660
-753,65217,2023-02-23,2023-02-23,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-02-23 13:21:46.307
-754,65223,2023-02-23,2023-02-23,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-02-23 19:32:43.177
-755,65223,2023-02-23,2023-02-23,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-02-23 13:21:39.603
+750,65211,2023-02-23,2023-02-23,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-02-23 13:21:52.743
+751,65211,2023-02-23,2023-02-23,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-02-23 19:20:44.587
+752,65217,2023-02-23,2023-02-23,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-02-23 13:21:46.307
+753,65217,2023-02-23,2023-02-23,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-02-23 19:28:16.660
+754,65223,2023-02-23,2023-02-23,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-02-23 13:21:39.603
+755,65223,2023-02-23,2023-02-23,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-02-23 19:32:43.177
 756,65224,2023-02-23,2023-02-23,Registro y control - Soporte Académico,0,Rechazada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-02-23 13:21:31.440
 757,65224,2023-02-23,2023-02-24,Registro y control - Soporte Académico,1,Rechazada,Osorio Morales Paola Jimena,Rechazada,2023-02-24 09:38:37.013
 758,65226,2023-02-23,2023-02-23,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-02-23 13:21:22.123
 759,65226,2023-02-23,2023-02-24,Registro y control - Soporte Académico,1,Aprobada,Bernal Bejarano Nelcy Rocio,Aprobada,2023-02-24 07:47:37.453
-760,65245,2023-02-23,2023-02-24,Registro y control - Soporte Académico,1,Aprobada,Bernal Bejarano Nelcy Rocio,Aprobada,2023-02-24 08:10:56.167
-761,65245,2023-02-23,2023-02-24,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-02-24 07:49:29.237
+760,65245,2023-02-23,2023-02-24,Registro y control - Soporte Académico,1,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-02-24 07:49:29.237
+761,65245,2023-02-23,2023-02-24,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,Aprobada,2023-02-24 08:10:56.167
 762,65246,2023-02-23,2023-02-24,Registro y control - Soporte Académico,1,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-02-24 07:49:57.160
 763,65246,2023-02-23,2023-02-24,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,Aprobada,2023-02-24 08:14:29.473
-764,65247,2023-02-23,2023-02-24,Registro y control - Soporte Académico,1,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-02-24 07:49:45.690
-765,65247,2023-02-23,2023-02-24,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,Aprobada,2023-02-24 08:16:16.997
+764,65247,2023-02-23,2023-02-24,Registro y control - Soporte Académico,1,Aprobada,Bernal Bejarano Nelcy Rocio,Aprobada,2023-02-24 08:16:16.997
+765,65247,2023-02-23,2023-02-24,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-02-24 07:49:45.690
 766,65248,2023-02-23,2023-02-24,Registro y control - Soporte Académico,1,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-02-24 07:49:37.677
 767,65248,2023-02-23,2023-02-24,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-02-24 09:22:15.540
 768,65300,2023-02-24,2023-02-24,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-02-24 09:28:39.720
 769,65315,2023-02-24,2023-02-25,Registro y control - Soporte Académico,1,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-02-25 17:19:58.597
 770,65315,2023-02-24,2023-02-25,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-02-25 17:40:44.320
-771,65328,2023-02-24,2023-02-25,Registro y control - Soporte Académico,1,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-02-25 17:46:27.830
-772,65328,2023-02-24,2023-02-25,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-02-25 17:20:07.817
-773,65354,2023-02-24,2023-02-25,Registro y control - Soporte Académico,1,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-02-25 17:20:15.380
-774,65354,2023-02-24,2023-02-25,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-02-25 17:52:01.173
-775,65372,2023-02-24,2023-02-25,Registro y control - Soporte Académico,1,Rechazada,Osorio Morales Paola Jimena,Rechazada,2023-02-25 17:59:08.997
-776,65372,2023-02-24,2023-02-25,Registro y control - Soporte Académico,0,Rechazada,Osorio Morales Paola Jimena,En Proceso,2023-02-25 17:20:22.833
+771,65328,2023-02-24,2023-02-25,Registro y control - Soporte Académico,1,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-02-25 17:20:07.817
+772,65328,2023-02-24,2023-02-25,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-02-25 17:46:27.830
+773,65354,2023-02-24,2023-02-25,Registro y control - Soporte Académico,1,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-02-25 17:52:01.173
+774,65354,2023-02-24,2023-02-25,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-02-25 17:20:15.380
+775,65372,2023-02-24,2023-02-25,Registro y control - Soporte Académico,1,Rechazada,Osorio Morales Paola Jimena,En Proceso,2023-02-25 17:20:22.833
+776,65372,2023-02-24,2023-02-25,Registro y control - Soporte Académico,0,Rechazada,Osorio Morales Paola Jimena,Rechazada,2023-02-25 17:59:08.997
 777,65373,2023-02-24,2023-02-25,Registro y control - Soporte Académico,1,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-02-25 18:05:45.610
 778,65373,2023-02-24,2023-02-25,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-02-25 17:20:31.480
 779,65395,2023-02-24,2023-02-25,Registro y control - Soporte Académico,1,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-02-25 17:20:40.230
 780,65395,2023-02-24,2023-02-25,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-02-25 18:09:04.373
-781,65456,2023-02-25,2023-02-25,Registro y control - Soporte Académico,0,Rechazada,Osorio Morales Paola Jimena,Rechazada,2023-02-25 18:13:54.773
-782,65456,2023-02-25,2023-02-25,Registro y control - Soporte Académico,0,Rechazada,Osorio Morales Paola Jimena,En Proceso,2023-02-25 17:20:48.637
+781,65456,2023-02-25,2023-02-25,Registro y control - Soporte Académico,0,Rechazada,Osorio Morales Paola Jimena,En Proceso,2023-02-25 17:20:48.637
+782,65456,2023-02-25,2023-02-25,Registro y control - Soporte Académico,0,Rechazada,Osorio Morales Paola Jimena,Rechazada,2023-02-25 18:13:54.773
 783,65490,2023-02-26,2023-02-27,Registro y control - Soporte Académico,1,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-02-27 08:43:59.953
 784,65490,2023-02-26,2023-03-02,Registro y control - Soporte Académico,3,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-02 17:26:51.937
 785,65518,2023-02-27,2023-02-27,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-02-27 19:18:38.533
@@ -854,36 +854,605 @@ Index,Radicado,Fecha de Radicado,Fecha Seguimiento,Dependencia Seguimiento,demor
 852,65792,2023-03-02,2023-03-03,Registro y control - Soporte Académico,1,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-03 14:09:47.007
 853,65814,2023-03-02,2023-03-02,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-03-02 16:20:31.503
 854,65814,2023-03-02,2023-03-03,Registro y control - Soporte Académico,1,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-03 14:17:07.910
-855,65819,2023-03-02,2023-03-03,Registro y control - Soporte Académico,1,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-03 14:25:03.573
-856,65819,2023-03-02,2023-03-03,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-03-03 14:17:27.440
+855,65819,2023-03-02,2023-03-03,Registro y control - Soporte Académico,1,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-03-03 14:17:27.440
+856,65819,2023-03-02,2023-03-03,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-03 14:25:03.573
 857,65823,2023-03-02,2023-03-03,Registro y control - Soporte Académico,1,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-03 14:29:36.107
 858,65823,2023-03-02,2023-03-03,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-03-03 14:17:36.740
 859,65825,2023-03-02,2023-03-03,Registro y control - Soporte Académico,1,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-03-03 14:17:43.647
 860,65825,2023-03-02,2023-03-03,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-03 14:35:55.507
-861,65826,2023-03-02,2023-03-03,Registro y control - Soporte Académico,1,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-03 14:51:44.180
-862,65826,2023-03-02,2023-03-03,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-03-03 14:17:53.883
+861,65826,2023-03-02,2023-03-03,Registro y control - Soporte Académico,1,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-03-03 14:17:53.883
+862,65826,2023-03-02,2023-03-03,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-03 14:51:44.180
 863,65840,2023-03-03,2023-03-03,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-03-03 14:18:02.727
 864,65840,2023-03-03,2023-03-03,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-03 14:57:53.973
-865,65841,2023-03-03,2023-03-03,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-03-03 14:18:10.930
-866,65841,2023-03-03,2023-03-03,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-03 15:06:06.503
+865,65841,2023-03-03,2023-03-03,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-03 15:06:06.503
+866,65841,2023-03-03,2023-03-03,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-03-03 14:18:10.930
 867,65845,2023-03-03,2023-03-03,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-03-03 14:18:18.680
 868,65845,2023-03-03,2023-03-03,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-03 15:11:52.667
-869,65849,2023-03-03,2023-03-03,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-03 15:21:31.903
-870,65849,2023-03-03,2023-03-03,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-03-03 14:18:25.590
+869,65849,2023-03-03,2023-03-03,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-03-03 14:18:25.590
+870,65849,2023-03-03,2023-03-03,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-03 15:21:31.903
 871,65862,2023-03-03,2023-03-03,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-03 15:26:42.710
 872,65862,2023-03-03,2023-03-03,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-03-03 14:18:35.020
 873,65865,2023-03-03,2023-03-03,Registro y control - Soporte Académico,0,Rechazada,Osorio Morales Paola Jimena,En Proceso,2023-03-03 14:18:42.550
 874,65865,2023-03-03,2023-03-03,Registro y control - Soporte Académico,0,Rechazada,Osorio Morales Paola Jimena,Rechazada,2023-03-03 15:32:32.797
 875,65868,2023-03-03,2023-03-03,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-03-03 14:18:53.187
 876,65868,2023-03-03,2023-03-03,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-03 15:41:26.830
-877,65869,2023-03-03,2023-03-03,Registro y control - Soporte Académico,0,Rechazada,Osorio Morales Paola Jimena,Rechazada,2023-03-03 15:47:29.630
-878,65869,2023-03-03,2023-03-03,Registro y control - Soporte Académico,0,Rechazada,Osorio Morales Paola Jimena,En Proceso,2023-03-03 14:19:03.403
+877,65869,2023-03-03,2023-03-03,Registro y control - Soporte Académico,0,Rechazada,Osorio Morales Paola Jimena,En Proceso,2023-03-03 14:19:03.403
+878,65869,2023-03-03,2023-03-03,Registro y control - Soporte Académico,0,Rechazada,Osorio Morales Paola Jimena,Rechazada,2023-03-03 15:47:29.630
 879,65872,2023-03-03,2023-03-03,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-03-03 14:19:10.500
 880,65872,2023-03-03,2023-03-03,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-03 15:54:04.777
-881,65875,2023-03-03,2023-03-03,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-03-03 14:19:21.140
-882,65875,2023-03-03,2023-03-03,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-03 15:58:21.670
+881,65875,2023-03-03,2023-03-03,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-03 15:58:21.670
+882,65875,2023-03-03,2023-03-03,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-03-03 14:19:21.140
 883,65880,2023-03-03,2023-03-03,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-03 16:05:57.023
 884,65880,2023-03-03,2023-03-03,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-03-03 14:19:30.453
-885,65919,2023-03-04,2023-03-06,,2,Pendiente,,,
-886,65921,2023-03-04,2023-03-06,,2,Pendiente,,,
-887,65922,2023-03-04,2023-03-06,,2,Pendiente,,,
+885,65919,2023-03-04,2023-03-07,Registro y control - Soporte Académico,3,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-07 09:14:41.527
+886,65919,2023-03-04,2023-03-07,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-03-07 09:05:53.030
+887,65921,2023-03-04,2023-03-07,Registro y control - Soporte Académico,3,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-03-07 09:06:03.440
+888,65921,2023-03-04,2023-03-07,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-07 09:25:30.377
+889,65922,2023-03-04,2023-03-07,Registro y control - Soporte Académico,3,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-07 09:30:46.983
+890,65922,2023-03-04,2023-03-07,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-03-07 09:06:11.283
+891,65955,2023-03-06,2023-03-07,Registro y control - Soporte Académico,1,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-03-07 09:06:20.317
+892,65955,2023-03-06,2023-03-07,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-07 09:36:56.273
+893,65956,2023-03-06,2023-03-07,Registro y control - Soporte Académico,1,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-07 09:46:23.413
+894,65956,2023-03-06,2023-03-07,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-03-07 09:06:27.550
+895,65959,2023-03-06,2023-03-07,Registro y control - Soporte Académico,1,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-07 09:51:49.190
+896,65959,2023-03-06,2023-03-07,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-03-07 09:06:35.393
+897,65966,2023-03-06,2023-03-07,Registro y control - Soporte Académico,1,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-07 09:58:51.107
+898,65966,2023-03-06,2023-03-07,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-03-07 09:06:45.050
+899,65982,2023-03-06,2023-03-07,Registro y control - Soporte Académico,1,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-07 10:14:55.413
+900,65982,2023-03-06,2023-03-07,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-03-07 09:06:53.130
+901,66001,2023-03-06,2023-03-07,Registro y control - Soporte Académico,1,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-07 10:19:13.813
+902,66001,2023-03-06,2023-03-07,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-03-07 09:07:01.223
+903,66002,2023-03-06,2023-03-07,Registro y control - Soporte Académico,1,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-03-07 09:07:09.440
+904,66002,2023-03-06,2023-03-11,Registro y control - Soporte Académico,4,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-11 09:06:38.963
+905,66034,2023-03-07,2023-03-07,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-03-07 09:07:18.833
+906,66034,2023-03-07,2023-03-07,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-07 10:42:23.087
+907,66042,2023-03-07,2023-03-07,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-07 10:48:38.900
+908,66048,2023-03-07,2023-03-07,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-07 10:53:23.793
+909,66050,2023-03-07,2023-03-07,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-07 11:00:45.953
+910,66058,2023-03-07,2023-03-08,Registro y control - Soporte Académico,1,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-03-08 14:32:10.017
+911,66058,2023-03-07,2023-03-09,Registro y control - Soporte Académico,1,Aprobada,Bernal Bejarano Nelcy Rocio,Aprobada,2023-03-09 09:47:37.930
+912,66059,2023-03-07,2023-03-08,Registro y control - Soporte Académico,1,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-03-08 14:32:20.657
+913,66059,2023-03-07,2023-03-08,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,Aprobada,2023-03-08 16:40:48.107
+914,66081,2023-03-07,2023-03-08,Registro y control - Soporte Académico,1,Aprobada,Bernal Bejarano Nelcy Rocio,Aprobada,2023-03-08 16:19:03.767
+915,66081,2023-03-07,2023-03-08,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-03-08 14:32:34.690
+916,66105,2023-03-08,2023-03-08,Registro y control - Soporte Académico,0,Rechazada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-03-08 14:32:49.377
+917,66105,2023-03-08,2023-03-08,Registro y control - Soporte Académico,0,Rechazada,Bernal Bejarano Nelcy Rocio,Rechazada,2023-03-08 16:08:59.707
+918,66107,2023-03-08,2023-03-08,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,Aprobada,2023-03-08 16:06:04.503
+919,66107,2023-03-08,2023-03-08,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-03-08 14:33:02.160
+920,66108,2023-03-08,2023-03-08,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,Aprobada,2023-03-08 15:54:45.513
+921,66108,2023-03-08,2023-03-08,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-03-08 14:33:22.503
+922,66109,2023-03-08,2023-03-08,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-03-08 14:33:35.613
+923,66109,2023-03-08,2023-03-08,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,Aprobada,2023-03-08 15:39:26.470
+924,66121,2023-03-08,2023-03-08,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-03-08 14:33:47.290
+925,66121,2023-03-08,2023-03-08,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,Aprobada,2023-03-08 15:13:12.273
+926,66132,2023-03-08,2023-03-08,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,Aprobada,2023-03-08 14:57:09.350
+927,66132,2023-03-08,2023-03-08,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-03-08 14:34:02.510
+928,66134,2023-03-08,2023-03-08,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,Aprobada,2023-03-08 14:46:37.897
+929,66134,2023-03-08,2023-03-08,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-03-08 14:34:13.593
+930,66137,2023-03-08,2023-03-08,Registro y control - Soporte Académico,0,Rechazada,Osorio Morales Paola Jimena,En Proceso,2023-03-08 17:55:36.313
+931,66137,2023-03-08,2023-03-09,Registro y control - Soporte Académico,1,Rechazada,Bernal Bejarano Nelcy Rocio,Rechazada,2023-03-09 09:50:30.867
+932,66154,2023-03-08,2023-03-08,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-03-08 17:55:50.377
+933,66154,2023-03-08,2023-03-09,Registro y control - Soporte Académico,1,Aprobada,Bernal Bejarano Nelcy Rocio,Aprobada,2023-03-09 10:11:38.973
+934,66157,2023-03-08,2023-03-08,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-03-08 17:56:02.207
+935,66157,2023-03-08,2023-03-09,Registro y control - Soporte Académico,1,Aprobada,Bernal Bejarano Nelcy Rocio,Aprobada,2023-03-09 10:23:00.143
+936,66166,2023-03-08,2023-03-09,Registro y control - Soporte Académico,1,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-03-09 10:26:45.623
+937,66166,2023-03-08,2023-03-09,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,Aprobada,2023-03-09 10:52:04.083
+938,66191,2023-03-09,2023-03-09,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-03-09 11:33:59.243
+939,66191,2023-03-09,2023-03-10,Registro y control - Soporte Académico,1,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-10 16:50:54.207
+940,66192,2023-03-09,2023-03-09,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-03-09 13:42:36.107
+941,66192,2023-03-09,2023-03-10,Registro y control - Soporte Académico,1,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-10 17:01:11.227
+942,66193,2023-03-09,2023-03-09,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-03-09 13:42:47.433
+943,66193,2023-03-09,2023-03-10,Registro y control - Soporte Académico,1,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-10 17:17:50.940
+944,66195,2023-03-09,2023-03-09,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-03-09 13:43:04.723
+945,66195,2023-03-09,2023-03-10,Registro y control - Soporte Académico,1,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-10 17:28:37.927
+946,66198,2023-03-09,2023-03-09,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-03-09 13:43:15.553
+947,66198,2023-03-09,2023-03-10,Registro y control - Soporte Académico,1,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-10 17:37:57.723
+948,66199,2023-03-09,2023-03-09,Registro y control - Soporte Académico,0,Rechazada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-03-09 13:43:25.790
+949,66199,2023-03-09,2023-03-10,Registro y control - Soporte Académico,1,Rechazada,Osorio Morales Paola Jimena,Rechazada,2023-03-10 17:44:16.157
+950,66201,2023-03-09,2023-03-09,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-03-09 13:43:36.230
+951,66201,2023-03-09,2023-03-10,Registro y control - Soporte Académico,1,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-10 17:50:46.813
+952,66209,2023-03-09,2023-03-09,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-03-09 18:11:04.277
+953,66209,2023-03-09,2023-03-11,Registro y control - Soporte Académico,2,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-11 08:20:14.950
+954,66221,2023-03-09,2023-03-09,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-03-09 18:11:12.370
+955,66221,2023-03-09,2023-03-11,Registro y control - Soporte Académico,2,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-11 08:50:20.867
+956,66222,2023-03-09,2023-03-09,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-03-09 18:11:22.323
+957,66222,2023-03-09,2023-03-11,Registro y control - Soporte Académico,2,Aprobada,Bernal Bejarano Nelcy Rocio,Aprobada,2023-03-11 09:29:52.387
+958,66224,2023-03-09,2023-03-09,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-03-09 18:11:31.417
+959,66224,2023-03-09,2023-03-11,Registro y control - Soporte Académico,2,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-11 09:17:24.507
+960,66234,2023-03-09,2023-03-11,Registro y control - Soporte Académico,2,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-11 09:23:09.423
+961,66234,2023-03-09,2023-03-11,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-03-11 09:00:11.240
+962,66246,2023-03-09,2023-03-11,Registro y control - Soporte Académico,2,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-11 09:58:30.737
+963,66246,2023-03-09,2023-03-11,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-03-11 09:00:33.297
+964,66251,2023-03-10,2023-03-11,Registro y control - Soporte Académico,1,Aprobada,Bernal Bejarano Nelcy Rocio,Aprobada,2023-03-11 09:48:00.207
+965,66251,2023-03-10,2023-03-11,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-03-11 08:59:14.277
+966,66265,2023-03-10,2023-03-11,Registro y control - Soporte Académico,1,Aprobada,Bernal Bejarano Nelcy Rocio,Aprobada,2023-03-11 10:11:06.657
+967,66265,2023-03-10,2023-03-11,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-03-11 08:59:04.897
+968,66268,2023-03-10,2023-03-11,Registro y control - Soporte Académico,1,Rechazada,Osorio Morales Paola Jimena,Rechazada,2023-03-11 10:05:13.573
+969,66268,2023-03-10,2023-03-11,Registro y control - Soporte Académico,0,Rechazada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-03-11 08:58:55.523
+970,66269,2023-03-10,2023-03-11,Registro y control - Soporte Académico,1,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-11 11:09:36.837
+971,66269,2023-03-10,2023-03-11,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-03-11 08:58:46.283
+972,66286,2023-03-10,2023-03-11,Registro y control - Soporte Académico,1,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-03-11 08:56:02.090
+973,66286,2023-03-10,2023-03-11,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,Aprobada,2023-03-11 10:35:55.587
+974,66287,2023-03-10,2023-03-11,Registro y control - Soporte Académico,1,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-03-11 08:55:47.363
+975,66287,2023-03-10,2023-03-11,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-11 10:22:17.260
+976,66288,2023-03-10,2023-03-11,Registro y control - Soporte Académico,1,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-11 10:36:45.897
+977,66288,2023-03-10,2023-03-11,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-03-11 08:55:25.290
+978,66289,2023-03-10,2023-03-11,Registro y control - Soporte Académico,1,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-03-11 08:54:56.217
+979,66289,2023-03-10,2023-03-11,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,Aprobada,2023-03-11 10:48:59.323
+980,66292,2023-03-10,2023-03-11,Registro y control - Soporte Académico,1,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-03-11 08:54:18.990
+981,66292,2023-03-10,2023-03-11,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-11 10:43:32.217
+982,66293,2023-03-10,2023-03-11,Registro y control - Soporte Académico,1,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-03-11 08:54:01.417
+983,66293,2023-03-10,2023-03-11,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-11 10:51:18.933
+984,66301,2023-03-11,2023-03-11,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,Aprobada,2023-03-11 10:59:53.350
+985,66301,2023-03-11,2023-03-11,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-03-11 08:53:39.477
+986,66306,2023-03-11,2023-03-11,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-03-11 08:53:22.490
+987,66306,2023-03-11,2023-03-11,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-11 11:00:08.640
+988,66340,2023-03-12,2023-03-14,Registro y control - Soporte Académico,2,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-14 12:53:33.680
+989,66340,2023-03-12,2023-03-14,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-03-14 09:39:47.547
+990,66354,2023-03-13,2023-03-14,Registro y control - Soporte Académico,1,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-14 14:32:29.577
+991,66354,2023-03-13,2023-03-14,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-03-14 09:40:30.630
+992,66365,2023-03-13,2023-03-14,Registro y control - Soporte Académico,1,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-03-14 09:40:39.867
+993,66365,2023-03-13,2023-03-14,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,Aprobada,2023-03-14 15:51:16.203
+994,66374,2023-03-13,2023-03-14,Registro y control - Soporte Académico,1,Rechazada,Bernal Bejarano Nelcy Rocio,Rechazada,2023-03-14 16:05:21.557
+995,66374,2023-03-13,2023-03-14,Registro y control - Soporte Académico,0,Rechazada,Osorio Morales Paola Jimena,En Proceso,2023-03-14 09:40:48.400
+996,66379,2023-03-13,2023-03-14,Registro y control - Soporte Académico,1,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-03-14 09:40:57.410
+997,66379,2023-03-13,2023-03-14,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-14 16:04:23.773
+998,66380,2023-03-13,2023-03-14,Registro y control - Soporte Académico,1,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-03-14 09:41:06.580
+999,66380,2023-03-13,2023-03-14,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-14 16:11:42.587
+1000,66381,2023-03-13,2023-03-14,Registro y control - Soporte Académico,1,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-03-14 09:44:46.750
+1001,66381,2023-03-13,2023-03-14,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,Aprobada,2023-03-14 16:14:34.820
+1002,66383,2023-03-13,2023-03-14,Registro y control - Soporte Académico,1,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-03-14 09:44:59.250
+1003,66383,2023-03-13,2023-03-14,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-14 16:25:50.623
+1004,66384,2023-03-13,2023-03-14,Registro y control - Soporte Académico,1,Aprobada,Bernal Bejarano Nelcy Rocio,Aprobada,2023-03-14 16:27:50.453
+1005,66384,2023-03-13,2023-03-14,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-03-14 09:48:35.463
+1006,66394,2023-03-13,2023-03-14,Registro y control - Soporte Académico,1,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-14 17:31:55.247
+1007,66394,2023-03-13,2023-03-14,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-03-14 09:48:50.307
+1008,66395,2023-03-13,2023-03-14,Registro y control - Soporte Académico,1,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-03-14 09:49:05.710
+1009,66395,2023-03-13,2023-03-14,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-14 17:34:43.280
+1010,66407,2023-03-13,2023-03-14,Registro y control - Soporte Académico,1,Rechazada,Osorio Morales Paola Jimena,En Proceso,2023-03-14 09:49:14.257
+1011,66407,2023-03-13,2023-03-14,Registro y control - Soporte Académico,0,Rechazada,Bernal Bejarano Nelcy Rocio,Rechazada,2023-03-14 16:44:59.053
+1012,66409,2023-03-13,2023-03-14,Registro y control - Soporte Académico,1,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-03-14 09:49:22.913
+1013,66409,2023-03-13,2023-03-14,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,Aprobada,2023-03-14 16:50:00.513
+1014,66411,2023-03-13,2023-03-14,Registro y control - Soporte Académico,1,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-03-14 09:49:35.913
+1015,66411,2023-03-13,2023-03-14,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,Aprobada,2023-03-14 16:51:37.487
+1016,66412,2023-03-13,2023-03-14,Registro y control - Soporte Académico,1,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-03-14 09:49:44.507
+1017,66412,2023-03-13,2023-03-15,Registro y control - Soporte Académico,1,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-15 09:01:42.123
+1018,66414,2023-03-13,2023-03-14,Registro y control - Soporte Académico,1,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-14 18:04:56.993
+1019,66414,2023-03-13,2023-03-14,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-03-14 09:49:55.273
+1020,66423,2023-03-13,2023-03-14,Registro y control - Soporte Académico,1,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-03-14 09:50:03.133
+1021,66423,2023-03-13,2023-03-14,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-14 18:13:54.307
+1022,66424,2023-03-13,2023-03-14,Registro y control - Soporte Académico,1,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-03-14 09:50:11.290
+1023,66424,2023-03-13,2023-03-15,Registro y control - Soporte Académico,1,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-15 09:12:37.587
+1024,66449,2023-03-13,2023-03-14,Registro y control - Soporte Académico,1,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-03-14 09:50:18.993
+1025,66449,2023-03-13,2023-03-15,Registro y control - Soporte Académico,1,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-15 09:32:17.727
+1026,66465,2023-03-14,2023-03-14,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-03-14 09:50:29.743
+1027,66465,2023-03-14,2023-03-15,Registro y control - Soporte Académico,1,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-15 09:39:08.867
+1028,66478,2023-03-14,2023-03-14,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-03-14 09:50:36.510
+1029,66478,2023-03-14,2023-03-15,Registro y control - Soporte Académico,1,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-15 10:20:42.440
+1030,66492,2023-03-14,2023-03-14,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-03-14 15:34:21.643
+1031,66492,2023-03-14,2023-03-16,Registro y control - Soporte Académico,2,Aprobada,Bernal Bejarano Nelcy Rocio,Aprobada,2023-03-16 10:50:44.673
+1032,66499,2023-03-14,2023-03-14,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-03-14 15:34:06.673
+1033,66499,2023-03-14,2023-03-15,Registro y control - Soporte Académico,1,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-15 10:53:42.413
+1034,66501,2023-03-14,2023-03-14,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-03-14 15:33:57.213
+1035,66501,2023-03-14,2023-03-15,Registro y control - Soporte Académico,1,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-15 11:05:40.480
+1036,66505,2023-03-14,2023-03-14,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-03-14 15:33:42.527
+1037,66505,2023-03-14,2023-03-15,Registro y control - Soporte Académico,1,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-15 11:49:16.073
+1038,66517,2023-03-14,2023-03-14,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-03-14 15:33:31.587
+1039,66517,2023-03-14,2023-03-15,Registro y control - Soporte Académico,1,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-15 11:56:38.560
+1040,66533,2023-03-14,2023-03-14,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-03-14 15:33:21.803
+1041,66533,2023-03-14,2023-03-15,Registro y control - Soporte Académico,1,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-15 12:03:09.620
+1042,66536,2023-03-14,2023-03-15,Registro y control - Soporte Académico,1,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-15 12:10:54.883
+1043,66536,2023-03-14,2023-03-15,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-03-15 12:03:40.827
+1044,66540,2023-03-14,2023-03-15,Registro y control - Soporte Académico,1,Rechazada,Osorio Morales Paola Jimena,En Proceso,2023-03-15 12:03:51.020
+1045,66540,2023-03-14,2023-03-17,Registro y control - Soporte Académico,2,Rechazada,Osorio Morales Paola Jimena,Rechazada,2023-03-17 17:51:56.300
+1046,66545,2023-03-14,2023-03-15,Registro y control - Soporte Académico,1,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-03-15 12:03:59.570
+1047,66545,2023-03-14,2023-03-15,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-15 12:42:52.983
+1048,66548,2023-03-14,2023-03-15,Registro y control - Soporte Académico,1,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-15 12:52:10.920
+1049,66548,2023-03-14,2023-03-15,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-03-15 12:04:07.413
+1050,66569,2023-03-14,2023-03-15,Registro y control - Soporte Académico,1,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-03-15 12:04:15.857
+1051,66569,2023-03-14,2023-03-15,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-15 12:57:04.403
+1052,66575,2023-03-14,2023-03-15,Registro y control - Soporte Académico,1,Rechazada,Osorio Morales Paola Jimena,En Proceso,2023-03-15 12:04:24.327
+1053,66575,2023-03-14,2023-03-15,Registro y control - Soporte Académico,0,Rechazada,Osorio Morales Paola Jimena,Rechazada,2023-03-15 13:02:07.083
+1054,66586,2023-03-15,2023-03-15,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-15 13:08:44.870
+1055,66586,2023-03-15,2023-03-15,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-03-15 12:04:30.857
+1056,66587,2023-03-15,2023-03-15,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-15 13:43:19.883
+1057,66587,2023-03-15,2023-03-15,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-03-15 12:04:37.810
+1058,66599,2023-03-15,2023-03-15,Registro y control - Soporte Académico,0,Rechazada,Osorio Morales Paola Jimena,Rechazada,2023-03-15 14:44:16.627
+1059,66599,2023-03-15,2023-03-15,Registro y control - Soporte Académico,0,Rechazada,Osorio Morales Paola Jimena,En Proceso,2023-03-15 12:04:45.280
+1060,66611,2023-03-15,2023-03-16,Registro y control - Soporte Académico,1,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-03-16 10:21:15.493
+1061,66611,2023-03-15,2023-03-16,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,Aprobada,2023-03-16 14:25:51.400
+1062,66617,2023-03-15,2023-03-16,Registro y control - Soporte Académico,1,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-16 17:50:39.880
+1063,66617,2023-03-15,2023-03-16,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-03-16 10:22:33.107
+1064,66623,2023-03-15,2023-03-16,Registro y control - Soporte Académico,1,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-03-16 10:22:14.933
+1065,66623,2023-03-15,2023-03-18,Registro y control - Soporte Académico,2,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-18 09:05:33.583
+1066,66628,2023-03-15,2023-03-16,Registro y control - Soporte Académico,1,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-03-16 10:22:03.870
+1067,66628,2023-03-15,2023-03-18,Registro y control - Soporte Académico,2,Aprobada,Bernal Bejarano Nelcy Rocio,Aprobada,2023-03-18 09:13:25.813
+1068,66653,2023-03-16,2023-03-16,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-03-16 10:21:55.587
+1069,66653,2023-03-16,2023-03-18,Registro y control - Soporte Académico,2,Aprobada,Bernal Bejarano Nelcy Rocio,Aprobada,2023-03-18 09:18:52.993
+1070,66654,2023-03-16,2023-03-16,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-03-16 10:21:30.010
+1071,66654,2023-03-16,2023-03-18,Registro y control - Soporte Académico,2,Aprobada,Bernal Bejarano Nelcy Rocio,Aprobada,2023-03-18 09:22:12.303
+1072,66656,2023-03-16,2023-03-16,Registro y control - Soporte Académico,0,Rechazada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-03-16 10:21:23.413
+1073,66656,2023-03-16,2023-03-18,Registro y control - Soporte Académico,2,Rechazada,Bernal Bejarano Nelcy Rocio,Rechazada,2023-03-18 09:33:00.430
+1074,66666,2023-03-16,2023-03-16,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-03-16 18:13:49.317
+1075,66666,2023-03-16,2023-03-18,Registro y control - Soporte Académico,2,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-18 09:41:46.547
+1076,66669,2023-03-16,2023-03-16,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-03-16 18:13:57.020
+1077,66669,2023-03-16,2023-03-18,Registro y control - Soporte Académico,2,Aprobada,Bernal Bejarano Nelcy Rocio,Aprobada,2023-03-18 09:45:27.293
+1078,66670,2023-03-16,2023-03-16,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-03-16 18:14:06.520
+1079,66670,2023-03-16,2023-03-18,Registro y control - Soporte Académico,2,Aprobada,Bernal Bejarano Nelcy Rocio,Aprobada,2023-03-18 09:50:56.893
+1080,66671,2023-03-16,2023-03-16,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-03-16 18:14:16.100
+1081,66671,2023-03-16,2023-03-18,Registro y control - Soporte Académico,2,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-18 09:56:31.657
+1082,66672,2023-03-16,2023-03-16,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-03-16 18:14:23.957
+1083,66672,2023-03-16,2023-03-18,Registro y control - Soporte Académico,2,Aprobada,Bernal Bejarano Nelcy Rocio,Aprobada,2023-03-18 10:01:38.173
+1084,66674,2023-03-16,2023-03-16,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-03-16 18:14:31.567
+1085,66674,2023-03-16,2023-03-18,Registro y control - Soporte Académico,2,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-18 10:05:24.220
+1086,66685,2023-03-16,2023-03-16,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-03-16 18:14:39.120
+1087,66685,2023-03-16,2023-03-18,Registro y control - Soporte Académico,2,Aprobada,Bernal Bejarano Nelcy Rocio,Aprobada,2023-03-18 10:16:36.220
+1088,66690,2023-03-16,2023-03-16,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-03-16 18:14:46.073
+1089,66690,2023-03-16,2023-03-18,Registro y control - Soporte Académico,2,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-18 10:16:45.343
+1090,66691,2023-03-16,2023-03-16,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-03-16 18:14:53.747
+1091,66691,2023-03-16,2023-03-18,Registro y control - Soporte Académico,2,Aprobada,Bernal Bejarano Nelcy Rocio,Aprobada,2023-03-18 10:32:23.633
+1092,66694,2023-03-16,2023-03-16,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-03-16 18:15:00.807
+1093,66694,2023-03-16,2023-03-18,Registro y control - Soporte Académico,2,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-18 10:21:47.390
+1094,66696,2023-03-16,2023-03-16,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-03-16 18:15:08.607
+1095,66696,2023-03-16,2023-03-18,Registro y control - Soporte Académico,2,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-18 10:27:47.590
+1096,66705,2023-03-16,2023-03-16,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-03-16 18:15:16.277
+1097,66705,2023-03-16,2023-03-18,Registro y control - Soporte Académico,2,Aprobada,Bernal Bejarano Nelcy Rocio,Aprobada,2023-03-18 10:41:39.280
+1098,66706,2023-03-16,2023-03-16,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-03-16 18:15:23.183
+1099,66706,2023-03-16,2023-03-18,Registro y control - Soporte Académico,2,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-18 10:47:21.317
+1100,66707,2023-03-16,2023-03-16,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-03-16 18:15:31.857
+1101,66707,2023-03-16,2023-03-18,Registro y control - Soporte Académico,2,Aprobada,Bernal Bejarano Nelcy Rocio,Aprobada,2023-03-18 10:49:12.510
+1102,66744,2023-03-17,2023-03-18,Registro y control - Soporte Académico,1,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-03-18 09:01:31.013
+1103,66744,2023-03-17,2023-03-21,Registro y control - Soporte Académico,3,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-21 12:05:42.980
+1104,66745,2023-03-17,2023-03-18,Registro y control - Soporte Académico,1,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-03-18 09:01:21.637
+1105,66745,2023-03-17,2023-03-21,Registro y control - Soporte Académico,3,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-21 12:15:42.477
+1106,66746,2023-03-17,2023-03-18,Registro y control - Soporte Académico,1,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-03-18 09:01:10.450
+1107,66746,2023-03-17,2023-03-21,Registro y control - Soporte Académico,3,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-21 12:57:54.313
+1108,66747,2023-03-17,2023-03-18,Registro y control - Soporte Académico,1,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-03-18 09:01:01.933
+1109,66747,2023-03-17,2023-03-21,Registro y control - Soporte Académico,3,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-21 13:12:25.423
+1110,66749,2023-03-17,2023-03-18,Registro y control - Soporte Académico,1,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-03-18 09:00:55.887
+1111,66749,2023-03-17,2023-03-21,Registro y control - Soporte Académico,3,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-21 13:03:37.390
+1112,66750,2023-03-17,2023-03-18,Registro y control - Soporte Académico,1,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-03-18 09:00:45.900
+1113,66750,2023-03-17,2023-03-21,Registro y control - Soporte Académico,3,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-21 13:23:11.973
+1114,66759,2023-03-17,2023-03-18,Registro y control - Soporte Académico,1,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-03-18 09:00:38.790
+1115,66759,2023-03-17,2023-03-21,Registro y control - Soporte Académico,3,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-21 14:45:27.870
+1116,66760,2023-03-17,2023-03-18,Registro y control - Soporte Académico,1,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-03-18 09:00:29.197
+1117,66760,2023-03-17,2023-03-23,Registro y control - Soporte Académico,5,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-23 10:54:52.367
+1118,66762,2023-03-17,2023-03-18,Registro y control - Soporte Académico,1,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-03-18 09:00:17.273
+1119,66762,2023-03-17,2023-03-23,Registro y control - Soporte Académico,5,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-23 11:21:30.083
+1120,66764,2023-03-17,2023-03-18,Registro y control - Soporte Académico,1,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-03-18 09:00:07.760
+1121,66764,2023-03-17,2023-03-23,Registro y control - Soporte Académico,5,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-23 11:12:56.733
+1122,66776,2023-03-17,2023-03-18,Registro y control - Soporte Académico,1,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-03-18 08:59:59.303
+1123,66776,2023-03-17,2023-03-23,Registro y control - Soporte Académico,5,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-23 11:27:37.187
+1124,66778,2023-03-17,2023-03-18,Registro y control - Soporte Académico,1,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-03-18 08:59:52.170
+1125,66778,2023-03-17,2023-03-23,Registro y control - Soporte Académico,5,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-23 11:53:43.537
+1126,66779,2023-03-17,2023-03-18,Registro y control - Soporte Académico,1,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-03-18 08:59:46.180
+1127,66779,2023-03-17,2023-03-23,Registro y control - Soporte Académico,5,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-23 12:03:21.540
+1128,66781,2023-03-17,2023-03-18,Registro y control - Soporte Académico,1,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-03-18 08:59:39.860
+1129,66781,2023-03-17,2023-03-23,Registro y control - Soporte Académico,5,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-23 12:11:05.263
+1130,66783,2023-03-17,2023-03-18,Registro y control - Soporte Académico,1,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-03-18 08:59:28.257
+1131,66783,2023-03-17,2023-03-23,Registro y control - Soporte Académico,5,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-23 12:25:06.590
+1132,66784,2023-03-17,2023-03-18,Registro y control - Soporte Académico,1,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-03-18 08:59:13.237
+1133,66784,2023-03-17,2023-03-23,Registro y control - Soporte Académico,5,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-23 12:36:07.700
+1134,66793,2023-03-17,2023-03-18,Registro y control - Soporte Académico,1,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-03-18 08:59:04.707
+1135,66793,2023-03-17,2023-03-24,Registro y control - Soporte Académico,6,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-24 17:45:44.240
+1136,66794,2023-03-17,2023-03-18,Registro y control - Soporte Académico,1,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-03-18 08:58:55.813
+1137,66794,2023-03-17,2023-03-23,Registro y control - Soporte Académico,5,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-23 12:54:45.957
+1138,66797,2023-03-17,2023-03-18,Registro y control - Soporte Académico,1,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-03-18 08:58:47.047
+1139,66797,2023-03-17,2023-03-23,Registro y control - Soporte Académico,5,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-23 13:01:20.947
+1140,66811,2023-03-18,2023-03-18,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-03-18 08:58:39.557
+1141,66811,2023-03-18,2023-03-23,Registro y control - Soporte Académico,5,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-23 13:08:44.470
+1142,66812,2023-03-18,2023-03-18,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-03-18 08:58:32.647
+1143,66812,2023-03-18,2023-03-23,Registro y control - Soporte Académico,5,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-23 13:13:03.500
+1144,66834,2023-03-18,2023-03-22,Registro y control - Soporte Académico,4,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-03-22 13:50:43.600
+1145,66834,2023-03-18,2023-03-23,Registro y control - Soporte Académico,1,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-23 15:12:39.377
+1146,66892,2023-03-21,2023-03-22,Registro y control - Soporte Académico,1,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-03-22 13:50:36.570
+1147,66892,2023-03-21,2023-03-23,Registro y control - Soporte Académico,1,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-23 15:20:19.827
+1148,66893,2023-03-21,2023-03-22,Registro y control - Soporte Académico,1,Rechazada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-03-22 13:50:20.623
+1149,66893,2023-03-21,2023-03-23,Registro y control - Soporte Académico,1,Rechazada,Osorio Morales Paola Jimena,Rechazada,2023-03-23 15:24:54.510
+1150,66894,2023-03-21,2023-03-22,Registro y control - Soporte Académico,1,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-03-22 13:50:10.013
+1151,66894,2023-03-21,2023-03-23,Registro y control - Soporte Académico,1,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-23 15:39:21.047
+1152,66897,2023-03-21,2023-03-22,Registro y control - Soporte Académico,1,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-03-22 13:50:04.607
+1153,66897,2023-03-21,2023-03-29,Registro y control - Soporte Académico,7,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-29 09:59:32.090
+1154,66899,2023-03-21,2023-03-22,Registro y control - Soporte Académico,1,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-03-22 13:49:58.663
+1155,66899,2023-03-21,2023-03-23,Registro y control - Soporte Académico,1,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-23 15:51:29.137
+1156,66900,2023-03-21,2023-03-22,Registro y control - Soporte Académico,1,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-03-22 13:49:52.650
+1157,66900,2023-03-21,2023-03-23,Registro y control - Soporte Académico,1,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-23 15:59:05.580
+1158,66911,2023-03-21,2023-03-22,Registro y control - Soporte Académico,1,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-03-22 13:49:46.663
+1159,66911,2023-03-21,2023-03-23,Registro y control - Soporte Académico,1,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-23 16:11:32.847
+1160,66921,2023-03-21,2023-03-22,Registro y control - Soporte Académico,1,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-03-22 13:49:40.913
+1161,66921,2023-03-21,2023-03-23,Registro y control - Soporte Académico,1,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-23 16:18:06.763
+1162,66928,2023-03-21,2023-03-22,Registro y control - Soporte Académico,1,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-03-22 13:49:34.240
+1163,66928,2023-03-21,2023-03-23,Registro y control - Soporte Académico,1,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-23 16:29:31.797
+1164,66933,2023-03-21,2023-03-22,Registro y control - Soporte Académico,1,Rechazada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-03-22 13:49:26.000
+1165,66933,2023-03-21,2023-03-23,Registro y control - Soporte Académico,1,Rechazada,Osorio Morales Paola Jimena,Rechazada,2023-03-23 16:34:14.463
+1166,66936,2023-03-21,2023-03-22,Registro y control - Soporte Académico,1,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-03-22 13:49:19.730
+1167,66936,2023-03-21,2023-03-23,Registro y control - Soporte Académico,1,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-23 16:39:20.193
+1168,66939,2023-03-21,2023-03-22,Registro y control - Soporte Académico,1,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-03-22 13:49:13.277
+1169,66939,2023-03-21,2023-03-23,Registro y control - Soporte Académico,1,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-23 16:57:22.637
+1170,66977,2023-03-21,2023-03-22,Registro y control - Soporte Académico,1,Rechazada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-03-22 13:49:06.683
+1171,66977,2023-03-21,2023-03-23,Registro y control - Soporte Académico,1,Rechazada,Osorio Morales Paola Jimena,Rechazada,2023-03-23 16:59:44.140
+1172,66980,2023-03-22,2023-03-22,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-03-22 13:48:57.467
+1173,66980,2023-03-22,2023-03-23,Registro y control - Soporte Académico,1,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-23 17:11:07.897
+1174,66994,2023-03-22,2023-03-22,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-03-22 13:48:48.903
+1175,66994,2023-03-22,2023-03-23,Registro y control - Soporte Académico,1,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-23 17:18:51.413
+1176,67013,2023-03-22,2023-03-23,Registro y control - Soporte Académico,1,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-03-23 17:19:18.013
+1177,67013,2023-03-22,2023-03-24,Registro y control - Soporte Académico,1,Aprobada,Bernal Bejarano Nelcy Rocio,Aprobada,2023-03-24 15:03:08.587
+1178,67015,2023-03-22,2023-03-23,Registro y control - Soporte Académico,1,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-03-23 17:19:28.780
+1179,67015,2023-03-22,2023-03-24,Registro y control - Soporte Académico,1,Aprobada,Bernal Bejarano Nelcy Rocio,Aprobada,2023-03-24 09:55:33.163
+1180,67027,2023-03-22,2023-03-23,Registro y control - Soporte Académico,1,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-03-23 17:19:45.360
+1181,67027,2023-03-22,2023-03-24,Registro y control - Soporte Académico,1,Aprobada,Bernal Bejarano Nelcy Rocio,Aprobada,2023-03-24 10:02:30.237
+1182,67060,2023-03-23,2023-03-23,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-03-23 17:19:57.563
+1183,67060,2023-03-23,2023-03-24,Registro y control - Soporte Académico,1,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-24 15:25:55.837
+1184,67062,2023-03-23,2023-03-23,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-03-23 17:20:06.237
+1185,67062,2023-03-23,2023-03-24,Registro y control - Soporte Académico,1,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-24 15:07:57.710
+1186,67063,2023-03-23,2023-03-23,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-03-23 17:20:14.283
+1187,67063,2023-03-23,2023-03-24,Registro y control - Soporte Académico,1,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-24 15:41:44.783
+1188,67066,2023-03-23,2023-03-23,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-03-23 17:20:23.047
+1189,67066,2023-03-23,2023-03-24,Registro y control - Soporte Académico,1,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-24 15:58:02.780
+1190,67071,2023-03-23,2023-03-23,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-03-23 17:20:31.110
+1191,67071,2023-03-23,2023-03-24,Registro y control - Soporte Académico,1,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-24 16:04:14.267
+1192,67091,2023-03-23,2023-03-23,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-03-23 17:20:39.940
+1193,67091,2023-03-23,2023-03-24,Registro y control - Soporte Académico,1,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-24 16:13:04.060
+1194,67094,2023-03-23,2023-03-23,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-03-23 17:20:49.017
+1195,67094,2023-03-23,2023-03-24,Registro y control - Soporte Académico,1,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-24 16:19:32.193
+1196,67098,2023-03-23,2023-03-23,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-03-23 17:20:58.487
+1197,67098,2023-03-23,2023-03-24,Registro y control - Soporte Académico,1,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-24 16:29:19.867
+1198,67099,2023-03-23,2023-03-23,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-03-23 17:21:06.440
+1199,67099,2023-03-23,2023-03-24,Registro y control - Soporte Académico,1,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-24 16:52:01.920
+1200,67101,2023-03-23,2023-03-23,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-03-23 17:21:14.003
+1201,67101,2023-03-23,2023-03-24,Registro y control - Soporte Académico,1,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-24 17:07:21.220
+1202,67132,2023-03-24,2023-03-24,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-03-24 08:55:31.623
+1203,67132,2023-03-24,2023-03-24,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-24 17:12:58.970
+1204,67142,2023-03-24,2023-03-24,Registro y control - Soporte Académico,0,Rechazada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-03-24 14:10:19.460
+1205,67142,2023-03-24,2023-03-24,Registro y control - Soporte Académico,0,Rechazada,Osorio Morales Paola Jimena,Rechazada,2023-03-24 17:15:10.697
+1206,67144,2023-03-24,2023-03-24,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-03-24 14:10:09.863
+1207,67144,2023-03-24,2023-03-24,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-24 17:20:30.987
+1208,67149,2023-03-24,2023-03-24,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-03-24 14:10:01.847
+1209,67149,2023-03-24,2023-03-24,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-24 17:26:37.647
+1210,67157,2023-03-24,2023-03-24,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-03-24 14:09:51.127
+1211,67157,2023-03-24,2023-03-24,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-24 17:32:21.597
+1212,67161,2023-03-24,2023-03-24,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-24 17:55:32.763
+1213,67162,2023-03-24,2023-03-24,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-24 18:02:15.460
+1214,67173,2023-03-24,2023-03-24,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-24 18:09:56.130
+1215,67174,2023-03-24,2023-03-27,Registro y control - Soporte Académico,3,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-03-27 16:37:15.077
+1216,67174,2023-03-24,2023-03-29,Registro y control - Soporte Académico,2,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-29 10:39:44.647
+1217,67176,2023-03-24,2023-03-27,Registro y control - Soporte Académico,3,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-03-27 16:37:22.043
+1218,67176,2023-03-24,2023-03-29,Registro y control - Soporte Académico,2,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-29 10:47:32.570
+1219,67191,2023-03-25,2023-03-27,Registro y control - Soporte Académico,2,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-03-27 16:37:28.310
+1220,67191,2023-03-25,2023-03-29,Registro y control - Soporte Académico,2,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-29 10:53:34.353
+1221,67193,2023-03-25,2023-03-27,Registro y control - Soporte Académico,2,Rechazada,Osorio Morales Paola Jimena,En Proceso,2023-03-27 16:37:36.830
+1222,67193,2023-03-25,2023-03-29,Registro y control - Soporte Académico,2,Rechazada,Osorio Morales Paola Jimena,Rechazada,2023-03-29 10:58:10.093
+1223,67202,2023-03-25,2023-03-27,Registro y control - Soporte Académico,2,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-03-27 16:37:43.877
+1224,67202,2023-03-25,2023-03-29,Registro y control - Soporte Académico,2,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-29 11:03:07.010
+1225,67236,2023-03-26,2023-03-27,Registro y control - Soporte Académico,1,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-03-27 16:37:53.187
+1226,67236,2023-03-26,2023-03-29,Registro y control - Soporte Académico,2,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-29 11:12:30.747
+1227,67245,2023-03-27,2023-03-27,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-03-27 16:37:59.757
+1228,67245,2023-03-27,2023-03-29,Registro y control - Soporte Académico,2,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-29 11:19:18.237
+1229,67246,2023-03-27,2023-03-27,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-03-27 16:38:06.490
+1230,67246,2023-03-27,2023-03-29,Registro y control - Soporte Académico,2,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-29 11:27:50.393
+1231,67247,2023-03-27,2023-03-27,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-03-27 16:38:14.490
+1232,67247,2023-03-27,2023-03-29,Registro y control - Soporte Académico,2,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-29 11:39:34.847
+1233,67248,2023-03-27,2023-03-27,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-03-27 16:38:21.913
+1234,67248,2023-03-27,2023-03-29,Registro y control - Soporte Académico,2,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-29 11:50:54.460
+1235,67249,2023-03-27,2023-03-27,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-03-27 16:38:28.930
+1236,67249,2023-03-27,2023-03-29,Registro y control - Soporte Académico,2,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-29 11:56:47.210
+1237,67251,2023-03-27,2023-03-27,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-03-27 16:38:36.087
+1238,67251,2023-03-27,2023-03-29,Registro y control - Soporte Académico,2,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-29 12:01:25.280
+1239,67256,2023-03-27,2023-03-27,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-03-27 16:38:42.933
+1240,67256,2023-03-27,2023-03-29,Registro y control - Soporte Académico,2,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-29 12:06:00.840
+1241,67257,2023-03-27,2023-03-27,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-03-27 16:38:49.780
+1242,67257,2023-03-27,2023-03-29,Registro y control - Soporte Académico,2,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-29 12:10:48.957
+1243,67272,2023-03-27,2023-03-27,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-03-27 16:38:59.003
+1244,67272,2023-03-27,2023-03-29,Registro y control - Soporte Académico,2,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-29 12:16:43.793
+1245,67276,2023-03-27,2023-03-27,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-03-27 16:39:19.973
+1246,67276,2023-03-27,2023-03-29,Registro y control - Soporte Académico,2,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-29 12:22:39.290
+1247,67277,2023-03-27,2023-03-27,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-03-27 16:39:27.163
+1248,67277,2023-03-27,2023-03-29,Registro y control - Soporte Académico,2,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-29 12:28:18.603
+1249,67287,2023-03-27,2023-03-29,Registro y control - Soporte Académico,2,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-29 12:35:48.590
+1250,67287,2023-03-27,2023-03-29,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-03-29 12:28:54.153
+1251,67308,2023-03-28,2023-03-29,Registro y control - Soporte Académico,1,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-29 12:40:58.590
+1252,67308,2023-03-28,2023-03-29,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-03-29 12:29:02.653
+1253,67317,2023-03-28,2023-03-29,Registro y control - Soporte Académico,1,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-03-29 12:29:19.187
+1254,67317,2023-03-28,2023-03-29,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-29 12:47:12.603
+1255,67330,2023-03-28,2023-03-29,Registro y control - Soporte Académico,1,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-29 12:52:23.103
+1256,67330,2023-03-28,2023-03-29,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-03-29 12:29:30.420
+1257,67333,2023-03-28,2023-03-29,Registro y control - Soporte Académico,1,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-29 12:57:29.037
+1258,67333,2023-03-28,2023-03-29,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-03-29 12:29:38.623
+1259,67363,2023-03-29,2023-03-29,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-03-29 12:29:46.477
+1260,67363,2023-03-29,2023-03-29,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-29 13:04:01.557
+1261,67364,2023-03-29,2023-03-29,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-03-29 12:29:55.007
+1262,67364,2023-03-29,2023-03-29,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-29 14:20:00.167
+1263,67366,2023-03-29,2023-03-29,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-29 14:26:26.090
+1264,67366,2023-03-29,2023-03-29,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-03-29 12:30:02.960
+1265,67381,2023-03-29,2023-03-29,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-29 14:31:52.387
+1266,67381,2023-03-29,2023-03-29,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-03-29 12:30:10.203
+1267,67383,2023-03-29,2023-03-29,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-29 14:37:31.843
+1268,67383,2023-03-29,2023-03-29,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-03-29 12:30:17.860
+1269,67385,2023-03-29,2023-03-29,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-03-29 12:30:24.973
+1270,67385,2023-03-29,2023-03-29,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-29 14:43:09.323
+1271,67389,2023-03-29,2023-03-29,Registro y control - Soporte Académico,0,Rechazada,Osorio Morales Paola Jimena,En Proceso,2023-03-29 12:30:32.533
+1272,67389,2023-03-29,2023-03-29,Registro y control - Soporte Académico,0,Rechazada,Osorio Morales Paola Jimena,Rechazada,2023-03-29 14:46:29.353
+1273,67399,2023-03-29,2023-03-29,Registro y control - Soporte Académico,0,Rechazada,Osorio Morales Paola Jimena,En Proceso,2023-03-29 14:46:58.210
+1274,67399,2023-03-29,2023-03-29,Registro y control - Soporte Académico,0,Rechazada,Osorio Morales Paola Jimena,Rechazada,2023-03-29 14:48:57.747
+1275,67400,2023-03-29,2023-03-29,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,Aprobada,2023-03-29 14:55:01.130
+1276,67400,2023-03-29,2023-03-29,Registro y control - Soporte Académico,0,Aprobada,Osorio Morales Paola Jimena,En Proceso,2023-03-29 14:47:06.433
+1277,67410,2023-03-29,2023-03-31,Registro y control - Soporte Académico,2,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-03-31 15:48:56.063
+1278,67410,2023-03-29,2023-04-19,Registro y control - Soporte Académico,19,Aprobada,Rios Rojas Magda Alejandra,Aprobada,2023-04-19 16:18:48.550
+1279,67413,2023-03-29,2023-03-31,Registro y control - Soporte Académico,2,Rechazada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-03-31 15:48:50.360
+1280,67413,2023-03-29,2023-04-21,Registro y control - Soporte Académico,21,Rechazada,Moreno Suarez Julieth Nathaly,Rechazada,2023-04-21 09:44:55.943
+1281,67425,2023-03-29,2023-03-31,Registro y control - Soporte Académico,2,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-03-31 15:48:44.110
+1282,67425,2023-03-29,2023-04-21,Registro y control - Soporte Académico,21,Aprobada,Moreno Suarez Julieth Nathaly,Aprobada,2023-04-21 10:05:19.683
+1283,67457,2023-03-30,2023-03-31,Registro y control - Soporte Académico,1,En Proceso,Bernal Bejarano Nelcy Rocio,En Proceso,2023-03-31 15:48:37.733
+1284,67472,2023-03-30,2023-03-31,Registro y control - Soporte Académico,1,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-03-31 15:48:31.673
+1285,67472,2023-03-30,2023-04-21,Registro y control - Soporte Académico,21,Aprobada,Moreno Suarez Julieth Nathaly,Aprobada,2023-04-21 10:49:25.423
+1286,67477,2023-03-30,2023-03-31,Registro y control - Soporte Académico,1,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-03-31 15:48:25.470
+1287,67477,2023-03-30,2023-04-21,Registro y control - Soporte Académico,21,Aprobada,Moreno Suarez Julieth Nathaly,Aprobada,2023-04-21 11:21:48.383
+1288,67482,2023-03-30,2023-03-31,Registro y control - Soporte Académico,1,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-03-31 15:48:15.470
+1289,67482,2023-03-30,2023-04-21,Registro y control - Soporte Académico,21,Aprobada,Moreno Suarez Julieth Nathaly,Aprobada,2023-04-21 11:52:46.053
+1290,67491,2023-03-30,2023-03-31,Registro y control - Soporte Académico,1,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-03-31 15:48:07.080
+1291,67491,2023-03-30,2023-04-18,Registro y control - Soporte Académico,18,Aprobada,Blanco Guerrero Jhoan Fernando,Aprobada,2023-04-18 12:57:34.993
+1292,67510,2023-03-31,2023-03-31,Registro y control - Soporte Académico,0,En Proceso,Bernal Bejarano Nelcy Rocio,En Proceso,2023-03-31 15:48:00.720
+1293,67512,2023-03-31,2023-03-31,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-03-31 15:47:53.220
+1294,67512,2023-03-31,2023-04-21,Registro y control - Soporte Académico,21,Aprobada,Moreno Suarez Julieth Nathaly,Aprobada,2023-04-21 12:40:23.707
+1295,67514,2023-03-31,2023-03-31,Registro y control - Soporte Académico,0,Rechazada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-03-31 15:47:45.970
+1296,67514,2023-03-31,2023-04-21,Registro y control - Soporte Académico,21,Rechazada,Moreno Suarez Julieth Nathaly,Rechazada,2023-04-21 12:47:14.293
+1297,67539,2023-03-31,2023-03-31,Registro y control - Soporte Académico,0,Aprobada,Bernal Bejarano Nelcy Rocio,En Proceso,2023-03-31 15:47:37.953
+1298,67539,2023-03-31,2023-04-21,Registro y control - Soporte Académico,21,Aprobada,Moreno Suarez Julieth Nathaly,Aprobada,2023-04-21 12:58:20.830
+1299,67542,2023-03-31,2023-04-21,Registro y control - Soporte Académico,21,Aprobada,Moreno Suarez Julieth Nathaly,Aprobada,2023-04-21 13:16:31.860
+1300,67544,2023-03-31,2023-04-21,Registro y control - Soporte Académico,21,Aprobada,Moreno Suarez Julieth Nathaly,Aprobada,2023-04-21 14:31:45.747
+1301,67547,2023-03-31,2023-04-21,Registro y control - Soporte Académico,21,Aprobada,Moreno Suarez Julieth Nathaly,Aprobada,2023-04-21 14:55:11.970
+1302,67567,2023-04-01,2023-04-21,Registro y control - Soporte Académico,20,Aprobada,Moreno Suarez Julieth Nathaly,Aprobada,2023-04-21 15:09:31.287
+1303,67597,2023-04-03,2023-04-21,Registro y control - Soporte Académico,18,Aprobada,Moreno Suarez Julieth Nathaly,Aprobada,2023-04-21 15:19:57.030
+1304,67600,2023-04-03,2023-04-21,Registro y control - Soporte Académico,18,Aprobada,Moreno Suarez Julieth Nathaly,Aprobada,2023-04-21 15:36:05.940
+1305,67604,2023-04-03,2023-04-21,Registro y control - Soporte Académico,18,Rechazada,Moreno Suarez Julieth Nathaly,Rechazada,2023-04-21 17:35:16.647
+1306,67605,2023-04-03,2023-04-21,Registro y control - Soporte Académico,18,Aprobada,Moreno Suarez Julieth Nathaly,Aprobada,2023-04-21 15:52:41.440
+1307,67615,2023-04-03,2023-04-21,Registro y control - Soporte Académico,18,Aprobada,Moreno Suarez Julieth Nathaly,Aprobada,2023-04-21 16:15:12.263
+1308,67621,2023-04-03,2023-04-17,Registro y control - Soporte Académico,14,Aprobada,Blanco Guerrero Jhoan Fernando,Aprobada,2023-04-17 09:16:30.447
+1309,67622,2023-04-03,2023-04-21,Registro y control - Soporte Académico,18,Aprobada,Moreno Suarez Julieth Nathaly,Aprobada,2023-04-21 16:36:32.893
+1310,67623,2023-04-03,2023-04-21,Registro y control - Soporte Académico,18,Rechazada,Moreno Suarez Julieth Nathaly,Rechazada,2023-04-21 16:39:04.387
+1311,67625,2023-04-03,2023-04-21,Registro y control - Soporte Académico,18,Aprobada,Moreno Suarez Julieth Nathaly,Aprobada,2023-04-21 16:49:20.023
+1312,67647,2023-04-04,2023-04-21,Registro y control - Soporte Académico,17,Rechazada,Moreno Suarez Julieth Nathaly,Rechazada,2023-04-21 17:38:03.513
+1313,67648,2023-04-04,2023-04-21,Registro y control - Soporte Académico,17,Aprobada,Moreno Suarez Julieth Nathaly,Aprobada,2023-04-21 17:05:25.690
+1314,67650,2023-04-04,2023-04-21,Registro y control - Soporte Académico,17,Rechazada,Moreno Suarez Julieth Nathaly,Rechazada,2023-04-21 17:39:49.313
+1315,67651,2023-04-04,2023-04-21,Registro y control - Soporte Académico,17,Aprobada,Moreno Suarez Julieth Nathaly,Aprobada,2023-04-21 17:17:42.570
+1316,67655,2023-04-04,2023-04-21,Registro y control - Soporte Académico,17,Aprobada,Moreno Suarez Julieth Nathaly,Aprobada,2023-04-21 17:33:40.143
+1317,67676,2023-04-04,2023-04-21,Registro y control - Soporte Académico,17,Aprobada,Rios Rojas Magda Alejandra,En Proceso,2023-04-21 11:49:01.060
+1318,67676,2023-04-04,2023-04-21,Registro y control - Soporte Académico,0,Aprobada,Rios Rojas Magda Alejandra,Aprobada,2023-04-21 11:52:40.483
+1319,67678,2023-04-04,2023-04-21,,17,Pendiente,,,
+1320,67697,2023-04-04,2023-04-21,,17,Pendiente,,,
+1321,67699,2023-04-05,2023-04-21,,16,Pendiente,,,
+1322,67710,2023-04-05,2023-04-21,,16,Pendiente,,,
+1323,67711,2023-04-05,2023-04-21,,16,Pendiente,,,
+1324,67712,2023-04-05,2023-04-21,,16,Pendiente,,,
+1325,67716,2023-04-05,2023-04-21,,16,Pendiente,,,
+1326,67718,2023-04-05,2023-04-21,Registro y control - Soporte Académico,16,Aprobada,Rios Rojas Magda Alejandra,En Proceso,2023-04-21 11:07:16.783
+1327,67718,2023-04-05,2023-04-21,Registro y control - Soporte Académico,0,Aprobada,Rios Rojas Magda Alejandra,Aprobada,2023-04-21 11:10:56.557
+1328,67720,2023-04-05,2023-04-21,Registro y control - Soporte Académico,16,Aprobada,Rios Rojas Magda Alejandra,En Proceso,2023-04-21 11:15:28.450
+1329,67720,2023-04-05,2023-04-21,Registro y control - Soporte Académico,0,Aprobada,Rios Rojas Magda Alejandra,Aprobada,2023-04-21 11:18:30.960
+1330,67723,2023-04-05,2023-04-21,,16,Pendiente,,,
+1331,67726,2023-04-05,2023-04-21,,16,Pendiente,,,
+1332,67728,2023-04-05,2023-04-19,Registro y control - Soporte Académico,14,Aprobada,Blanco Guerrero Jhoan Fernando,Aprobada,2023-04-19 10:57:27.473
+1333,67729,2023-04-05,2023-04-21,,16,Pendiente,,,
+1334,67730,2023-04-05,2023-04-21,,16,Pendiente,,,
+1335,67732,2023-04-05,2023-04-21,,16,Pendiente,,,
+1336,67735,2023-04-05,2023-04-21,,16,Pendiente,,,
+1337,67785,2023-04-09,2023-04-21,,12,Pendiente,,,
+1338,67817,2023-04-10,2023-04-21,,11,Pendiente,,,
+1339,67818,2023-04-10,2023-04-21,,11,Pendiente,,,
+1340,67819,2023-04-10,2023-04-21,Registro y control - Soporte Académico,11,Aprobada,Moreno Suarez Julieth Nathaly,Aprobada,2023-04-21 12:07:30.287
+1341,67820,2023-04-10,2023-04-21,Registro y control - Soporte Académico,11,Aprobada,Moreno Suarez Julieth Nathaly,Aprobada,2023-04-21 12:18:08.507
+1342,67832,2023-04-10,2023-04-21,,11,Pendiente,,,
+1343,67855,2023-04-10,2023-04-21,,11,Pendiente,,,
+1344,67856,2023-04-10,2023-04-21,,11,Pendiente,,,
+1345,67859,2023-04-10,2023-04-21,,11,Pendiente,,,
+1346,67861,2023-04-10,2023-04-21,,11,Pendiente,,,
+1347,67882,2023-04-10,2023-04-21,,11,Pendiente,,,
+1348,67883,2023-04-10,2023-04-21,,11,Pendiente,,,
+1349,67975,2023-04-11,2023-04-21,,10,Pendiente,,,
+1350,68023,2023-04-11,2023-04-21,,10,Pendiente,,,
+1351,68044,2023-04-11,2023-04-21,,10,Pendiente,,,
+1352,68052,2023-04-11,2023-04-21,,10,Pendiente,,,
+1353,68061,2023-04-11,2023-04-21,,10,Pendiente,,,
+1354,68101,2023-04-11,2023-04-20,Registro y control - Soporte Académico,9,Aprobada,Rios Rojas Magda Alejandra,Aprobada,2023-04-20 10:40:27.287
+1355,68119,2023-04-12,2023-04-19,Registro y control - Soporte Académico,7,Aprobada,Blanco Guerrero Jhoan Fernando,Aprobada,2023-04-19 10:48:07.543
+1356,68122,2023-04-12,2023-04-21,,9,Pendiente,,,
+1357,68135,2023-04-12,2023-04-21,,9,Pendiente,,,
+1358,68142,2023-04-12,2023-04-21,,9,Pendiente,,,
+1359,68144,2023-04-12,2023-04-21,,9,Pendiente,,,
+1360,68147,2023-04-12,2023-04-21,,9,Pendiente,,,
+1361,68150,2023-04-12,2023-04-21,,9,Pendiente,,,
+1362,68169,2023-04-12,2023-04-21,,9,Pendiente,,,
+1363,68187,2023-04-12,2023-04-21,,9,Pendiente,,,
+1364,68191,2023-04-12,2023-04-21,,9,Pendiente,,,
+1365,68232,2023-04-13,2023-04-21,Registro y control - Soporte Académico,8,Aprobada,Rios Rojas Magda Alejandra,En Proceso,2023-04-21 09:30:31.613
+1366,68232,2023-04-13,2023-04-21,Registro y control - Soporte Académico,0,Aprobada,Rios Rojas Magda Alejandra,Aprobada,2023-04-21 09:31:55.210
+1367,68234,2023-04-13,2023-04-21,Registro y control - Soporte Académico,8,Aprobada,Rios Rojas Magda Alejandra,Aprobada,2023-04-21 09:56:39.877
+1368,68234,2023-04-13,2023-04-21,Registro y control - Soporte Académico,0,Aprobada,Rios Rojas Magda Alejandra,En Proceso,2023-04-21 09:39:53.377
+1369,68269,2023-04-13,2023-04-21,Registro y control - Soporte Académico,8,Aprobada,Rios Rojas Magda Alejandra,Aprobada,2023-04-21 10:18:07.867
+1370,68269,2023-04-13,2023-04-21,Registro y control - Soporte Académico,0,Aprobada,Rios Rojas Magda Alejandra,En Proceso,2023-04-21 10:17:17.800
+1371,68270,2023-04-13,2023-04-21,Registro y control - Soporte Académico,8,Aprobada,Rios Rojas Magda Alejandra,En Proceso,2023-04-21 10:46:54.637
+1372,68270,2023-04-13,2023-04-21,Registro y control - Soporte Académico,0,Aprobada,Rios Rojas Magda Alejandra,Aprobada,2023-04-21 10:47:41.470
+1373,68285,2023-04-13,2023-04-21,Registro y control - Soporte Académico,8,Aprobada,Rios Rojas Magda Alejandra,Aprobada,2023-04-21 12:25:44.987
+1374,68285,2023-04-13,2023-04-21,Registro y control - Soporte Académico,0,Aprobada,Rios Rojas Magda Alejandra,En Proceso,2023-04-21 12:18:46.990
+1375,68290,2023-04-13,2023-04-21,Registro y control - Soporte Académico,8,Aprobada,Rios Rojas Magda Alejandra,En Proceso,2023-04-21 12:26:43.183
+1376,68290,2023-04-13,2023-04-21,Registro y control - Soporte Académico,0,Aprobada,Rios Rojas Magda Alejandra,Aprobada,2023-04-21 12:39:01.447
+1377,68338,2023-04-14,2023-04-21,Registro y control - Soporte Académico,7,Aprobada,Rios Rojas Magda Alejandra,Aprobada,2023-04-21 13:14:37.610
+1378,68338,2023-04-14,2023-04-21,Registro y control - Soporte Académico,0,Aprobada,Rios Rojas Magda Alejandra,En Proceso,2023-04-21 12:49:54.743
+1379,68353,2023-04-14,2023-04-21,Registro y control - Soporte Académico,7,Rechazada,Rios Rojas Magda Alejandra,En Proceso,2023-04-21 14:25:06.463
+1380,68353,2023-04-14,2023-04-21,Registro y control - Soporte Académico,0,Rechazada,Rios Rojas Magda Alejandra,Rechazada,2023-04-21 14:29:17.490
+1381,68357,2023-04-14,2023-04-21,Registro y control - Soporte Académico,7,Aprobada,Rios Rojas Magda Alejandra,En Proceso,2023-04-21 15:09:03.067
+1382,68357,2023-04-14,2023-04-21,Registro y control - Soporte Académico,0,Aprobada,Rios Rojas Magda Alejandra,Aprobada,2023-04-21 15:09:48.783
+1383,68359,2023-04-14,2023-04-21,Registro y control - Soporte Académico,7,Aprobada,Rios Rojas Magda Alejandra,En Proceso,2023-04-21 15:52:12.347
+1384,68359,2023-04-14,2023-04-21,Registro y control - Soporte Académico,0,Aprobada,Rios Rojas Magda Alejandra,Aprobada,2023-04-21 15:53:13.760
+1385,68361,2023-04-14,2023-04-21,Registro y control - Soporte Académico,7,Aprobada,Rios Rojas Magda Alejandra,Aprobada,2023-04-21 16:17:46.660
+1386,68361,2023-04-14,2023-04-21,Registro y control - Soporte Académico,0,Aprobada,Rios Rojas Magda Alejandra,En Proceso,2023-04-21 16:05:44.317
+1387,68371,2023-04-14,2023-04-21,Registro y control - Soporte Académico,7,Aprobada,Rios Rojas Magda Alejandra,Aprobada,2023-04-21 17:20:42.690
+1388,68371,2023-04-14,2023-04-21,Registro y control - Soporte Académico,0,Aprobada,Rios Rojas Magda Alejandra,En Proceso,2023-04-21 16:58:33.837
+1389,68372,2023-04-14,2023-04-21,Registro y control - Soporte Académico,7,Aprobada,Rios Rojas Magda Alejandra,Aprobada,2023-04-21 17:38:57.507
+1390,68372,2023-04-14,2023-04-21,Registro y control - Soporte Académico,0,Aprobada,Rios Rojas Magda Alejandra,En Proceso,2023-04-21 17:38:02.257
+1391,68378,2023-04-14,2023-04-21,Registro y control - Soporte Académico,7,Rechazada,Rios Rojas Magda Alejandra,Rechazada,2023-04-21 17:43:47.380
+1392,68379,2023-04-14,2023-04-21,Registro y control - Soporte Académico,7,En Proceso,Rios Rojas Magda Alejandra,En Proceso,2023-04-21 17:47:37.820
+1393,68392,2023-04-14,2023-04-21,,7,Pendiente,,,
+1394,68416,2023-04-15,2023-04-21,,6,Pendiente,,,
+1395,68506,2023-04-17,2023-04-21,,4,Pendiente,,,
+1396,68515,2023-04-17,2023-04-21,,4,Pendiente,,,
+1397,68529,2023-04-17,2023-04-21,,4,Pendiente,,,
+1398,68531,2023-04-17,2023-04-21,,4,Pendiente,,,
+1399,68546,2023-04-17,2023-04-21,,4,Pendiente,,,
+1400,68576,2023-04-17,2023-04-21,,4,Pendiente,,,
+1401,68583,2023-04-18,2023-04-21,,3,Pendiente,,,
+1402,68589,2023-04-18,2023-04-21,,3,Pendiente,,,
+1403,68596,2023-04-18,2023-04-21,,3,Pendiente,,,
+1404,68597,2023-04-18,2023-04-21,,3,Pendiente,,,
+1405,68601,2023-04-18,2023-04-21,,3,Pendiente,,,
+1406,68602,2023-04-18,2023-04-21,,3,Pendiente,,,
+1407,68612,2023-04-18,2023-04-21,,3,Pendiente,,,
+1408,68616,2023-04-18,2023-04-21,,3,Pendiente,,,
+1409,68620,2023-04-18,2023-04-21,,3,Pendiente,,,
+1410,68623,2023-04-18,2023-04-21,,3,Pendiente,,,
+1411,68634,2023-04-18,2023-04-21,,3,Pendiente,,,
+1412,68637,2023-04-18,2023-04-21,,3,Pendiente,,,
+1413,68642,2023-04-18,2023-04-21,,3,Pendiente,,,
+1414,68654,2023-04-18,2023-04-21,,3,Pendiente,,,
+1415,68661,2023-04-19,2023-04-21,,2,Pendiente,,,
+1416,68662,2023-04-19,2023-04-21,,2,Pendiente,,,
+1417,68663,2023-04-19,2023-04-21,,2,Pendiente,,,
+1418,68666,2023-04-19,2023-04-21,,2,Pendiente,,,
+1419,68672,2023-04-19,2023-04-21,,2,Pendiente,,,
+1420,68673,2023-04-19,2023-04-21,,2,Pendiente,,,
+1421,68680,2023-04-19,2023-04-21,,2,Pendiente,,,
+1422,68684,2023-04-19,2023-04-21,,2,Pendiente,,,
+1423,68692,2023-04-19,2023-04-21,,2,Pendiente,,,
+1424,68694,2023-04-19,2023-04-21,,2,Pendiente,,,
+1425,68701,2023-04-19,2023-04-21,,2,Pendiente,,,
+1426,68704,2023-04-19,2023-04-21,,2,Pendiente,,,
+1427,68705,2023-04-19,2023-04-21,,2,Pendiente,,,
+1428,68709,2023-04-19,2023-04-21,,2,Pendiente,,,
+1429,68712,2023-04-19,2023-04-21,,2,Pendiente,,,
+1430,68713,2023-04-19,2023-04-21,,2,Pendiente,,,
+1431,68714,2023-04-19,2023-04-21,,2,Pendiente,,,
+1432,68722,2023-04-19,2023-04-21,,2,Pendiente,,,
+1433,68723,2023-04-19,2023-04-21,,2,Pendiente,,,
+1434,68741,2023-04-20,2023-04-21,,1,Pendiente,,,
+1435,68761,2023-04-20,2023-04-21,,1,Pendiente,,,
+1436,68766,2023-04-20,2023-04-21,,1,Pendiente,,,
+1437,68768,2023-04-20,2023-04-21,,1,Pendiente,,,
+1438,68769,2023-04-20,2023-04-21,,1,Pendiente,,,
+1439,68776,2023-04-20,2023-04-21,,1,Pendiente,,,
+1440,68780,2023-04-20,2023-04-21,,1,Pendiente,,,
+1441,68785,2023-04-20,2023-04-21,,1,Pendiente,,,
+1442,68786,2023-04-20,2023-04-21,,1,Pendiente,,,
+1443,68791,2023-04-20,2023-04-21,Registro y control - Soporte Académico,1,Aprobada,Vallejo Prada Deisy Jojana,Aprobada,2023-04-21 16:45:26.883
+1444,68804,2023-04-20,2023-04-21,Registro y control - Soporte Académico,1,Aprobada,Vallejo Prada Deisy Jojana,Aprobada,2023-04-21 15:51:09.783
+1445,68817,2023-04-21,2023-04-21,Registro y control - Soporte Académico,0,Aprobada,Vallejo Prada Deisy Jojana,Aprobada,2023-04-21 15:28:42.850
+1446,68821,2023-04-21,2023-04-21,Registro y control - Soporte Académico,0,Aprobada,Vallejo Prada Deisy Jojana,Aprobada,2023-04-21 14:59:22.547
+1447,68823,2023-04-21,2023-04-21,Registro y control - Soporte Académico,0,Aprobada,Vallejo Prada Deisy Jojana,Aprobada,2023-04-21 14:58:14.727
+1448,68834,2023-04-21,2023-04-21,,0,Pendiente,,,
+1449,68853,2023-04-21,2023-04-21,,0,Pendiente,,,
+1450,68859,2023-04-21,2023-04-21,,0,Pendiente,,,
+1451,68869,2023-04-21,2023-04-21,,0,Pendiente,,,
+1452,68871,2023-04-21,2023-04-21,,0,Pendiente,,,
+1453,68877,2023-04-21,2023-04-21,,0,Pendiente,,,
+1454,68879,2023-04-21,2023-04-21,,0,Pendiente,,,
+1455,68882,2023-04-21,2023-04-21,,0,Pendiente,,,
+1456,68883,2023-04-21,2023-04-21,,0,Pendiente,,,
